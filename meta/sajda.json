@@ -1,0 +1,77 @@
+[
+	{
+		"id": 1,
+		"number": 1160,
+		"type": "recommended"
+	},
+	{
+		"id": 2,
+		"number": 1722,
+		"type": "recommended"
+	},
+	{
+		"id": 3,
+		"number": 1951,
+		"type": "recommended"
+	},
+	{
+		"id": 4,
+		"number": 2138,
+		"type": "recommended"
+	},
+	{
+		"id": 5,
+		"number": 2308,
+		"type": "recommended"
+	},
+	{
+		"id": 6,
+		"number": 2613,
+		"type": "recommended"
+	},
+	{
+		"id": 7,
+		"number": 2672,
+		"type": "recommended"
+	},
+	{
+		"id": 8,
+		"number": 2915,
+		"type": "recommended"
+	},
+	{
+		"id": 9,
+		"number": 3185,
+		"type": "recommended"
+	},
+	{
+		"id": 10,
+		"number": 3518,
+		"type": "obligatory"
+	},
+	{
+		"id": 11,
+		"number": 3994,
+		"type": "recommended"
+	},
+	{
+		"id": 12,
+		"number": 4256,
+		"type": "obligatory"
+	},
+	{
+		"id": 13,
+		"number": 4846,
+		"type": "obligatory"
+	},
+	{
+		"id": 14,
+		"number": 5905,
+		"type": "recommended"
+	},
+	{
+		"id": 15,
+		"number": 6125,
+		"type": "obligatory"
+	}
+]
