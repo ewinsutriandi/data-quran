@@ -74,161 +74,161 @@
 		"Language": "Bengali",
 		"Name": "জহুরুল হক",
 		"Translator": "Zohurul Hoque",
-		"LastUpdate": "2013-07-19 11:37:38"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "bs.korkut",
 		"Language": "Bosnian",
 		"Name": "Korkut",
 		"Translator": "Besim Korkut",
-		"LastUpdate": "2013-06-01 04:00:02"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "bs.mlivo",
 		"Language": "Bosnian",
 		"Name": "Mlivo",
 		"Translator": "Mustafa Mlivo",
-		"LastUpdate": "2010-09-14 04:38:47"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "bg.theophanov",
 		"Language": "Bulgarian",
 		"Name": "Теофанов",
 		"Translator": "Tzvetan Theophanov",
-		"LastUpdate": "2014-09-01 04:00:01"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "zh.jian",
 		"Language": "Chinese",
 		"Name": "Ma Jian",
 		"Translator": "Ma Jian",
-		"LastUpdate": "2011-04-01 04:00:02"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "zh.majian",
 		"Language": "Chinese",
 		"Name": "Ma Jian (Traditional)",
 		"Translator": "Ma Jian",
-		"LastUpdate": "2011-01-08 04:06:59"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "cs.hrbek",
 		"Language": "Czech",
 		"Name": "Hrbek",
 		"Translator": "Preklad I. Hrbek",
-		"LastUpdate": "2010-09-14 04:38:47"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "cs.nykl",
 		"Language": "Czech",
 		"Name": "Nykl",
 		"Translator": "A. R. Nykl",
-		"LastUpdate": "2010-09-14 04:38:47"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "dv.divehi",
 		"Language": "Divehi",
 		"Name": "ދިވެހި",
 		"Translator": "Office of the President of Maldives",
-		"LastUpdate": "2011-03-02 21:21:37"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "nl.keyzer",
 		"Language": "Dutch",
 		"Name": "Keyzer",
 		"Translator": "Salomo Keyzer",
-		"LastUpdate": "2010-06-04 23:56:23"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "nl.leemhuis",
 		"Language": "Dutch",
 		"Name": "Leemhuis",
 		"Translator": "Fred Leemhuis",
-		"LastUpdate": "2012-08-05 17:14:53"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "nl.siregar",
 		"Language": "Dutch",
 		"Name": "Siregar",
 		"Translator": "Sofian S. Siregar",
-		"LastUpdate": "2012-08-05 17:14:53"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "en.ahmedali",
 		"Language": "English",
 		"Name": "Ahmed Ali",
 		"Translator": "Ahmed Ali",
-		"LastUpdate": "2010-09-14 04:38:47"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "en.ahmedraza",
 		"Language": "English",
 		"Name": "Ahmed Raza Khan",
 		"Translator": "Ahmed Raza Khan",
-		"LastUpdate": "2011-08-01 04:00:02"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "en.arberry",
 		"Language": "English",
 		"Name": "Arberry",
 		"Translator": "A. J. Arberry",
-		"LastUpdate": "2011-08-01 04:00:02"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "en.daryabadi",
 		"Language": "English",
 		"Name": "Daryabadi",
 		"Translator": "Abdul Majid Daryabadi",
-		"LastUpdate": "2010-09-14 04:38:47"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "en.hilali",
 		"Language": "English",
 		"Name": "Hilali \u0026 Khan",
 		"Translator": "Muhammad Taqi-ud-Din al-Hilali and Muhammad Muhsin Khan",
-		"LastUpdate": "2011-01-02 09:33:35"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "en.itani",
 		"Language": "English",
 		"Name": "Itani",
 		"Translator": "Talal Itani",
-		"LastUpdate": "2013-07-19 11:37:38"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "en.maududi",
 		"Language": "English",
 		"Name": "Maududi",
 		"Translator": "Abul Ala Maududi",
-		"LastUpdate": "2011-06-01 04:00:01"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "en.mubarakpuri",
 		"Language": "English",
 		"Name": "Mubarakpuri",
 		"Translator": "Safi-ur-Rahman al-Mubarakpuri",
-		"LastUpdate": "2015-06-20 21:51:34"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "en.pickthall",
 		"Language": "English",
 		"Name": "Pickthall",
 		"Translator": "Mohammed Marmaduke William Pickthall",
-		"LastUpdate": "2010-09-14 04:38:47"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "en.qarai",
 		"Language": "English",
 		"Name": "Qarai",
 		"Translator": "Ali Quli Qarai",
-		"LastUpdate": "2013-07-16 18:55:21"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "en.qaribullah",
 		"Language": "English",
 		"Name": "Qaribullah \u0026 Darwish",
 		"Translator": "Hasan al-Fatih Qaribullah and Ahmad Darwish",
-		"LastUpdate": "2010-06-04 23:56:23"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "en.sahih",
@@ -242,552 +242,552 @@
 		"Language": "English",
 		"Name": "Sarwar",
 		"Translator": "Muhammad Sarwar",
-		"LastUpdate": "2012-08-01 04:00:02"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "en.shakir",
 		"Language": "English",
 		"Name": "Shakir",
 		"Translator": "Mohammad Habib Shakir",
-		"LastUpdate": "2010-09-14 04:38:47"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "en.transliteration",
 		"Language": "English",
 		"Name": "Transliteration",
 		"Translator": "English Transliteration",
-		"LastUpdate": "2010-09-14 04:38:47"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "en.wahiduddin",
 		"Language": "English",
 		"Name": "Wahiduddin Khan",
 		"Translator": "Wahiduddin Khan",
-		"LastUpdate": "2011-08-25 13:06:08"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "en.yusufali",
 		"Language": "English",
 		"Name": "Yusuf Ali",
 		"Translator": "Abdullah Yusuf Ali",
-		"LastUpdate": "2013-06-01 04:00:02"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "fr.hamidullah",
 		"Language": "French",
 		"Name": "Hamidullah",
 		"Translator": "Muhammad Hamidullah",
-		"LastUpdate": "2011-08-01 04:00:02"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "de.aburida",
 		"Language": "German",
 		"Name": "Abu Rida",
 		"Translator": "Abu Rida Muhammad ibn Ahmad ibn Rassoul",
-		"LastUpdate": "2011-08-19 11:27:00"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "de.bubenheim",
 		"Language": "German",
 		"Name": "Bubenheim \u0026 Elyas",
 		"Translator": "A. S. F. Bubenheim and N. Elyas",
-		"LastUpdate": "2011-08-01 04:00:02"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "de.khoury",
 		"Language": "German",
 		"Name": "Khoury",
 		"Translator": "Adel Theodor Khoury",
-		"LastUpdate": "2010-09-14 04:38:47"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "de.zaidan",
 		"Language": "German",
 		"Name": "Zaidan",
 		"Translator": "Amir Zaidan",
-		"LastUpdate": "2010-06-04 23:56:23"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "ha.gumi",
 		"Language": "Hausa",
 		"Name": "Gumi",
 		"Translator": "Abubakar Mahmoud Gumi",
-		"LastUpdate": "2010-09-14 04:38:47"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "hi.farooq",
 		"Language": "Hindi",
 		"Name": "फ़ारूक़ ख़ान \u0026 अहमद",
 		"Translator": "Muhammad Farooq Khan and Muhammad Ahmed",
-		"LastUpdate": "2011-04-01 04:00:02"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "hi.hindi",
 		"Language": "Hindi",
 		"Name": "फ़ारूक़ ख़ान \u0026 नदवी",
 		"Translator": "Suhel Farooq Khan and Saifur Rahman Nadwi",
-		"LastUpdate": "2011-01-12 06:38:59"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "id.indonesian",
 		"Language": "Indonesian",
 		"Name": "Bahasa Indonesia",
 		"Translator": "Indonesian Ministry of Religious Affairs",
-		"LastUpdate": "2010-06-04 23:56:23"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "id.jalalayn",
 		"Language": "Indonesian",
 		"Name": "Tafsir Jalalayn",
 		"Translator": "Jalal ad-Din al-Mahalli and Jalal ad-Din as-Suyuti",
-		"LastUpdate": "2012-07-28 02:10:55"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "id.muntakhab",
 		"Language": "Indonesian",
 		"Name": "Quraish Shihab",
 		"Translator": "Muhammad Quraish Shihab et al.",
-		"LastUpdate": "2011-04-28 05:10:43"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "it.piccardo",
 		"Language": "Italian",
 		"Name": "Piccardo",
 		"Translator": "Hamza Roberto Piccardo",
-		"LastUpdate": "2011-01-02 09:33:35"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "ja.japanese",
 		"Language": "Japanese",
 		"Name": "Japanese",
 		"Translator": "Unknown",
-		"LastUpdate": "2010-06-04 23:54:20"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "ko.korean",
 		"Language": "Korean",
 		"Name": "Korean",
 		"Translator": "Unknown",
-		"LastUpdate": "2011-08-01 04:00:02"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "ku.asan",
 		"Language": "Kurdish",
 		"Name": "ته‌فسیری ئاسان",
 		"Translator": "Burhan Muhammad-Amin",
-		"LastUpdate": "2010-09-14 04:38:47"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "ms.basmeih",
 		"Language": "Malay",
 		"Name": "Basmeih",
 		"Translator": "Abdullah Muhammad Basmeih",
-		"LastUpdate": "2012-10-01 04:00:02"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "ml.abdulhameed",
 		"Language": "Malayalam",
 		"Name": "അബ്ദുല്‍ ഹമീദ് \u0026 പറപ്പൂര്‍",
 		"Translator": "Cheriyamundam Abdul Hameed and Kunhi Mohammed Parappoor",
-		"LastUpdate": "2012-05-01 04:00:01"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "ml.karakunnu",
 		"Language": "Malayalam",
 		"Name": "കാരകുന്ന് \u0026 എളയാവൂര്",
 		"Translator": "Muhammad Karakunnu and Vanidas Elayavoor",
-		"LastUpdate": "2012-05-01 04:00:01"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "no.berg",
 		"Language": "Norwegian",
 		"Name": "Einar Berg",
 		"Translator": "Einar Berg",
-		"LastUpdate": "2010-06-04 23:56:23"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "ps.abdulwali",
 		"Language": "Pashto",
 		"Name": "عبدالولي",
 		"Translator": "Abdulwali Khan",
-		"LastUpdate": "2016-07-01 04:00:01"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "fa.ansarian",
 		"Language": "Persian",
 		"Name": "انصاریان",
 		"Translator": "Hussain Ansarian",
-		"LastUpdate": "2011-08-01 04:00:02"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "fa.ayati",
 		"Language": "Persian",
 		"Name": "آیتی",
 		"Translator": "AbdolMohammad Ayati",
-		"LastUpdate": "2012-09-01 04:00:02"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "fa.bahrampour",
 		"Language": "Persian",
 		"Name": "بهرام پور",
 		"Translator": "Abolfazl Bahrampour",
-		"LastUpdate": "2011-04-14 10:09:03"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "fa.fooladvand",
 		"Language": "Persian",
 		"Name": "فولادوند",
 		"Translator": "Mohammad Mahdi Fooladvand",
-		"LastUpdate": "2011-07-01 04:00:01"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "fa.gharaati",
 		"Language": "Persian",
 		"Name": "قرائتی",
 		"Translator": "Mohsen Gharaati",
-		"LastUpdate": "2017-12-31 12:12:07"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "fa.ghomshei",
 		"Language": "Persian",
 		"Name": "الهی قمشه‌ای",
 		"Translator": "Mahdi Elahi Ghomshei",
-		"LastUpdate": "2011-08-01 04:00:02"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "fa.khorramdel",
 		"Language": "Persian",
 		"Name": "خرمدل",
 		"Translator": "Mostafa Khorramdel",
-		"LastUpdate": "2011-03-19 20:35:53"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "fa.khorramshahi",
 		"Language": "Persian",
 		"Name": "خرمشاهی",
 		"Translator": "Baha'oddin Khorramshahi",
-		"LastUpdate": "2012-07-27 23:20:01"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "fa.makarem",
 		"Language": "Persian",
 		"Name": "مکارم شیرازی",
 		"Translator": "Naser Makarem Shirazi",
-		"LastUpdate": "2014-02-01 05:00:02"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "fa.moezzi",
 		"Language": "Persian",
 		"Name": "معزی",
 		"Translator": "Mohammad Kazem Moezzi",
-		"LastUpdate": "2010-09-14 04:38:47"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "fa.mojtabavi",
 		"Language": "Persian",
 		"Name": "مجتبوی",
 		"Translator": "Sayyed Jalaloddin Mojtabavi",
-		"LastUpdate": "2012-05-01 04:00:01"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "fa.sadeqi",
 		"Language": "Persian",
 		"Name": "صادقی تهرانی",
 		"Translator": "Mohammad Sadeqi Tehrani",
-		"LastUpdate": "2011-09-01 04:00:01"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "pl.bielawskiego",
 		"Language": "Polish",
 		"Name": "Bielawskiego",
 		"Translator": "Józefa Bielawskiego",
-		"LastUpdate": "2010-09-14 04:38:47"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "pt.elhayek",
 		"Language": "Portuguese",
 		"Name": "El-Hayek",
 		"Translator": "Samir El-Hayek",
-		"LastUpdate": "2010-06-04 23:56:23"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "ro.grigore",
 		"Language": "Romanian",
 		"Name": "Grigore",
 		"Translator": "George Grigore",
-		"LastUpdate": "2010-09-14 04:38:47"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "ru.abuadel",
 		"Language": "Russian",
 		"Name": "Абу Адель",
 		"Translator": "Abu Adel",
-		"LastUpdate": "2010-09-16 02:26:15"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "ru.krachkovsky",
 		"Language": "Russian",
 		"Name": "Крачковский",
 		"Translator": "Ignaty Yulianovich Krachkovsky",
-		"LastUpdate": "2010-09-20 05:33:44"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "ru.kuliev",
 		"Language": "Russian",
 		"Name": "Кулиев",
 		"Translator": "Elmir Kuliev",
-		"LastUpdate": "2011-06-01 04:00:01"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "ru.kuliev-alsaadi",
 		"Language": "Russian",
 		"Name": "Кулиев + ас-Саади",
 		"Translator": "Elmir Kuliev (with Abd ar-Rahman as-Saadi's commentaries)",
-		"LastUpdate": "2010-10-04 06:30:28"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "ru.muntahab",
 		"Language": "Russian",
 		"Name": "Аль-Мунтахаб",
 		"Translator": "Ministry of Awqaf, Egypt",
-		"LastUpdate": "2011-06-01 04:00:01"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "ru.osmanov",
 		"Language": "Russian",
 		"Name": "Османов",
 		"Translator": "Magomed-Nuri Osmanovich Osmanov",
-		"LastUpdate": "2010-09-14 04:38:47"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "ru.porokhova",
 		"Language": "Russian",
 		"Name": "Порохова",
 		"Translator": "V. Porokhova",
-		"LastUpdate": "2010-09-14 04:38:47"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "ru.sablukov",
 		"Language": "Russian",
 		"Name": "Саблуков",
 		"Translator": "Gordy Semyonovich Sablukov",
-		"LastUpdate": "2010-10-04 06:30:28"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "sd.amroti",
 		"Language": "Sindhi",
 		"Name": "امروٽي",
 		"Translator": "Taj Mehmood Amroti",
-		"LastUpdate": "2012-05-01 04:00:01"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "so.abduh",
 		"Language": "Somali",
 		"Name": "Abduh",
 		"Translator": "Mahmud Muhammad Abduh",
-		"LastUpdate": "2010-09-14 04:38:47"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "es.bornez",
 		"Language": "Spanish",
 		"Name": "Bornez",
 		"Translator": "Raúl González Bórnez",
-		"LastUpdate": "2014-07-15 18:04:37"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "es.cortes",
 		"Language": "Spanish",
 		"Name": "Cortes",
 		"Translator": "Julio Cortes",
-		"LastUpdate": "2014-09-01 04:00:01"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "es.garcia",
 		"Language": "Spanish",
 		"Name": "Garcia",
 		"Translator": "Muhammad Isa García",
-		"LastUpdate": "2014-07-15 18:04:37"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "sw.barwani",
 		"Language": "Swahili",
 		"Name": "Al-Barwani",
 		"Translator": "Ali Muhsin Al-Barwani",
-		"LastUpdate": "2010-09-14 04:38:47"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "sv.bernstrom",
 		"Language": "Swedish",
 		"Name": "Bernström",
 		"Translator": "Knut Bernström",
-		"LastUpdate": "2012-08-01 04:00:02"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "tg.ayati",
 		"Language": "Tajik",
 		"Name": "Оятӣ",
 		"Translator": "AbdolMohammad Ayati",
-		"LastUpdate": "2010-09-14 04:38:47"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "ta.tamil",
 		"Language": "Tamil",
 		"Name": "ஜான் டிரஸ்ட்",
 		"Translator": "Jan Turst Foundation",
-		"LastUpdate": "2010-09-14 04:38:47"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "tt.nugman",
 		"Language": "Tatar",
 		"Name": "Yakub Ibn Nugman",
 		"Translator": "Yakub Ibn Nugman",
-		"LastUpdate": "2010-09-14 04:38:47"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "th.thai",
 		"Language": "Thai",
 		"Name": "ภาษาไทย",
 		"Translator": "King Fahad Quran Complex",
-		"LastUpdate": "2011-11-01 04:00:02"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "tr.ates",
 		"Language": "Turkish",
 		"Name": "Süleyman Ateş",
 		"Translator": "Suleyman Ates",
-		"LastUpdate": "2010-06-04 23:56:23"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "tr.bulac",
 		"Language": "Turkish",
 		"Name": "Alİ Bulaç",
 		"Translator": "Alİ Bulaç",
-		"LastUpdate": "2010-09-14 04:38:47"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "tr.diyanet",
 		"Language": "Turkish",
 		"Name": "Diyanet İşleri",
 		"Translator": "Diyanet Isleri",
-		"LastUpdate": "2012-01-01 05:00:01"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "tr.golpinarli",
 		"Language": "Turkish",
 		"Name": "Abdulbakî Gölpınarlı",
 		"Translator": "Abdulbaki Golpinarli",
-		"LastUpdate": "2010-06-04 23:54:20"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "tr.ozturk",
 		"Language": "Turkish",
 		"Name": "Öztürk",
 		"Translator": "Yasar Nuri Ozturk",
-		"LastUpdate": "2010-06-04 23:56:23"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "tr.transliteration",
 		"Language": "Turkish",
 		"Name": "Çeviriyazı",
 		"Translator": "Muhammet Abay",
-		"LastUpdate": "2010-09-16 02:26:15"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "tr.vakfi",
 		"Language": "Turkish",
 		"Name": "Diyanet Vakfı",
 		"Translator": "Diyanet Vakfi",
-		"LastUpdate": "2010-06-05 00:00:03"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "tr.yazir",
 		"Language": "Turkish",
 		"Name": "Elmalılı Hamdi Yazır",
 		"Translator": "Elmalili Hamdi Yazir",
-		"LastUpdate": "2010-06-05 00:00:03"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "tr.yildirim",
 		"Language": "Turkish",
 		"Name": "Suat Yıldırım",
 		"Translator": "Suat Yildirim",
-		"LastUpdate": "2010-06-05 00:00:03"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "tr.yuksel",
 		"Language": "Turkish",
 		"Name": "Edip Yüksel",
 		"Translator": "Edip Yüksel",
-		"LastUpdate": "2010-06-04 23:56:23"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "ur.ahmedali",
 		"Language": "Urdu",
 		"Name": "احمد علی",
 		"Translator": "Ahmed Ali",
-		"LastUpdate": "2010-09-14 04:38:47"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "ur.jalandhry",
 		"Language": "Urdu",
 		"Name": "جالندہری",
 		"Translator": "Fateh Muhammad Jalandhry",
-		"LastUpdate": "2011-01-02 09:33:35"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "ur.jawadi",
 		"Language": "Urdu",
 		"Name": "علامہ جوادی",
 		"Translator": "Syed Zeeshan Haider Jawadi",
-		"LastUpdate": "2011-01-02 09:33:35"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "ur.junagarhi",
 		"Language": "Urdu",
 		"Name": "محمد جوناگڑھی",
 		"Translator": "Muhammad Junagarhi",
-		"LastUpdate": "2011-04-25 23:56:51"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "ur.kanzuliman",
 		"Language": "Urdu",
 		"Name": "احمد رضا خان",
 		"Translator": "Ahmed Raza Khan",
-		"LastUpdate": "2011-04-01 04:00:02"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "ur.maududi",
 		"Language": "Urdu",
 		"Name": "ابوالاعلی مودودی",
 		"Translator": "Abul A'ala Maududi",
-		"LastUpdate": "2010-12-01 07:16:03"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "ur.najafi",
 		"Language": "Urdu",
 		"Name": "محمد حسین نجفی",
 		"Translator": "Muhammad Hussain Najafi",
-		"LastUpdate": "2011-08-19 11:27:00"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "ur.qadri",
 		"Language": "Urdu",
 		"Name": "طاہر القادری",
 		"Translator": "Tahir ul Qadri",
-		"LastUpdate": "2010-09-14 04:38:47"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "ug.saleh",
 		"Language": "Uyghur",
 		"Name": "محمد صالح",
 		"Translator": "Muhammad Saleh",
-		"LastUpdate": "2010-06-05 00:00:03"
+		"LastUpdate": "2011-05-01 04:00:01"
 	},
 	{
 		"ID": "uz.sodik",
 		"Language": "Uzbek",
 		"Name": "Мухаммад Содик",
 		"Translator": "Muhammad Sodik Muhammad Yusuf",
-		"LastUpdate": "2011-08-01 04:00:02"
+		"LastUpdate": "2011-05-01 04:00:01"
 	}
 ]

@@ -6,7 +6,7 @@ obviously) to make it easy to use in various programming language.
 
 ## Metadata
 
-Metadata is taken from [Tanzil][tanzil-meta] with minor modification. There are several metadatas available:
+Metadata is taken from [Tanzil][tanzil-meta]. There are several metadatas available:
 
 - Surah, the chapter of the Quran. There are 114 surahs in the Quran, each divided into ayahs (verses).
 - Juz, the division of Quran into 30 parts.
@@ -30,9 +30,12 @@ There are several type of text that available in this database:
 - `uthmani-min`, like `uthmani` but with a minimal number of diacritics and symbols.
 - `indonesia`, Quran text that used as a standard for writing Quran in Indonesia.
 
-All `simple` and `uthmani` text are taken from Tanzil. Unfortunately, their official download 
-[link][tanzil-download] doesn't provide text with pause marks even if you set it otherwise. So, to download
-the complete text with pause marks and sajdah sign, we need to use the unofficial API like this:
+All `simple` and `uthmani` text are taken from Tanzil. The only modification done are removing basmalah
+from beginning of each surah (except for surah Al-Fatiha) since basmalah is not part of ayah.
+
+Unfortunately, their official download [link][tanzil-download] doesn't provide text with pause marks even
+if you set it otherwise. So, to download the complete text with pause marks and sajdah sign, we need to
+use the unofficial API like this:
 
 ```
 curl 'http://tanzil.net/tanzil/php/get-aya.php' \

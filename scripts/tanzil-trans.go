@@ -1,5 +1,3 @@
-// +build ignore
-
 package main
 
 import (
@@ -23,33 +21,19 @@ import (
 )
 
 var (
-	httpClient = http.Client{Timeout: 5 * time.Minute}
 	rxDateTime = regexp.MustCompile(`(?i)\w{3}, \d{1,2} \w{3} \d{4} \d{2}:\d{2}:\d{2} [+-]\d{4}`)
 )
 
-type TranslationData struct {
-	ID         string
-	Language   string
-	Name       string
-	Translator string
-	LastUpdate string
-}
-
-func main() {
-	rootCmd := &cobra.Command{
-		Use:   "go run tanzil-trans.go <dst-dir>",
+func tanzilTransCmd() *cobra.Command {
+	return &cobra.Command{
+		Use:   "tanzil-trans <dst-dir>",
 		Short: "Download Quran translation from Tanzil.net",
 		Args:  cobra.MaximumNArgs(1),
-		Run:   cmdHandler,
-	}
-
-	err := rootCmd.Execute()
-	if err != nil {
-		logrus.Fatalln(err)
+		Run:   tanzilTransCmdHandler,
 	}
 }
 
-func cmdHandler(cmd *cobra.Command, args []string) {
+func tanzilTransCmdHandler(cmd *cobra.Command, args []string) {
 	// Get arguments
 	dstDir := args[0]
 	if dstDir == "" {
@@ -85,8 +69,13 @@ func cmdHandler(cmd *cobra.Command, args []string) {
 			continue
 		}
 
+		transData := struct {
+			Translations []string       `json:"translations"`
+			Footnotes    map[int]string `json:"footnotes"`
+		}{texts, nil}
+
 		dstPath := filepath.Join(dstDir, "tanzil-"+item.ID+".json")
-		err = saveToJSON(&texts, dstPath)
+		err = saveToJSON(&transData, dstPath)
 		if err != nil {
 			logrus.Errorln(err)
 			continue
@@ -101,7 +90,7 @@ func cmdHandler(cmd *cobra.Command, args []string) {
 	}
 }
 
-func getTranslationList() ([]TranslationData, error) {
+func getTranslationList() ([]TanzilTranslationData, error) {
 	// Download translation page
 	resp, err := downloadFile("http://tanzil.net/trans")
 	if err != nil {
@@ -121,7 +110,7 @@ func getTranslationList() ([]TranslationData, error) {
 		return nil, fmt.Errorf("translation list not found")
 	}
 
-	translationList := []TranslationData{}
+	translationList := []TanzilTranslationData{}
 	tableRows := dom.QuerySelectorAll(table, "tr")
 	for _, tr := range tableRows {
 		tds := dom.QuerySelectorAll(tr, "td")
@@ -143,7 +132,7 @@ func getTranslationList() ([]TranslationData, error) {
 		translator = strings.ReplaceAll(translator, "*", "")
 		translator = strings.ReplaceAll(translator, "†", "")
 
-		translationList = append(translationList, TranslationData{
+		translationList = append(translationList, TanzilTranslationData{
 			ID:         id,
 			Language:   strings.TrimSpace(language),
 			Name:       strings.TrimSpace(name),
