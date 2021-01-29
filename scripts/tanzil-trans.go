@@ -157,7 +157,7 @@ func getTranslationList() ([]TanzilTranslationData, error) {
 
 func getTranslationUpdateTime(id string) (time.Time, error) {
 	// Download translation changelog
-	url := "http://tanzil.net/trans/log/" + id
+	url := "http://tanzil.ca/trans/log/" + id
 	resp, err := downloadFile(url)
 	if err != nil {
 		return time.Time{}, err
