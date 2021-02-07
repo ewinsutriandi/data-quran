@@ -52,7 +52,7 @@ extract the SQLite database by using [`innoextract`][innoextract] on the plugin 
 
 ## Translation
 
-There are [148](translation) translations which taken from several sources, mainly [Tanzil][tanzil-trans-download] 
+There are [152](translation) translations which taken from several sources, mainly [Tanzil][tanzil-trans-download] 
 and [QuranEnc][quranenc]. Besides those two sources, there is also translation that taken from
 [Quran Complex][quran-complex] which used for one of the Indonesian translation.
 
@@ -61,14 +61,14 @@ format from CSV into JSON. For the ones that taken from QuranEnc, there some mod
 footnotes have consistent numbering format, because currently they use several variations which differs
 between each translation.
 
-There are several translations from Tanzil and QuranEnc that excluded from this repository because they
-are still incomplete. From Tanzil, these are the excluded translations:
+There are several translations from Tanzil and QuranEnc that incomplete, but still included in this repository
+because they are still useful and could be corrected later. From Tanzil, these are the incomplete translations:
 
-- Feti Mehdiu (Albanian), missing translation for Al-Anbiya (21):56 and Al-Mursilat (77):14
-- Hrbek (Czech), missing for Ar-Rum (30):18, Al-Waqi'a (56):2 and Al-Waqi'a (56):13
-- Burhan Muhammad-Amin (Kurdish), missing for Al-Kautsar (108):3
+- `sq-mehdiu` by Feti Mehdiu (Albanian), missing translation for Al-Anbiya (21):56 and Al-Mursilat (77):14
+- `cs-hrbek` by Preklad I. Hrbek (Czech), missing Ar-Rum (30):18, Al-Waqi'a (56):2 and Al-Waqi'a (56):13
+- `ku-asan` by Burhan Muhammad-Amin (Kurdish), missing Al-Kautsar (108):3
 
-From QuranEnc, Kinyarwanda translation is excluded because it's missing translation for:
+From QuranEnc, Kinyarwanda translation (`rw-assoc`) is incomplete because it's missing translation for:
 
 - Fussilat (41):27
 - Ash-Shura (42):18
