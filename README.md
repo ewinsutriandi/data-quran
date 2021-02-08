@@ -54,7 +54,7 @@ extract the SQLite database by using [`innoextract`][innoextract] on the plugin 
 
 There are [152](translation) translations which taken from several sources, mainly [Tanzil][tanzil-trans-download] 
 and [QuranEnc][quranenc]. Besides those two sources, there is also translation that taken from
-[Quran Complex][quran-complex] which used for one of the Indonesian translation.
+[King Fahd Quran Complex][quran-complex] which used for one of the Indonesian translation.
 
 For the ones that taken from Tanzil, there are zero modification from the original sources except changing
 format from CSV into JSON. For the ones that taken from QuranEnc, there some modifications to make sure all
@@ -78,10 +78,28 @@ From QuranEnc, Kinyarwanda translation (`rw-assoc`) is incomplete because it's m
 - Adh-Dhariyat (51):6
 - Ar-Rahman (55):14
 
+## Word by Word
+
+Word by word data is taken from [Quran WBW][quranwbw]. There are 77,429 words translated into nine languages:
+
+- Bengali
+- English
+- German
+- Hindi
+- Indonesian
+- Ingush
+- Russian
+- Turkish
+- Urdu
+
+From those nine, the translations for Ingush, Russian and Turkish are still incomplete and it seems there are
+wrongly translated words due to incorrect positioning, so use it with care.
+
 [tanzil-meta]: http://tanzil.net/docs/quran_metadata
 [tanzil-text-download]: http://tanzil.net/pub/download/download.htm
 [tanzil-trans-download]: http://tanzil.net/trans/
 [quranenc]: https://quranenc.com/en/home
 [quran-complex]: https://qurancomplex.gov.sa/kfgqpc-quran-translate/
+[quranwbw]: https://quranwbw.com/
 [kemenag-quran]: https://lajnah.kemenag.go.id/unduhan/category/1-qkiw
 [innoextract]: https://constexpr.org/innoextract/
