@@ -1,77 +1,62 @@
-[
-	{
-		"id": 1,
+{
+	"1": {
 		"ayah": 1160,
 		"type": "recommended"
 	},
-	{
-		"id": 2,
+	"2": {
 		"ayah": 1722,
 		"type": "recommended"
 	},
-	{
-		"id": 3,
+	"3": {
 		"ayah": 1951,
 		"type": "recommended"
 	},
-	{
-		"id": 4,
+	"4": {
 		"ayah": 2138,
 		"type": "recommended"
 	},
-	{
-		"id": 5,
+	"5": {
 		"ayah": 2308,
 		"type": "recommended"
 	},
-	{
-		"id": 6,
+	"6": {
 		"ayah": 2613,
 		"type": "recommended"
 	},
-	{
-		"id": 7,
+	"7": {
 		"ayah": 2672,
 		"type": "recommended"
 	},
-	{
-		"id": 8,
+	"8": {
 		"ayah": 2915,
 		"type": "recommended"
 	},
-	{
-		"id": 9,
+	"9": {
 		"ayah": 3185,
 		"type": "recommended"
 	},
-	{
-		"id": 10,
+	"10": {
 		"ayah": 3518,
 		"type": "obligatory"
 	},
-	{
-		"id": 11,
+	"11": {
 		"ayah": 3994,
 		"type": "recommended"
 	},
-	{
-		"id": 12,
+	"12": {
 		"ayah": 4256,
 		"type": "obligatory"
 	},
-	{
-		"id": 13,
+	"13": {
 		"ayah": 4846,
 		"type": "obligatory"
 	},
-	{
-		"id": 14,
+	"14": {
 		"ayah": 5905,
 		"type": "recommended"
 	},
-	{
-		"id": 15,
+	"15": {
 		"ayah": 6125,
 		"type": "obligatory"
 	}
-]
+}

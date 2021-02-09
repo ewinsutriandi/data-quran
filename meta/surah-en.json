@@ -1,574 +1,460 @@
-[
-	{
-		"id": 1,
+{
+	"1": {
 		"name": "Al-Faatiha",
 		"translation": "The Opening"
 	},
-	{
-		"id": 2,
+	"2": {
 		"name": "Al-Baqara",
 		"translation": "The Cow"
 	},
-	{
-		"id": 3,
+	"3": {
 		"name": "Aal-i-Imraan",
 		"translation": "The Family of Imraan"
 	},
-	{
-		"id": 4,
+	"4": {
 		"name": "An-Nisaa",
 		"translation": "The Women"
 	},
-	{
-		"id": 5,
+	"5": {
 		"name": "Al-Maaida",
 		"translation": "The Table"
 	},
-	{
-		"id": 6,
+	"6": {
 		"name": "Al-An'aam",
 		"translation": "The Cattle"
 	},
-	{
-		"id": 7,
+	"7": {
 		"name": "Al-A'raaf",
 		"translation": "The Heights"
 	},
-	{
-		"id": 8,
+	"8": {
 		"name": "Al-Anfaal",
 		"translation": "The Spoils of War"
 	},
-	{
-		"id": 9,
+	"9": {
 		"name": "At-Tawba",
 		"translation": "The Repentance"
 	},
-	{
-		"id": 10,
+	"10": {
 		"name": "Yunus",
 		"translation": "Jonas"
 	},
-	{
-		"id": 11,
+	"11": {
 		"name": "Hud",
 		"translation": "Hud"
 	},
-	{
-		"id": 12,
+	"12": {
 		"name": "Yusuf",
 		"translation": "Joseph"
 	},
-	{
-		"id": 13,
+	"13": {
 		"name": "Ar-Ra'd",
 		"translation": "The Thunder"
 	},
-	{
-		"id": 14,
+	"14": {
 		"name": "Ibrahim",
 		"translation": "Abraham"
 	},
-	{
-		"id": 15,
+	"15": {
 		"name": "Al-Hijr",
 		"translation": "The Rock"
 	},
-	{
-		"id": 16,
+	"16": {
 		"name": "An-Nahl",
 		"translation": "The Bee"
 	},
-	{
-		"id": 17,
+	"17": {
 		"name": "Al-Israa",
 		"translation": "The Night Journey"
 	},
-	{
-		"id": 18,
+	"18": {
 		"name": "Al-Kahf",
 		"translation": "The Cave"
 	},
-	{
-		"id": 19,
+	"19": {
 		"name": "Maryam",
 		"translation": "Mary"
 	},
-	{
-		"id": 20,
+	"20": {
 		"name": "Taa-Haa",
 		"translation": "Taa-Haa"
 	},
-	{
-		"id": 21,
+	"21": {
 		"name": "Al-Anbiyaa",
 		"translation": "The Prophets"
 	},
-	{
-		"id": 22,
+	"22": {
 		"name": "Al-Hajj",
 		"translation": "The Pilgrimage"
 	},
-	{
-		"id": 23,
+	"23": {
 		"name": "Al-Muminoon",
 		"translation": "The Believers"
 	},
-	{
-		"id": 24,
+	"24": {
 		"name": "An-Noor",
 		"translation": "The Light"
 	},
-	{
-		"id": 25,
+	"25": {
 		"name": "Al-Furqaan",
 		"translation": "The Criterion"
 	},
-	{
-		"id": 26,
+	"26": {
 		"name": "Ash-Shu'araa",
 		"translation": "The Poets"
 	},
-	{
-		"id": 27,
+	"27": {
 		"name": "An-Naml",
 		"translation": "The Ant"
 	},
-	{
-		"id": 28,
+	"28": {
 		"name": "Al-Qasas",
 		"translation": "The Stories"
 	},
-	{
-		"id": 29,
+	"29": {
 		"name": "Al-Ankaboot",
 		"translation": "The Spider"
 	},
-	{
-		"id": 30,
+	"30": {
 		"name": "Ar-Room",
 		"translation": "The Romans"
 	},
-	{
-		"id": 31,
+	"31": {
 		"name": "Luqman",
 		"translation": "Luqman"
 	},
-	{
-		"id": 32,
+	"32": {
 		"name": "As-Sajda",
 		"translation": "The Prostration"
 	},
-	{
-		"id": 33,
+	"33": {
 		"name": "Al-Ahzaab",
 		"translation": "The Clans"
 	},
-	{
-		"id": 34,
+	"34": {
 		"name": "Saba",
 		"translation": "Sheba"
 	},
-	{
-		"id": 35,
+	"35": {
 		"name": "Faatir",
 		"translation": "The Originator"
 	},
-	{
-		"id": 36,
+	"36": {
 		"name": "Yaseen",
 		"translation": "Yaseen"
 	},
-	{
-		"id": 37,
+	"37": {
 		"name": "As-Saaffaat",
 		"translation": "Those drawn up in Ranks"
 	},
-	{
-		"id": 38,
+	"38": {
 		"name": "Saad",
 		"translation": "The letter Saad"
 	},
-	{
-		"id": 39,
+	"39": {
 		"name": "Az-Zumar",
 		"translation": "The Groups"
 	},
-	{
-		"id": 40,
+	"40": {
 		"name": "Al-Ghaafir",
 		"translation": "The Forgiver"
 	},
-	{
-		"id": 41,
+	"41": {
 		"name": "Fussilat",
 		"translation": "Explained in detail"
 	},
-	{
-		"id": 42,
+	"42": {
 		"name": "Ash-Shura",
 		"translation": "Consultation"
 	},
-	{
-		"id": 43,
+	"43": {
 		"name": "Az-Zukhruf",
 		"translation": "Ornaments of gold"
 	},
-	{
-		"id": 44,
+	"44": {
 		"name": "Ad-Dukhaan",
 		"translation": "The Smoke"
 	},
-	{
-		"id": 45,
+	"45": {
 		"name": "Al-Jaathiya",
 		"translation": "Crouching"
 	},
-	{
-		"id": 46,
+	"46": {
 		"name": "Al-Ahqaf",
 		"translation": "The Dunes"
 	},
-	{
-		"id": 47,
+	"47": {
 		"name": "Muhammad",
 		"translation": "Muhammad"
 	},
-	{
-		"id": 48,
+	"48": {
 		"name": "Al-Fath",
 		"translation": "The Victory"
 	},
-	{
-		"id": 49,
+	"49": {
 		"name": "Al-Hujuraat",
 		"translation": "The Inner Apartments"
 	},
-	{
-		"id": 50,
+	"50": {
 		"name": "Qaaf",
 		"translation": "The letter Qaaf"
 	},
-	{
-		"id": 51,
+	"51": {
 		"name": "Adh-Dhaariyat",
 		"translation": "The Winnowing Winds"
 	},
-	{
-		"id": 52,
+	"52": {
 		"name": "At-Tur",
 		"translation": "The Mount"
 	},
-	{
-		"id": 53,
+	"53": {
 		"name": "An-Najm",
 		"translation": "The Star"
 	},
-	{
-		"id": 54,
+	"54": {
 		"name": "Al-Qamar",
 		"translation": "The Moon"
 	},
-	{
-		"id": 55,
+	"55": {
 		"name": "Ar-Rahmaan",
 		"translation": "The Beneficent"
 	},
-	{
-		"id": 56,
+	"56": {
 		"name": "Al-Waaqia",
 		"translation": "The Inevitable"
 	},
-	{
-		"id": 57,
+	"57": {
 		"name": "Al-Hadid",
 		"translation": "The Iron"
 	},
-	{
-		"id": 58,
+	"58": {
 		"name": "Al-Mujaadila",
 		"translation": "The Pleading Woman"
 	},
-	{
-		"id": 59,
+	"59": {
 		"name": "Al-Hashr",
 		"translation": "The Exile"
 	},
-	{
-		"id": 60,
+	"60": {
 		"name": "Al-Mumtahana",
 		"translation": "She that is to be examined"
 	},
-	{
-		"id": 61,
+	"61": {
 		"name": "As-Saff",
 		"translation": "The Ranks"
 	},
-	{
-		"id": 62,
+	"62": {
 		"name": "Al-Jumu'a",
 		"translation": "Friday"
 	},
-	{
-		"id": 63,
+	"63": {
 		"name": "Al-Munaafiqoon",
 		"translation": "The Hypocrites"
 	},
-	{
-		"id": 64,
+	"64": {
 		"name": "At-Taghaabun",
 		"translation": "Mutual Disillusion"
 	},
-	{
-		"id": 65,
+	"65": {
 		"name": "At-Talaaq",
 		"translation": "Divorce"
 	},
-	{
-		"id": 66,
+	"66": {
 		"name": "At-Tahrim",
 		"translation": "The Prohibition"
 	},
-	{
-		"id": 67,
+	"67": {
 		"name": "Al-Mulk",
 		"translation": "The Sovereignty"
 	},
-	{
-		"id": 68,
+	"68": {
 		"name": "Al-Qalam",
 		"translation": "The Pen"
 	},
-	{
-		"id": 69,
+	"69": {
 		"name": "Al-Haaqqa",
 		"translation": "The Reality"
 	},
-	{
-		"id": 70,
+	"70": {
 		"name": "Al-Ma'aarij",
 		"translation": "The Ascending Stairways"
 	},
-	{
-		"id": 71,
+	"71": {
 		"name": "Nooh",
 		"translation": "Noah"
 	},
-	{
-		"id": 72,
+	"72": {
 		"name": "Al-Jinn",
 		"translation": "The Jinn"
 	},
-	{
-		"id": 73,
+	"73": {
 		"name": "Al-Muzzammil",
 		"translation": "The Enshrouded One"
 	},
-	{
-		"id": 74,
+	"74": {
 		"name": "Al-Muddaththir",
 		"translation": "The Cloaked One"
 	},
-	{
-		"id": 75,
+	"75": {
 		"name": "Al-Qiyaama",
 		"translation": "The Resurrection"
 	},
-	{
-		"id": 76,
+	"76": {
 		"name": "Al-Insaan",
 		"translation": "Man"
 	},
-	{
-		"id": 77,
+	"77": {
 		"name": "Al-Mursalaat",
 		"translation": "The Emissaries"
 	},
-	{
-		"id": 78,
+	"78": {
 		"name": "An-Naba",
 		"translation": "The Announcement"
 	},
-	{
-		"id": 79,
+	"79": {
 		"name": "An-Naazi'aat",
 		"translation": "Those who drag forth"
 	},
-	{
-		"id": 80,
+	"80": {
 		"name": "Abasa",
 		"translation": "He frowned"
 	},
-	{
-		"id": 81,
+	"81": {
 		"name": "At-Takwir",
 		"translation": "The Overthrowing"
 	},
-	{
-		"id": 82,
+	"82": {
 		"name": "Al-Infitaar",
 		"translation": "The Cleaving"
 	},
-	{
-		"id": 83,
+	"83": {
 		"name": "Al-Mutaffifin",
 		"translation": "Defrauding"
 	},
-	{
-		"id": 84,
+	"84": {
 		"name": "Al-Inshiqaaq",
 		"translation": "The Splitting Open"
 	},
-	{
-		"id": 85,
+	"85": {
 		"name": "Al-Burooj",
 		"translation": "The Constellations"
 	},
-	{
-		"id": 86,
+	"86": {
 		"name": "At-Taariq",
 		"translation": "The Morning Star"
 	},
-	{
-		"id": 87,
+	"87": {
 		"name": "Al-A'laa",
 		"translation": "The Most High"
 	},
-	{
-		"id": 88,
+	"88": {
 		"name": "Al-Ghaashiya",
 		"translation": "The Overwhelming"
 	},
-	{
-		"id": 89,
+	"89": {
 		"name": "Al-Fajr",
 		"translation": "The Dawn"
 	},
-	{
-		"id": 90,
+	"90": {
 		"name": "Al-Balad",
 		"translation": "The City"
 	},
-	{
-		"id": 91,
+	"91": {
 		"name": "Ash-Shams",
 		"translation": "The Sun"
 	},
-	{
-		"id": 92,
+	"92": {
 		"name": "Al-Lail",
 		"translation": "The Night"
 	},
-	{
-		"id": 93,
+	"93": {
 		"name": "Ad-Dhuhaa",
 		"translation": "The Morning Hours"
 	},
-	{
-		"id": 94,
+	"94": {
 		"name": "Ash-Sharh",
 		"translation": "The Consolation"
 	},
-	{
-		"id": 95,
+	"95": {
 		"name": "At-Tin",
 		"translation": "The Fig"
 	},
-	{
-		"id": 96,
+	"96": {
 		"name": "Al-Alaq",
 		"translation": "The Clot"
 	},
-	{
-		"id": 97,
+	"97": {
 		"name": "Al-Qadr",
 		"translation": "The Power, Fate"
 	},
-	{
-		"id": 98,
+	"98": {
 		"name": "Al-Bayyina",
 		"translation": "The Evidence"
 	},
-	{
-		"id": 99,
+	"99": {
 		"name": "Az-Zalzala",
 		"translation": "The Earthquake"
 	},
-	{
-		"id": 100,
+	"100": {
 		"name": "Al-Aadiyaat",
 		"translation": "The Chargers"
 	},
-	{
-		"id": 101,
+	"101": {
 		"name": "Al-Qaari'a",
 		"translation": "The Calamity"
 	},
-	{
-		"id": 102,
+	"102": {
 		"name": "At-Takaathur",
 		"translation": "Competition"
 	},
-	{
-		"id": 103,
+	"103": {
 		"name": "Al-Asr",
 		"translation": "The Declining Day, Epoch"
 	},
-	{
-		"id": 104,
+	"104": {
 		"name": "Al-Humaza",
 		"translation": "The Traducer"
 	},
-	{
-		"id": 105,
+	"105": {
 		"name": "Al-Fil",
 		"translation": "The Elephant"
 	},
-	{
-		"id": 106,
+	"106": {
 		"name": "Quraish",
 		"translation": "Quraysh"
 	},
-	{
-		"id": 107,
+	"107": {
 		"name": "Al-Maa'un",
 		"translation": "Almsgiving"
 	},
-	{
-		"id": 108,
+	"108": {
 		"name": "Al-Kawthar",
 		"translation": "Abundance"
 	},
-	{
-		"id": 109,
+	"109": {
 		"name": "Al-Kaafiroon",
 		"translation": "The Disbelievers"
 	},
-	{
-		"id": 110,
+	"110": {
 		"name": "An-Nasr",
 		"translation": "Divine Support"
 	},
-	{
-		"id": 111,
+	"111": {
 		"name": "Al-Lahab",
 		"altName": "Al-Masad",
 		"translation": "The Blazing Flames",
 		"altTranslation": "The Palm Fibre"
 	},
-	{
-		"id": 112,
+	"112": {
 		"name": "Al-Ikhlaas",
 		"translation": "Sincerity"
 	},
-	{
-		"id": 113,
+	"113": {
 		"name": "Al-Falaq",
 		"translation": "The Dawn"
 	},
-	{
-		"id": 114,
+	"114": {
 		"name": "An-Naas",
 		"translation": "Mankind"
 	}
-]
+}
