@@ -9394,11 +9394,11 @@ Dari segi bahasa, pendapat Ibnu 'Asyur sangat kuat. Karena pada permulaan ayat, 
 
 Intinya, banyak perbedaan pendapat oleh para ahli tafsir mengenai makna ayat ini, namun perbedaan ini tidaklah bertentangan. Bahkan, para sahabatpun berbeda pendapat dalam penafsiran ayat ini. Dan hal ini disebut dengan Tafsir At-Tanawwu', artinya variatif jika ditafsirkan dengan beragam pendapat ulama atau sahabat maka penafsiran itu menunjukkan suatu kebenaran. Wallahu a'lam.
 
-[^1]: Dan disebut juga dengan Shabigh bin ‘Asl atau ‘Usail. (Lihat: Tarikh Dimasyq Li Ibnu ‘Asakir 23/408)
+[^1]: Dan disebut juga dengan Shabigh bin 'Asl atau 'Usail. (Lihat: Tarikh Dimasyq Li Ibnu 'Asakir 23/408)
 [^2]: Tafsir Ibnu Katsir 7/413.
 [^3]: Lihat: Tafsir Al-Mawardiy 5/361.
-[^4]: Lihat: Adhwa’ul Bayan Li Asy-Syinqithiy 7/434.
-[^5]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 26/337.
+[^4]: Lihat: Adhwa'ul Bayan Li Asy-Syinqithiy 7/434.
+[^5]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 26/337.
 
 ===== 4677 =====
 
@@ -9410,7 +9410,7 @@ Intinya, banyak perbedaan pendapat oleh para ahli tafsir mengenai makna ayat ini
 
 Allah bersumpah dengan angin bertujuan untuk menekankan bahwa apa yang dijanjikan oleh Allah kepada makhlukNya pasti benar. Diantara janji Allah kepada kaum musyrikin adalah akan tiba hari kiamat dan adzab Allah kepada mereka. Semua janji Allah pasti benar adanya. Dan diantara janji Allah yang diberikan kepada orang-orang yang beriman adalah mereka akan diberikan kebahagiaan di dunia dan mendapatkan surga di akhirat. Semua janji Allah tersebut benar adanya.[^1]
 
-[^1]: Lihat: Tafsir Ibnu ‘Athiyyah 5/172.
+[^1]: Lihat: Tafsir Ibnu 'Athiyyah 5/172.
 
 ===== 4681 =====
 
@@ -9426,8 +9426,8 @@ Seperti yang telah diketahui menurut ilmu pengetahuan zaman sekarang bahwasanya 
 
 Oleh karena itu, para ulama zaman sekarang mengatakan itulah diantara makna dari ayat ini. Artinya langit memiliki tenunan yang rapi dan tidak ada kerusakan sedikitpun. Wallahu a'lam.[^2]
 
-[^1]: Lihat: Tafsir Ath-Thabariy 22/397, Tafsir Ibnu ‘Athiyyah 5/173 dan Tafsir Al-Baghawiy 7/371.
-[^2]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 26/341.
+[^1]: Lihat: Tafsir Ath-Thabariy 22/397, Tafsir Ibnu 'Athiyyah 5/173 dan Tafsir Al-Baghawiy 7/371.
+[^2]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 26/341.
 
 ===== 4683 =====
 
@@ -9437,8 +9437,8 @@ Itulah sebabnya Allah berfirman dalam ayat ini. Begitu juga di dalam masalah aqi
 
 Allah berfirman dengan menggunakan kata (لَفِي) maknanya adalah 'sungguh-sungguh dalam' yang memiliki faedah penekanan atau penguatan. Artinya seakan-akan perselisihan atau pendapat mereka yang kontradiktif selalu melazimi dan tidak pernah lepas dari mereka.[^2]
 
-[^1]: Lihat: Tafsir Ath-Thabariy 22/398 dan Tafsir Ibnu ‘Athiyyah 5/173
-[^2]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 26/342.
+[^1]: Lihat: Tafsir Ath-Thabariy 22/398 dan Tafsir Ibnu 'Athiyyah 5/173
+[^2]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 26/342.
 
 ===== 4684 =====
 
@@ -9466,9 +9466,9 @@ _"Dipalingkan darinya (Al-Qur'an dan Rasul) orang yang dipalingkan."_
 
 Hal ini menunjukkan bahwa hidayah hanya ada di tangan Allah. Mungkin seorang muslim akan berpikir, "Bagaimana mungkin ada seseorang yang melihat Nabi dengan mata kepalanya sendiri, namun dia tidak beriman kepada beliau?". Namun inilah yang terjadi terhadap orang-orang munafik dan orang-orang musyrik. [^3]
 
-[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 26/343.
-[^2]: Lihat: Tafsir Ibnu ‘Athiyyah 5/173 dan Tafsir Al-Qurthubiy 17/33.
-[^3]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 26/343.
+[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 26/343.
+[^2]: Lihat: Tafsir Ibnu 'Athiyyah 5/173 dan Tafsir Al-Qurthubiy 17/33.
+[^3]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 26/343.
 
 ===== 4685 =====
 
@@ -9480,13 +9480,13 @@ _"Mereka tidak lain hanyalah mengikuti dugaan."_ (QS. An-Najm: 28)
 
 Keyakinan mereka tidak dibangun diatas dalil dan argumentasi yang kuat, tetapi hanya sekedar dugaan. Apa saja yang mereka katakan tentang Nabi Muhammad, hari kiamat dan Al-Qur'an, pasti itu hanya berupa dugaan belaka. Maka dari itu, dengan ayat ini Allah mencela mereka, [^1]
 
-[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 26/343.
+[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 26/343.
 
 ===== 4686 =====
 
 Orang-orang kafir sibuk dalam kebodohan mereka, sehingga mengakibatkan mereka lalai dari beriman kepada kebenaran. [^1]
 
-[^1]: Lihat: Tafsir Al-Qurthubiy 17/34 dan At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 26/344.
+[^1]: Lihat: Tafsir Al-Qurthubiy 17/34 dan At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 26/344.
 
 ===== 4687 =====
 
@@ -9530,8 +9530,8 @@ _"Dan (ingatlah), ketika mereka (orang-orang musyrik) berkata, "Ya Allah, jika (
 
 Ayat-ayat diatas menggambarkan bentuk-bentuk sesumbar mereka. Akan tetapi, Allah tidak menurunkan adzab bagi mereka; karena akan tiba masanya Allah menurunkan adzab bagi mereka. Jika setiap orang bermaksiat kepada Allah, lalu diturunkan adzab baginya seketika itu pula. Atau jika setiap orang tidak mau beriman kepada Allah, lalu binasa saat itu pula. Maka, tidak akan ada ujian di dalam kehidupan ini. Karena, sejatinya manusia diciptakan dan hidup di muka bumi ini untuk diuji. Dan hal ini termasuk bentuk keimanan kepada hal yang ghaib.[^2]
 
-[^1]: Tafsir Al-Qur’an Al-‘Aziz Li Ibnu Abi Zamanin 3/305.
-[^2]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 26/346.
+[^1]: Tafsir Al-Qur'an Al-'Aziz Li Ibnu Abi Zamanin 3/305.
+[^2]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 26/346.
 
 ===== 4690 =====
 
@@ -9600,10 +9600,10 @@ Jadi, hendaknya setiap orang selalu berusaha untuk mencapai derajat _ihsan_. Jik
 
 Kedua, ihsan kepada makhluk. Maksudnya adalah menjalin hubungan baik dengan sesama makhluk. Seorang hamba hendaknya selalu berbuat yang terbaik kepada makhluk-makhluk Allah, seperti bersedekah, membantu dengan bantuan fisik, materi maupun pikiran, bertutur kata yang baik, memberikan senyuman, atau segala hal baik yang diberikan kepada makhluk-makhlukNya. Bahkan, kepada hewan sekalipun. Jika seorang hamba berbuat baik kepada hewan atau makhluk hidup lainnya, maka hendaknya dia selalu mengedepankan ihsan kepada sesama makhluk. Dan inilah diantara bentuk ihsan terhadap makhluk Allah. [^4]
 
-[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 26/347.
-[^2]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 26/347.
+[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 26/347.
+[^2]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 26/347.
 [^3]: H.R. Bukhari no. 8.
-[^4]: Lihat: Tafsir As-Sa’diy hal.808.
+[^4]: Lihat: Tafsir As-Sa'diy hal.808.
 
 ===== 4692 =====
 
@@ -9621,11 +9621,11 @@ Amalan ini termasuk amalan yang membutuhkan perjuangan. Dengan melawan rasa kant
 
 Bisa jadi, ada sebagian orang akan mengeluhkan amalan tersebut. Dimana menurut anggapan mereka amalan itu adalah amalan yang sangat berat dilakukan. Apalagi, jika dibenturkan dengan masalah pencahariannya untuk mencari nafkah. Sangat sulit bagi mereka untuk menerapkan ayat ini, ditambah lagi mereka berada di zaman sekarang dengan keadaan yang menuntut mereka dengan berbagai kesibukan dunia. Namun, sejatinya itu tidak menjadi penghalang bagi mereka. Hendaknya kapanpun seseorang mendapati waktu untuk mengerjakan shalat malam, maka hendaknya dia lekas untuk mengerjakannya. Seperti misalnya ketika dia mendapati hari libur dari pekerjaannya sehari-hari. Dia bisa mengatur dan memanfaatkan waktu tersebut untuk mengerjakan shalat malam. Jadi, selama dia mendapatkan kesempatan shalat malam, maka dia lekas mengerjakannya.
 
-[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 26/348.
+[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 26/348.
 [^2]: Lihat: Tafsir Ath-Thabariy 22/406.
-	Untuk tafsiran yang pertama maka huruf مَا pada firmanNya كَانُوا قَلِيلًا مِنَ اللَّيْلِ مَا يَهْجَعُونَ adalah zaaidah (tambahan), yang fungsinya adalah sebagai penguat. Sehingga artinya “Mereka benar-benar sedikit tidurnya” (Lihat at-Tahriir wa at-Tanwiir 26/349)
+	Untuk tafsiran yang pertama maka huruf مَا pada firmanNya كَانُوا قَلِيلًا مِنَ اللَّيْلِ مَا يَهْجَعُونَ adalah zaaidah (tambahan), yang fungsinya adalah sebagai penguat. Sehingga artinya "Mereka benar-benar sedikit tidurnya" (Lihat at-Tahriir wa at-Tanwiir 26/349)
 [^3]: Lihat: Tafsir Ath-Thabariy 22/407.
-	Untuk tafsiran yang kedua, maka huruf مَا pada firmanNya كَانُوا قَلِيلًا مِنَ اللَّيْلِ مَا يَهْجَعُونَ adalah nafiyah (untuk menafikan), sehingga makna ayat sebagaimana yang dikatakan oleh Qotadah, كَانَ لَهُمْ قَلِيلٌ مِنَ اللَّيْلِ مَا يَهْجَعُونَ، كَانُوا يُصَلُّونَهُ “Mereka punya waktu sedikit di malam hari mereka tidak tidur, mereka gunakan waktu sedikit tersebut untuk shalat” (Tafsir ath-Thabari 21/503)
+	Untuk tafsiran yang kedua, maka huruf مَا pada firmanNya كَانُوا قَلِيلًا مِنَ اللَّيْلِ مَا يَهْجَعُونَ adalah nafiyah (untuk menafikan), sehingga makna ayat sebagaimana yang dikatakan oleh Qotadah, كَانَ لَهُمْ قَلِيلٌ مِنَ اللَّيْلِ مَا يَهْجَعُونَ، كَانُوا يُصَلُّونَهُ "Mereka punya waktu sedikit di malam hari mereka tidak tidur, mereka gunakan waktu sedikit tersebut untuk shalat" (Tafsir ath-Thabari 21/503)
 
 ===== 4693 =====
 
@@ -9652,7 +9652,7 @@ Dalam Bahasa arab kata (سَوْفَ) memiliki makna _'akan'_ dan menunjukkan te
 Perbuatan Nabi Ya'qub ini menunjukkan ihsan yang terbaik. Jika seseorang ingin membuktikan hubungan baiknya dengan Allah, hendaknya dia melaksanakan shalat malam. Karena di saat itulah, dia sungguh-sungguh mampu berusaha untuk menghadirkan diri bahwasanya seakan-akan dia sedang melihat Allah. Atau jika tidak mampu maka ia menghadirkan dalam hati bahwasanya Allah sedang melihatnya. Disamping itu, pada waktu tersebut merupakan waktu orang-orang sedang terlelap tidur dan tidak ada satupun yang melihatnya mendirikan shalat malam. Saat itu pula dia mampu untuk mempraktekan ihsan. Allah memberikan contoh untuk membuktikan ihsan seorang hamba adalah dengan shalat malam. Dan itulah contoh yang paling tepat untuk diamalkan oleh seorang hamba.
 
 [^1]: Lihat: Tafsir Al-Qurthubiy 17/37.
-[^2]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 26/350.
+[^2]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 26/350.
 [^3]: Lihat: Tafsir Ath-Thabariy 22/413.
 
 ===== 4694 =====
@@ -9671,7 +9671,7 @@ Sebuah nasehat untuk kaum muslimin. Bahwa seseorang perlu berlatih diri untuk be
 
 Setelah dia melatih diri untuk mengerjakan shalat malam atau bersedekah, hendaknya dia tetap membiasakan dirinya dalam ibadah tersebut hingga dia berada dalam kondisi ketika dia tidak mengerjakan shalat malam, maka dia merasakan hambar di siang harinya; karena pada malam harinya dia tidak mengerjakan shalat malam. Jika dia telah merasakan hal seperti ini, maka itu menjadi pertanda suatu kebaikan bagi dirinya.
 
-[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 26/351.
+[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 26/351.
 [^2]: Lihat: Tafsir Al-Alusiy 14/10.
 
 ===== 4695 =====
@@ -9707,7 +9707,7 @@ _"Dan apa yang dijanjikan kepadamu."_
 Demikian juga apa yang dijanjikan kepada manusia berupa surga yang ada di langit. Ayat ini menjadi dalil pula bahwa surga berada di langit. Wallahu a'lam.[^3]
 
 [^1]: Lihat: Tasir Al-Baghawiy 7/375.
-[^2]: Lihat: Tasir Ibnu ‘Athiyyah 5/176.
+[^2]: Lihat: Tasir Ibnu 'Athiyyah 5/176.
 [^3]: Lihat: Tafsir Ath-Thabariy 22/421.
 
 ===== 4698 =====
@@ -9723,7 +9723,7 @@ Ayat ini menjelaskan tentang kisah tamunya Nabi Ibrahim yang mulia. Tamu-tamu ya
 Ada yang mengatakan bahwa para malaikat tersebut adalah malaikat Jibril, Mikail dan malaikat lainnya. Tidak ada dalil yang jelas dan tegas mengenai hal tersebut. Namun, intinya adalah tamu yang mendatangi Nabi Ibrahim adalah sekelompok malaikat. Allah menamakan mereka dengan 'Al-Mukromin' maknanya adalah tamu-tamu yang mulia. Sebagian ulama berbeda penafsiran dalam hal ini. Pertama, mulia karena mereka adalah malaikat. Tentunya malaikat adalah makhluk yang mulia; karena diantara sifat-sifat mereka adalah tidak pernah membangkang perintah Allah, selalu menjalankan perintahNya, selalu beribadah kepada Allah dan tidak pernah lelah dalam beribadah kepadaNya. Kedua, mereka mulia karena dimuliakan oleh Nabi Ibrahim. Beliau sungguh-sungguh menjamu mereka, memuliakan mereka dalam penjamuannya hingga mereka benar-benar mulia karena penjamuan yang dilakukan oleh Nabi Ibrahim. [^2]
 
 [^1]: Lihat: Tafsir Al-Qurthubiy 17/45.
-[^2]: Lihat: Tafsir Ats-Tsa’labiy 9/116.
+[^2]: Lihat: Tafsir Ats-Tsa'labiy 9/116.
 
 ===== 4700 =====
 
@@ -9745,7 +9745,7 @@ Demikian pula, jika ada seseorang yang memberi salam kepada orang lain dengan sa
 
 [^1]: Lihat: Tafsir Al-Baghawiy 7/376.
 [^2]: Lihat: Tafsir Ibni Áthiyyah 5/177 dan Fathul Qodiir, Asy-Syaukani 5/105
-[^3]: Lihat : Fathul Qodiir 5/105, hal ini karena salamnya para malaikat adalah dalam bentuk doa, adapun salamnya Ibrahim kepada mereka adalah dalam bentuk khabar/pengabaran (yaitu taqdirnya bisa jadi sebagai Khobar dari mubtada’ yang dihapuskan   أَمْرٌ سَلامٌ perkaranya adalah salam, atau وَاجِبٌ لَكُمْ سَلامٌ wajib atas kalian adalah salam, atau taqdirnya sebagai mubtada’ dari Khobar yang dihapuskan yaitu سَلاَمٌ عَلَيْكُمْ kesalamatan atas kalian). (Lihat: Tafsir Ibnu ‘Athiyyah 5/177). Dan khabar lebih kuat dari doa, karena doa masih menunggu ijabah, adapun khabar menunjukan seakan-akan telah terjadi, atau pasti terjadi.
+[^3]: Lihat : Fathul Qodiir 5/105, hal ini karena salamnya para malaikat adalah dalam bentuk doa, adapun salamnya Ibrahim kepada mereka adalah dalam bentuk khabar/pengabaran (yaitu taqdirnya bisa jadi sebagai Khobar dari mubtada' yang dihapuskan   أَمْرٌ سَلامٌ perkaranya adalah salam, atau وَاجِبٌ لَكُمْ سَلامٌ wajib atas kalian adalah salam, atau taqdirnya sebagai mubtada' dari Khobar yang dihapuskan yaitu سَلاَمٌ عَلَيْكُمْ kesalamatan atas kalian). (Lihat: Tafsir Ibnu 'Athiyyah 5/177). Dan khabar lebih kuat dari doa, karena doa masih menunggu ijabah, adapun khabar menunjukan seakan-akan telah terjadi, atau pasti terjadi.
 [^4]: Lihat: Tafsir Al-Qurthubiy 5/299.
 
 ===== 4701 =====
@@ -9768,8 +9768,8 @@ Ayat ini menjelaskan bahwa beliau menghidangkan jamuan yang istimewa kepada tamu
 
 Sebagian ulama mengatakan dianjurkannya memuliakan tamu dan hukumnya adalah sunnah, sebagaimana perbuatan yang dituntunkan oleh Nabi Ibrahim. Karena beliau memuliakan tamunya dengan jamuan yang sangat istimewa berupa daging anak sapi yang telah dipanggang, padahal beliau tidak mengenal tamu-tamu tersebut.
 
-[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 26/359.
-[^2]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 26/359.
+[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 26/359.
+[^2]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 26/359.
 
 ===== 4702 =====
 
@@ -9791,9 +9791,9 @@ Begitu sempurna bentuk pemuliaan Nabi Ibrahim kepada tamu-tamunya. Dan ternyata,
 
 "Maka ketika dilihatnya tangan mereka tidak menjamahnya, dia (Ibrahim) mencurigai mereka, dan merasa takut kepada mereka. Mereka (malaikat) berkata, "Jangan takut, sesungguhnya kami diutus kepada kaum Luth." (QS. Hud: 70)
 
-[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 26/359.
-[^2]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 26/360.
-[^3]: Lihat: Tafsir Ats-Tsa’labiy 9/117
+[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 26/359.
+[^2]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 26/360.
+[^3]: Lihat: Tafsir Ats-Tsa'labiy 9/117
 
 ===== 4703 =====
 
@@ -9810,7 +9810,7 @@ Bagaimana mungkin dia memiliki seorang anak, sementara dia adalah seorang wanita
 Ayat ini sekaligus menjadi dalil bahwa seorang perempuan lebih sulit untuk menahan diri dan emosinya ketika mendapatkan sesuatu, baik yang menggembirakan ataupun menyedihkan. Maka dari itu dengan sendirinya ekspresi-nya akan muncul, entah dengan suara ataupun dengan tangan. Nabi Ibrahim ketika dikabarkan akan memiliki anak, tentu dia merasa gembira. Namun, dia bersikap tenang. Adapun Sarah ketika dikabarkan akan memiliki anak, maka dia kaget dan berteriak kegirangan dan menepuk-nepuk wajahnya.[^2]
 
 [^1]: Lihat: Tafsir Al-Qurthubiy 17/47.
-[^2]: Lihat: Tafsir Ibnu ‘Athiyyah 5/178 dan Ruh Al-Ma’aniy Li Al-Alusiy 14/15.
+[^2]: Lihat: Tafsir Ibnu 'Athiyyah 5/178 dan Ruh Al-Ma'aniy Li Al-Alusiy 14/15.
 
 ===== 4705 =====
 
@@ -9838,10 +9838,10 @@ Kaum Nabi Luthh dikenal dengan dua sifat. _Pertama,_ adalah kaum yang berdosa. _
 
 Kata (طِيْن) memiliki makna tanah yang keras atau batu. Para ulama menyebutkan bahwa maksud dari kata (مُسَوَّمَة) adalah batu-batu yang dilemparkan kepada kaum Nabi Luth memiliki tanda tertentu. Tanda tersebut menunjukkan bahwa batu itu bukan termasuk batu-batu dunia. Akan tetapi, batu khusus yang ditimpakan untuk membinasakan kaum Nabi Luthh. Dari sisi warnanya yang mungkin kemerah-merahan atau hitam dan menunjukkan bahwa batu tersebut dikirimkan sebagai azab bagi mereka[^3]. Ada juga sebagian ulama yang menafsirkan bahwa maksud dari ayat ini adalah setiap batu telah diberikan tanda oleh Allah untuk membinasakan masing-masing dari kaum Nabi Luthh. Sehingga, jika ada sebagian kaum Nabi Luthh yang sedang bepergian, maka mereka akan tertimpa batu tersebut. Dimanapun mereka berada, maka mereka tertimpa batu itu. Hingga tidak ada satupun dari mereka yang lolos dari azab Allah. [^4]
 
-[^1]: Lihat: Tafsir Ibnu ‘Athiyyah 5/178.
+[^1]: Lihat: Tafsir Ibnu 'Athiyyah 5/178.
 [^2]: Lihat: Tafsir Ath-Thabariy 22/492.
-[^3]: Lihat: At-Tahrir Wa At-Tanwir Li Ibnu ‘Asyur 27/6 dan Tafsir Al-Alusiy 14/15
-[^4]: Lihat: Tafsir Ibnu ‘Athiyyah 5/178 dan Tafsir Al-Qurthubiy 17/48.
+[^3]: Lihat: At-Tahrir Wa At-Tanwir Li Ibnu 'Asyur 27/6 dan Tafsir Al-Alusiy 14/15
+[^4]: Lihat: Tafsir Ibnu 'Athiyyah 5/178 dan Tafsir Al-Qurthubiy 17/48.
 
 ===== 4707 =====
 
@@ -9873,7 +9873,7 @@ _"Seandainya selain keluarga Nabi Luthh ada orang-orang yang beriman lebih banya
 
 Karena sejatinya Allah mengetahui orang-orang yang beriman diantara mereka dan yang tidak beriman. Jadi, yang menyelamatkan mereka adalah keimanan yang ada pada diri mereka.
 
-[^1]: Lihat: At-Tahrir wa At-Tanwir Li ibnu ‘Asyur 27/8.
+[^1]: Lihat: At-Tahrir wa At-Tanwir Li ibnu 'Asyur 27/8.
 [^2]: Tafsir Ath-Thabariy 21/532.
 
 ===== 4711 =====
@@ -9904,10 +9904,10 @@ Allah mengangkat negeri tersebut, lalu dibalik dan menurunkan hujan batu yang sa
 
 Hal itu disebabkan dosa yang mereka lakukan terlalu besar. Allah mensifati mereka dengan (المُسْرِفُوْنَ) yaitu orang-orang yang melampaui batas, (الْمُجْرِمُوْن) yaitu orang-orang yang berbuat dosa, (يَجْهَلُوْنَ) yaitu orang-orang yang jahil dan sifat-sifat buruk lainnya yang disematkan kepada mereka. Dosa yang mereka lakukan bukan dosa yang biasa. Akan tetapi, suatu dosa yang melanggar dan bertolak belakang dengan fitrah manusia, yaitu melakukan praktek homoseksual. Sehingga Allah membalas dengan azab yang menunjukkan keterbalikan dari fitrah mereka, yaitu negeri mereka dijadikan terbalik dan dihujani dengan batu yang panas oleh Allah.
 
-[^1]: Lihat: At-Tahrir wa At-Tanwir Li ibnu ‘Asyur 27/8.
+[^1]: Lihat: At-Tahrir wa At-Tanwir Li ibnu 'Asyur 27/8.
 [^2]: Lihat: Tafsir Al-Qurthubiy 9/75.
 [^3]: Lihat: Tafsir Al-Qurthubiy 17/48.
-[^4]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/8.
+[^4]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/8.
 
 ===== 4712 =====
 
@@ -9929,9 +9929,9 @@ Ayat ini menjelaskan bahwa yang dapat mengambil pelajaran dari kisah ini hanyala
 
 Karenanya, jangankan musibah itu menimpa orang lain, terkadang musibah atau kesulitan yang menimpa kita sendiri, lalu kita menganggap musibah tersebut sebagai sesuatu hal yang kebetulan dan tidak mengaitkannya dengan dosa-dosa kita, maka kita tidak akan mampu mengambil pelajaran dari musibah tersebut. Seakan-akan itu hanyalah sebuah anggapan bahwa begitulah kehidupan manusia, perjalanan mereka tidak luput dari kebaikan dan kesulitan. Sehingga kita sendiri tidak mampu mengambil pelajaran pada diri sendiri. Akan tetapi bagi orang yang cerdas, dia bisa mengambil pelajaran atas musibah yang menimpa dirinya. Tatkala musibah datang kepadanya, dia selalu berprasangka baik kepada Allah, bahwa Allah telah menegurnya dan itu menandakan bahwa Allah masih menyayanginya, karena bisa jadi dengan musibah itu Allah akan membinasakannya. Sehingga hal itu membuatnya kembali kepada jalan Allah. Jadi, orang-orang yang mampu mengambil pelajaran dari suatu musibah hanyalah orang-orang yang takut kepada azab yang pedih.
 
-[^1]: Lihat: Tafsir Ibnu ‘Athiyyah 5/179.
+[^1]: Lihat: Tafsir Ibnu 'Athiyyah 5/179.
 [^2]: Lihat: At-Tahrir wa At-Tanwir 12/135.
-[^3]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 9/27.
+[^3]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 9/27.
 
 ===== 4713 =====
 
@@ -9949,7 +9949,7 @@ Allah telah memberikan kepada Nabi Musa sembilan mukjizat. Dan mukjizat yang dib
 
 "Dengan membawa mukjizat yang nyata."
 
-[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/10.
+[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/10.
 [^2]: Yaitu tangan Nabi Musa setelah dimasukan ke kantongnya tiba-tiba dikerluarkan berubah menjadi warna putih dan bercahaya yang dilihat oleh para hadirin (lihat Fathul Qodiir, Asy-Syaukani 2/263)
 
 ===== 4714 =====
@@ -9966,14 +9966,14 @@ Allah menenggelamkan mereka di lautan dalam kondisi tercela. Kisah Fir'aun diten
 
 Kemudian Allah menyebutkan kaum yang lain yaitu kaum 'Ad dan kaum Tsamud. Kata الْعَقِيم di dalam bahasa arab memiliki makna mandul. Para ulama mengatakan angin yang mandul maksudnya adalah angin tersebut tidak bermanfaat. Biasanya, angin memiliki manfaat dan fungsi. Diantaranya adalah seperti menggiring dan merangkai awan. Setelah itu, awan tersebut berisi dengan uap air, kemudian menurunkan hujan. Dan diantara fungsinya adalah untuk menggabungkan serbuk sari (kelamin jantan) dan putik (kelamin betina) pada tumbuhan, memberi kesegaran disaat udara terasa panas. Akan tetapi, pada ayat ini Allah mensifati dengan angin yang mandul, artinya angin tersebut tidak ada manfaatnya sama sekali. Bahkan, angin tersebut adalah angin siksaan yang Allah kirimkan kepada kaum 'Ad[^1]. Kaum 'Ad adalah suku Arab yang tinggal di arah selatan jazirah, antara daerah Yaman dengan Oman[^2].
 
-[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/11.
+[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/11.
 [^2]: Lihat: Tafsir Al-Qurthubiy 16/204.
 
 ===== 4717 =====
 
 Angin tersebut -sebagaimana dijelaskan di dalam ayat-ayat yang lain- bersifat sangat dingin, mengeluarkan suara yang sangat keras dan berputar berhari-hari. Sehingga angin tersebut menghabisi kaum 'Ad. Karena mereka kufur kepada Nabi Hud.[^1]
 
-[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/12.
+[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/12.
 
 ===== 4718 =====
 
@@ -9989,7 +9989,7 @@ Artinya banyak kenikmatan yang telah diberikan kepada mereka. Akan tetapi, merek
 
 "Bersenang-senanglah kamu sampai waktu yang ditentukan."
 
-[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/13.
+[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/13.
 
 ===== 4719 =====
 
@@ -10053,9 +10053,9 @@ _"Dan (ingatlah) ketika Kami membelah laut untukmu, sehingga kamu dapat Kami sel
 
 Artinya Kami membinasakan Fir'aun dan bala tentaranya sementara kalian melihat bagaimana mereka dibinasakan. Hal itu bertujuan agar kalian bersyukur bahwasanya kalian diselamatkan oleh Allah, dimana hal itu menjadi tambahan nikmat bagi kalian. [^3]
 
-[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/13.
-[^2]: Lihat: Tafsir Ibnu ‘Athiyyah 5/180.
-[^3]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/14.
+[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/13.
+[^2]: Lihat: Tafsir Ibnu 'Athiyyah 5/180.
+[^3]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/14.
 
 ===== 4720 =====
 
@@ -10079,8 +10079,8 @@ Mereka mengatakan: _"Siapa yang bisa menghidupkan kembali tulang-tulang padahal 
 
 Penciptaan langit lebih hebat dari penciptaan manusia. Lebih hebat lagi jika hanya sekedar mengembalikan atau mengulangi penciptaan. Maka dari itu Allah menyebutkan tentang langit pada ayat berikutnya.[^2]
 
-[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/14.
-[^2]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/15.
+[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/14.
+[^2]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/15.
 
 ===== 4722 =====
 
@@ -10125,8 +10125,8 @@ _"Dan langit Kami bangun dengan kekuasaan (Kami), dan Kami benar-benar meluaskan
 Artinya kami terus meluaskannya. Wallahu a'lamu bis shawab.
 
 [^1]: Lihat: Tafsir Ibnu Katsir 7/424.
-[^2]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/16.
-[^3]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/16.
+[^2]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/16.
+[^3]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/16.
 [^4]: Lihat: Tafsir Al-Alusiy 14/18.
 
 ===== 4723 =====
@@ -10166,7 +10166,7 @@ _"Adalah Nabi jika menghadapi suatu permasalahan, beliau (langsung) menegakkan s
 
 Tidaklah seseorang akan merasakan kebahagiaan dan ketenangan kecuali dengan segera menuju kepada Allah. Jika dia memiliki masalah keluarga, maka hendaknya dia kembali kepada Allah. Jika dia memiliki masalah ekonomi, maka hendaknya dia kembali kepada Allah. Jika dia terjebak dengan maksiat, maka hendaknya dia segera lari kepada Allah. Jika dia dikuasai oleh syahwat, maka hendaknya segera lari kepada Allah.
 
-[^1]: Lihat: Tafsir Ats-Tsa’labiy 9/120 dan Tafsir Al-Baghawiy 7/379.
+[^1]: Lihat: Tafsir Ats-Tsa'labiy 9/120 dan Tafsir Al-Baghawiy 7/379.
 [^2]: H.R. Abu Dawud no.1319 dan dihasankan oleh Al-Albani.
 
 ===== 4726 =====
@@ -10191,7 +10191,7 @@ Ayat ini merupakan bentuk hiburan kepada Nabi Muhammad. Beliau dikatakan sebagai
 
 Sebagian Nabi juga dikatakan sebagai penyihir. Seperti Nabi Musa, Nabi Muhammad dan Nabi Shalih. Ada juga diejek dengan digabungkan kedua-duanya, seperti Nabi Muhammad dan Nabi Musa. Mereka dikatakan sebagai orang gila dan penyihir. Sehingga apa yang dialami oleh Nabi, juga dialami oleh saudara-saudanya yang sebelumnya dari kalangan para Nabi.[^1]
 
-[^1]: Lihat: Tafsir Ibnu ‘Athiyyah 5/182.
+[^1]: Lihat: Tafsir Ibnu 'Athiyyah 5/182.
 
 ===== 4728 =====
 
@@ -10247,14 +10247,14 @@ _"Dan engkau sama sekali tidak tercela."_
 
 Ini merupakan diantara metode dalam bahasa arab. Artinya adalah bahwa 'Tidak ada celaan pada dirimu dan apabila engkau berpaling dari mereka wahai Muhammad, engkau sama sekali tidak tercela'. Maka jangan sibukkan dirimu dengan tuduhan-tuduhan mereka dan teruskanlah dakwahmu.'[^2]
 
-[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/23.
-[^2]: Lihat: Tafsir Ibnu ‘Athiyyah 5/181.
+[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/23.
+[^2]: Lihat: Tafsir Ibnu 'Athiyyah 5/181.
 
 ===== 4730 =====
 
 Diantara metode dalam Al-Quran adalah memberikan peringatan. Peringatan itu melazimkan berulang-ulang. Terkadang jika seseorang membaca Al-Quran, dia akan menjumpai kisah-kisah umat-umat terdahulu yang dibinasakan oleh Allah disebutkan secara berulang-ulang. Karena diantara hikmah dari Al-Quran adalah untuk memberikan peringatan. Akan tetapi, setiap kisah selalu ada faedah yang tidak disebutkan di dalam surat yang lain. Begitu juga dengan pembahasan tauhid di dalam Al-Quran-pun berulang-ulang, karena manusia terkadang selalu lupa atau lalai dan butuh untuk diperingatkan terus-menerus tiada hentinya. Disamping itu, peringatan akan memberikan manfaat kepada orang-orang yang beriman dan peringatan kepada orang-orang yang mengingkari. Barangkali diantara mereka ada yang sadar. Jika mereka tidak sadar, maka hujjah akan semakin ditegakkan untuk mereka.[^1]
 
-[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/24.
+[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/24.
 
 ===== 4731 =====
 
@@ -10262,7 +10262,7 @@ Tujuan manusia diciptakan dan dihidupkan di alam semesta hanya satu, yaitu untuk
 
 Jin memiliki hukum sebagaimana manusia. Para ulama menyebutkan bahwa Allah menyebutkan terlebih dahulu jin dari pada manusia, disebabkan orang-orang musyrikin pada zaman dahulu juga menyembah jin. Karenanya, pada ayat ini Allah mengingatkan bahwa jin adalah ciptaan Allah, bukan tuhan untuk disembah atau diibadahi. Bahkan, para jin juga dibebani untuk beribadah kepada Allah dan tidak berhak untuk disembah. [^1]
 
-[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/28.
+[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/28.
 
 ===== 4732 =====
 
@@ -10274,7 +10274,7 @@ _"Maka mintalah rezeki dari Allah."_ (QS. Al-'Ankabut: 17)
 
 Sebagian ulama menyebutkan bahwa الْمَتِينُ adalah diantara nama-nama Allah. Terkadang dijumpai ada seseorang yang memiliki nama Abdul Matin artinya adalah Hamba Dzat Yang Maha Kokoh. [^1]
 
-[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/29.
+[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/29.
 
 ===== 4733 =====
 
@@ -10289,7 +10289,7 @@ _"seember yang berisi dengan air."_[^1]
 Pada ayat ini Allah menjelaskan bahwa sesungguhnya orang-orang yang berbuat dzalim mendapatkan ember sebagaimana ember-ember orang sebelum mereka. Maka hendaknya mereka jangan meminta agar disegerakan azab. Para ulama mengatakan bahwa Allah mengumpamakan orang-orang yang berbuat kesyirikan dari kaum Nabi Muhammad dengan kaum Nabi Nuh, Nabi Luth, Nabi Hud, Nabi Shalih seperti orang-orang yang datang ke sebuah sumur, kemudian mereka bergantian mengambil air sumur tersebut dengan ember yang dibawa oleh masing-masing dari mereka. Artinya mereka adalah satu golongan dari kaum musyrikin seperti orang-orang yang datang kepada sebuah sumur dengan tujuan yang sama. Dan masing-masing dari mereka akan mendapatkan bagiannya. Maka dari itu seakan-akan Allah berfirman: 'Janganlah khawatir wahai orang-orang kafir Quraisy, sekarang kalian belum mendapatkan ember kalian. Dan nanti masing-masing dari kalian akan mendapatkan ember azab kalian. Azab yang besar -sebagaimana dzanub yang memiliki makna ember besar yang berisi air-'. Artinya kalian akan mendapatkan azab sebagaimana kaum-kaum sebelumnya yang sudah menerima azab mereka.[^2]
 
 [^1]: H.R. Bukhari no.220.
-[^2]: Lihat: Tafsir Al-Qurthubiy 17/57 dan At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/30.
+[^2]: Lihat: Tafsir Al-Qurthubiy 17/57 dan At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/30.
 
 ===== 4735 =====
 
@@ -10322,7 +10322,7 @@ Kemudian الطُّورِ diserap ke dalam bahasa Arab[^2]. Berbeda dengan kata 
 Para ulama khilaf tentang penyebutan kata الطُّورِ dalam surah ini. Secara umum ada dua pendapat, pertama bahwa apakah Allah Subhanahu wa ta'ala bersumpah dengan gunung Ath-Thur secara umum; kedua atau apakah Allah Subhanahu wa ta'ala bersumpah dengan gunung Ath-Thur Sina yang merupakan gunung spesial dimana Nabi Musa 'alaihissalam pernah dipanggil dan diajak berbicara oleh Allah Subhanahu wa ta'ala. Imam Ibnu Katsir lebih condong kepada pendapat pertama, akan tetapi jumhur mufassir lebih condong kepada pendapat kedua bahwasanya Ath-Thur yang dimaksud dalam ayat ini adalah gunung Thur Sina. Adapun pendapat yang lebih kuat adalah yang dimaksud Ath-Thur dalam ayat ini adalah gunung Thur Sina yang dimana di gunung tersebut Nabi Musa 'alaihissalam pernah dipanggil oleh Allah Subhanahu wa Ta'ala kemudian diberi wahyu. [^4]
 
 [^1]: Tafsir Al-Qurthubiy 17/59
-[^2]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/37
+[^2]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/37
 [^3]: Lihat: Tafsir Ibnu Katsir 7/427
 [^4]: Lihat: At-Tibyan Fi Aqsam Al-Quran Li Ibnu Al-Qayyim hal.264
 
@@ -10358,7 +10358,7 @@ Dalam lafal yang lain :
 Pendapat yang menyebutkan bahwa pada Allah Subhanahu wa ta'ala bersumpah dengan kitab Taurat merupakan pendapat yang kuat karena pada ayat pertama Allah Subhanahu wa ta'ala bersumpah dengan bukit Thur Sina yang di bukit tersebut Nabi Musa 'alaihissalam berbicara dengan Allah Subhanahu wa ta'ala.
 
 [^1]: Lihat: Tafsir Al-Qurthubiy 17/59
-[^2]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/38
+[^2]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/38
 [^3]: HR Muslim no. 1699
 [^4]: HR. al-Bukhari no 3635
 
@@ -10380,7 +10380,7 @@ Pendapat kedua yang menyebutkan bahwa yang dimaksud Baitul Makmur dalam ayat ini
 
 Inilah dua pendapat yang para ulama khilaf tentang Baitul Makmur mana yang dimaksud dalam ayat ini. Karena meskipun Nabi shallallahu 'alaihi wasallam menyebut tentang adanya Baitul Makmur di langit, akan tetapi tidak ada isyarat kuat yang menunjukkan bahwa Baitul Makmur yang dilangitlah yang dimaksud dalam ayat ini sehingga sebagian ulama berpendapat bahwa Baitul Makmur yang dimaksud adalah Ka'bah. Akan tetapi Ibnul Qayyim rahimahullah menyebutkan bahwa keduanya sama saja, baik itu Baitul Makmur yang ada di langit ataupun di bumi keduanya sama-sama tempat yang makmur dengan peribadahan. Di langit dipenuhi dengan peribadahan para malaikat, sedangkan di bumi dipenuhi dengan peribadahan para manusia.[^6]
 
-[^1]: Lihat: Tafsir Ats-Tsa’labiy 9/124
+[^1]: Lihat: Tafsir Ats-Tsa'labiy 9/124
 [^2]: Lihat: Tafsir Ath-Thabariy 22/454
 [^3]: HR. Muslim no. 164
 [^4]: HR. Muslim no. 162
@@ -10438,7 +10438,7 @@ Kata عَسْعَسَ bisa bermakna malam yang _datang_ dan bisa pula bermakna m
 
 Akan tetapi sebagian ulama mengatakan bahwa tafsiran-tafsiran di atas semuanya menunjukkan kondisi laut pada hari kiamat kelak. Mereka mengatakan bahwa pada hari kiamat kelak, yang pertama terjadi adalah air laut meluap, sehingga bercampur air asin dan air tawar. Setelah meluap ke permukaan bumi maka laut kemudian dibakar (dinyalakan) oleh Allah Subhanahu wa ta'ala hingga hilanglah laut tersebut. Karena Allah Subhanahu wa ta'ala hendak menjadikan bumi datar sebagai padang mahsyar yang tanpa laut dan gunung-gunung. [^2]
 
-[^1]: Lihat: Tafsir Ibnu ‘Athiyyah 5/186
+[^1]: Lihat: Tafsir Ibnu 'Athiyyah 5/186
 [^2]: Lihat: At-Tibyan Fi Aqsam Al-Quran Li Ibnu Al-Qayyim hal.269
 
 ===== 4742 =====
@@ -10455,14 +10455,14 @@ Pada ayat ini Allah Subhanahu wa ta'ala ingin tekankan kepada orang-orang musyri
 
 Allah Subhanahu wa ta'ala memberikan penekanan karena orang-orang musyrikin meragukan adanya azab. Jangankan meragukan adanya azab, adanya hari kiamat pun mereka ragukan. Oleh karenanya Allah Subhanahu wa ta'ala memberikan penekanan-penekanan. Bahkan sebagian ulama mengatakan bahwa kata وَاقِعٌ sendiri adalah bentuk penekanan, karena maknanya juga adalah pasti terjadi.[^2]
 
-[^1]: Lihat: Tafsir Ibnu ‘Athiyyah 5/18 7
-[^2]: Sehingga jadilah penekanan ada 4 penekanan. (Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/40)
+[^1]: Lihat: Tafsir Ibnu 'Athiyyah 5/18 7
+[^2]: Sehingga jadilah penekanan ada 4 penekanan. (Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/40)
 
 ===== 4743 =====
 
 Telah jelas bahwa jika azab Allah Subhanahu wa ta'ala telah tiba maka tidak ada yang bisa menolaknya[^1]. Tidak perlu kita jauh berbicara azab di akhirat, ketika Allah Subhanahu wa ta'ala memberikan musibah di dunia adakah yang bisa menolaknya? Tentu tidak ada. Ketika Allah Subhanahu wa ta'ala memberikan gempa atau tsunami, bakan yang lebih ringan seperti banjir, maka siapakah yang bisa menolak musibah tersebut? Sungguh tidak ada yang bisa menolaknya. Maka jika di dunia sendiri tidak ada yang bisa menolak musibah dari Allah Subhanahu wa ta'ala, maka bagaimana mungkin azab diakhirat bisa ditolak? Oleh karenanya Allah Subhanahu wa ta'ala menekankan pada ayat ini bahwa jika azab Allah Subhanahu wa ta'ala telah ditimpakan kepada orang-orang kafir maka tidak ada yang bisa menolaknya.
 
-[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/40
+[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/40
 
 ===== 4744 =====
 
@@ -10470,7 +10470,7 @@ Pada ayat ini Allah Subhanahu wa ta'ala mulai menjelaskan kapan terjadinya azab 
 
 Tanda-tandanya adalah langit bergerak. Makna dari kata مَوْرًا ada yang mengatakan artinya adalah bergetar dengan kencang dan ada pula yang menyebutkan artinya adalah bergerak seperti ombak yang bergoyang. Maka ketika itu langit yang sebelumnya selama hidup terlihat kokoh, ketika hari kiamat langit akan bergoyang tanda tidak kuat lagi. Oleh karenanya bintang-bintang pun berjatuhan pada hari kiamat kelak, matahari dan bulan pun terlepas dari orbitnya. Maka ketika itu terjadilah hari kiamat.[^1]
 
-[^1]: Lihat: Tafsir Ibnu ‘Athiyyah 5/187 dan At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/41
+[^1]: Lihat: Tafsir Ibnu 'Athiyyah 5/187 dan At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/41
 
 ===== 4745 =====
 
@@ -10489,7 +10489,7 @@ Jadi kelak pada hari kiamat gunung-gunung akan dicabut dari tempatnya, kemudian 
 Adapun pengulangan kata سَيْرًا dan مَوْرًا merupakan bentuk maf'ul mutlak untuk menjelaskan penekanan bahwasanya hal tersebut akan benar-benar terjadi, serta bukan sekadar majazi melainkan betul-betul makna secara hakikat.[^2]
 
 [^1]: Lihat: Tafsir Al-Qurthubiy 17/63
-[^2]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/42
+[^2]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/42
 
 ===== 4746 =====
 
@@ -10515,7 +10515,7 @@ Orang-orang kafir mendustakan adanya neraka, adanya hari kebangkitan, adanya har
 
 Di antara siksaan Allah Subhanahu wa ta'ala pada hari kiamat kelak adalah siksaan fisik dan siksaan batin (diejek). Maka setelah orang-orang kafir tersebut masuk ke dalam neraka, maka Allah Subhanahu wa ta'ala kemudian mengejek mereka dengan ayat ini bahwa inilah neraka yang mereka dustakan dahulu.[^2]
 
-[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/43
+[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/43
 [^2]: Lihat: Tafsir Al-Alusiy 14/31
 
 ===== 4750 =====
@@ -10550,8 +10550,8 @@ Allah Subhanahu wa ta'ala tidak zalim terhadap hamba-hambanya. Oleh karenanya ke
 
 Para ulama menyebutkan perbedaan penggunaan kata tersebut untuk menjelaskan bahwa Allah Subhanahu wa ta'ala benar-benar adil, dan apa yang orang-orang rasakan itu benar-benar sepadan dengan kekufuran dan kemaksiatan yang mereka lakukan di dunia.[^1]
 
-[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/44
-	Yaitu jika dengan مَا sebagaimana dalam firmanNya إِنَّمَا تُجْزَوْنَ مَا كُنْتُمْ تَعْمَلُونَ artinya : “Sesungguhnya kamu hanya diberi balasan atas apa yang telah kamu kerjakan.”. Ini menunjukan Allah akan memberi siksaan dengan balasan persis setara dengan apa yang mereka kerjakan, karena Allah tidak akan menzalimi mereka. Berbeda tatkala Allah menyebutkan balasan bagi penghuni surga maka Allah menggunakan lafal بِمَا (yaitu huruf مَا didahului dengan huruf  بِyang menunjukan sebab) seperti dalam firmanNya كُلُوا وَاشْرَبُوا هَنِيئًا بِمَا كُنْتُمْ تَعْمَلُونَ yang artinya : “Makan dan minumlah dengan rasa nikmat sebagai balasan dari sebab apa yang telah kamu kerjakan”. Artinya ganjaran di surga yang Allah sediakan tidak sepadan dengan pengorbanan amal shalih yang dilakukan oleh para hamba, karena amal shalih mereka sangat tidak sepadan untuk membeli surga, akan tetapi ama shalih itu hanyalah sebab yang mendatangkan rahmat Allah yang memasukan mereka ke dalam surga.
+[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/44
+	Yaitu jika dengan مَا sebagaimana dalam firmanNya إِنَّمَا تُجْزَوْنَ مَا كُنْتُمْ تَعْمَلُونَ artinya : "Sesungguhnya kamu hanya diberi balasan atas apa yang telah kamu kerjakan.". Ini menunjukan Allah akan memberi siksaan dengan balasan persis setara dengan apa yang mereka kerjakan, karena Allah tidak akan menzalimi mereka. Berbeda tatkala Allah menyebutkan balasan bagi penghuni surga maka Allah menggunakan lafal بِمَا (yaitu huruf مَا didahului dengan huruf  بِyang menunjukan sebab) seperti dalam firmanNya كُلُوا وَاشْرَبُوا هَنِيئًا بِمَا كُنْتُمْ تَعْمَلُونَ yang artinya : "Makan dan minumlah dengan rasa nikmat sebagai balasan dari sebab apa yang telah kamu kerjakan". Artinya ganjaran di surga yang Allah sediakan tidak sepadan dengan pengorbanan amal shalih yang dilakukan oleh para hamba, karena amal shalih mereka sangat tidak sepadan untuk membeli surga, akan tetapi ama shalih itu hanyalah sebab yang mendatangkan rahmat Allah yang memasukan mereka ke dalam surga.
 
 ===== 4752 =====
 
@@ -10577,8 +10577,8 @@ Yaitu tenggelam dalam kenikmatan. Karenanya penduduk surga tidak boleh tidur. Se
 
 Karena ketika penghuni surga tidur, maka mereka akan berhenti (off) dari aktifitas kenikmatan. Maka penghuni surga tidak tidur agar mereka senantiasa merasakan kenikmatan-kenikmatan di dalam surga.
 
-[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/45
-[^2]: HR. Ath-Thabrani no. 919 dalam Mu’jam Al-Ausath
+[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/45
+[^2]: HR. Ath-Thabrani no. 919 dalam Mu'jam Al-Ausath
 
 ===== 4753 =====
 
@@ -10586,7 +10586,7 @@ Sungguh kenikmatan yang luar biasa yang akan didapatkan oleh penghuni surga. Yan
 
 Di dunia kita sering tidak bisa mendapatkan apa yang kita cita-citakan. Kalaupun cita-cita kita di dunia tercapai, tetapi ada saja yang kita khawatirkan belum hilang. Contoh kecil adalah seorang yang bisa meraih cita-citanya memiliki perusahaan yang besar hingga kaya raya, akan tetapi dia khawatir jika suatu saat ekonomi berubah dan membuat dia bangkrut dan jatuh miskin. Maka berbeda tatkala seseorang telah masuk ke dalam surga, segala cita-cita bisa dia dapatkan dan segala kekhawatirannya dihilangkan sehingga yang tersisa hanyalah kebahagiaan. Oleh karenanya dalam ayat ini Allah Subhanahu wa ta'ala menggabungkan kedua hal tersebut, yaitu mereka bersenang-senang dengan apa yang Allah Subhanahu wa ta'ala berikan kepada mereka dan mereka dijauhkan serta dilindungi dari azab neraka Jahannam.[^1]
 
-[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/46
+[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/46
 
 ===== 4754 =====
 
@@ -10620,7 +10620,7 @@ Oleh karenanya seseorang tetap harus beramal. Jangan kemudian kita seperti orang
 
 Maka untuk masuk surga seseorang harus beramal sebagai bukti. Akan tetapi sekali lagi perlu diingat bahwa amal tersebut hanya sebab untuk mendapatkan rahmat Allah Subhanahu wa ta'ala. Karena tidak seorang pun yang masuk surga dengan sekadar amalnya, melainkan juga karena rahmat Allah Subhanahu wa ta'ala.
 
-[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/46
+[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/46
 [^2]: HR. Muslim no. 725
 [^3]: HR. Muslim no. 2816
 
@@ -10706,7 +10706,7 @@ Jadi yang dimaksud dengan وَزَوَّجْناهُمْ بِحُورٍ عِين
 
 [^1]: Sebagaimana disebutkan dalam hadits, Nabi shallallahu álaihi wasallam bersabda :
 	إِنِّي لَأَعْلَمُ آخِرَ أَهْلِ النَّارِ خُرُوجًا مِنْهَا، وَآخِرَ أَهْلِ الجَنَّةِ دُخُولًا، رَجُلٌ يَخْرُجُ مِنَ النَّارِ كَبْوًا، فَيَقُولُ اللَّهُ: اذْهَبْ فَادْخُلِ الجَنَّةَ، فَيَأْتِيهَا، فَيُخَيَّلُ إِلَيْهِ أَنَّهَا مَلْأَى، فَيَرْجِعُ فَيَقُولُ: يَا رَبِّ وَجَدْتُهَا مَلْأَى، فَيَقُولُ: اذْهَبْ فَادْخُلِ الجَنَّةَ، فَيَأْتِيهَا فَيُخَيَّلُ إِلَيْهِ أَنَّهَا مَلْأَى، فَيَرْجِعُ فَيَقُولُ: يَا رَبِّ وَجَدْتُهَا مَلْأَى، فَيَقُولُ: اذْهَبْ فَادْخُلِ الجَنَّةَ، فَإِنَّ لَكَ مِثْلَ الدُّنْيَا وَعَشَرَةَ أَمْثَالِهَا – أَوْ: إِنَّ لَكَ مِثْلَ عَشَرَةِ أَمْثَالِ الدُّنْيَا … «ذَاكَ أَدْنَى أَهْلِ الجَنَّةِ مَنْزِلَةً»
-	“Sungguh aku benar-benar mengetahui orang yang terakhir keluar dari neraka dan yang paling terakhir masuk ke surga, yaitu seorang lelaki yang keluar dari nekara dalam kondisi tertatih-tatih, Maka Allah berkata, “Pergilah dan masuklah ke dalam surga !”, maka iapun pergi menuju surga. Maka dikhayalkan kepadanya bahwa surga telah penuh, maka iapun kembali dan berkata, “Wahai Rabbku aku mendapati surga sudah penuh”. Allah berkata, “Pergilah menuju surga !”. Maka iapun menuju surga, namun dikhayalkan kepadanya bahwa surga telah penuh, maka iapun kembali lalu berkata, “Wahai Rabbku aku mendapati surga telah penuh”. Maka Allah berkata, “Pergilah dan masuklah ke surga !, sesungguhnya bagimu surga seluas dunia dan sepuluh kali lipatnya” atau “bagimu surga seluas sepuluh kali lipat dunia”….itulah penghuni surga yang paling rendah”. (HR Al-Bukhari no 6571 dan Muslim no 186)
+	"Sungguh aku benar-benar mengetahui orang yang terakhir keluar dari neraka dan yang paling terakhir masuk ke surga, yaitu seorang lelaki yang keluar dari nekara dalam kondisi tertatih-tatih, Maka Allah berkata, "Pergilah dan masuklah ke dalam surga !", maka iapun pergi menuju surga. Maka dikhayalkan kepadanya bahwa surga telah penuh, maka iapun kembali dan berkata, "Wahai Rabbku aku mendapati surga sudah penuh". Allah berkata, "Pergilah menuju surga !". Maka iapun menuju surga, namun dikhayalkan kepadanya bahwa surga telah penuh, maka iapun kembali lalu berkata, "Wahai Rabbku aku mendapati surga telah penuh". Maka Allah berkata, "Pergilah dan masuklah ke surga !, sesungguhnya bagimu surga seluas dunia dan sepuluh kali lipatnya" atau "bagimu surga seluas sepuluh kali lipat dunia"….itulah penghuni surga yang paling rendah". (HR Al-Bukhari no 6571 dan Muslim no 186)
 [^2]: Tafsir Al-Qurthubi 17/65
 [^3]: HR. At-Tirmidzi no. 2533
 [^4]: Tafsir Al-Qurthubi 16/153
@@ -10756,8 +10756,8 @@ Artinya adalah kalau orang tua berada di derajat surga yang tinggi dan dia memil
 
 [^1]: Lihat: At-Tibyan Fi Aqsam Al-Quran Li Ibnu Al-Qayyim hal.276
 [^2]: Lihat: Tafsir Al-Qurthubiy 17/67 dan at-Tafsiir al-Wasiith, al-Wahidi 1/203
-[^3]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/48
-[^4]: Lihat: Tafsir Al-Qurthubiy 17/67 dan At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/50
+[^3]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/48
+[^4]: Lihat: Tafsir Al-Qurthubiy 17/67 dan At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/50
 
 ===== 4757 =====
 
@@ -10766,7 +10766,7 @@ Di antara kenikmatan yang diberikan oleh penghuni surga adalah mereka akan menda
 Para ulama menyebutkan bahwa sebagaimana raja-raja di dunia bersenang-senang dengan permaisuri, dengan buah-buahan, dan daging, maka penghuni surga pun akan diberikan oleh Allah Subhanahu wa ta'ala kesenangan tersebut di surga. Akan tetapi bagaimanapun kesenangan di dunia, tentu di akhirat kesenangan jauh lebih sempurna.[^2]
 
 [^1]: Lihat: Tafsir Al-Qurthubiy 17/67
-[^2]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/52
+[^2]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/52
 
 ===== 4758 =====
 
@@ -10774,8 +10774,8 @@ Ada dua penafsiran di kalangan para ulama tentang kata يَتَنَازَعُو�
 
 Ayat ini merupakan dalil bahwa kata-kata yang keluar dari mulut penghuni surga adalah indah sehingga berbicara dengan penghuni surga akan selalu menyenangkan. Berbeda tatkala kita masih di dunia, berbicara dengan orang lain terkadang menyenangkan namun juga terkadang menyedihkan. Di surga tidak ada lagi kata-kata yang nyelekit sebagaimana di dunia. Tidak ada kata sia-sia dan tidak ada pula kata-kata yang menimbulkan dosa. Meskipun yang mereka minum di surga adalah khamr, akan tetapi khamr tersebut hanya mengandung kelezatan, sehingga hal tersebut tidak membuat mereka hilang kesadaran untuk berkata-kata yang tidak baik.[^2]
 
-[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/52
-[^2]: Lihat: Tafsir Al-Qurthubiy 17/69 dan At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/52
+[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/52
+[^2]: Lihat: Tafsir Al-Qurthubiy 17/69 dan At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/52
 
 ===== 4759 =====
 
@@ -10789,7 +10789,7 @@ Adapun Allah Subhanahu wa ta'ala menjadikan bagi mereka anak-anak muda karena an
 
 Selain pelayan tersebut masih muda dan jumlahnya banyak, Allah Subhanahu wa ta'ala menjadikan mereka sangat indah, jika dilihat menyenangkan, dan putih bersih seperti mutiara. Tidak sebagaimana pelayan-pelayan di dunia yang identik dengan pekerja keras yang tidak cantik dan gagah, akan tetapi di surga pelayan-pelayan tersebut sangat indah jika dilihat. Adapun maksud firman Allah Subhanahu wa ta'ala "Seakan-akan mereka itu mutiara yang tersimpan", para ulama menyebutkan bahwa jika pelayannya saja sudah seperti mutiara yang tersimpan, maka tentu yang dilayani jauh lebih indah daripada mutiara. Oleh karenanya para ulama mengatakan bahwa jika pelayan di surga seperti mutiara, maka yang dilayani (tuannya) seperti bulan purnama.[^1]
 
-[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/55
+[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/55
 
 ===== 4760 =====
 
@@ -10798,7 +10798,7 @@ Di antara tafsiran para ulama tentang ayat ini adalah penghuni surga saling berh
 Disebutkan di dalam ayat ini bahwa penghuni surga saling bertanya. Namun siapakah yang saling bertanya itu? Ada yang mengatakan bahwa yang saling bertanya adalah penghuni surga yang satu dengan yang lainnya. Ada yang mengatakan bahwa yang saling bertanya itu adalah antara anak dan ayahnya.[^2]
 
 [^1]: Lihat: Tafsir Al-Baghawiy 7/390
-[^2]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/56
+[^2]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/56
 
 ===== 4761 =====
 
@@ -10810,13 +10810,13 @@ Sebagian Ahli Tafsir menyebutkan bahwa perkataan ini adalah perkataan orang tua 
 
 [^1]: Lihat: Tafsir Al-Qurthubiy 17/70
 [^2]: Lihat: At-Tibyan Fi Aqsam Al-Quran Li Ibnu Al-Qayyim hal.278
-[^3]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/56
+[^3]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/56
 
 ===== 4762 =====
 
 Di ayat ini, disebutkan bahwa mereka menyadari karunia-karunia yang Allah Subhanahu wa ta'ala berikan karena rasa takut mereka tatkala di dunia. Karena rasa takut mereka, Allah Subhanahu wa ta'ala jadikan anak-anak mereka masuk surga dan berada di derajat surga yang sama dengan mereka. Dan itu adalah nikmat dan karunia yang besar dari Allah Subhanahu wa ta'ala kepada mereka.[^1]
 
-[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/57
+[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/57
 
 ===== 4763 =====
 
@@ -10837,10 +10837,10 @@ Setelah penduduk surga menyebutkan sebab-sebab mereka masuk surga, mereka kemudi
 Kata الْبَرُّ dalam bahasa Arab menunjukkan kata luas. Oleh karenanya daratan juga disebut dengan البر. Dan adapun manusia baru bisa dikatakan sebagai البر adalah ketika dia telah melakukan amal saleh yang banyak, shalat yang banyak, atau sedekah yang banyak. Akan tetapi di ayat ini penghuni surga mensifati Allah Subhanahu wa ta'ala dengan البر. Maka perlu diingat bahwa sifat البر Allah Subhanahu wa ta'ala berbeda dengan sifat البر dari makhluk. Artinya adalah Allah Subhanahu wa ta'ala memberikan pemberian yang sangat banyak, tanpa orang yang diberi merasa harus balas budi. Demikianlah Allah Subhanahu wa ta'ala ketika memberi kebaikan, tidak memerlukan balas budi, memberi dengan pemberian yang banyak, bahkan kebaikan yang diberi-Nya berlanjut terus semenjak di bumi hingga di akhirat. Berbeda dengan manusia, ketika memberi kebaikan, terkadang mereka merasa telah berbuat baik sehingga seringnya mengharap balas budi. Bahkan manusia sifatnya pada waktu tertentu berbuat baik dan pada waktu yang lain tidak. Adapun sifat البر Allah Subhanahu wa ta'ala adalah senantiasa baik dengan kebaikan yang sangat luas, serta Allah Subhanahu wa ta'ala tidak membutuhkan balas budi.[^5]
 
 [^1]: Lihat: Tafsir Al-Qurthubiy 17/70
-[^2]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/58
+[^2]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/58
 [^3]: HR. Ibnu Majah no. 3660
 [^4]: Lihat: Tafsir ibnu Katsir 7/434
-[^5]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/58
+[^5]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/58
 
 ===== 4764 =====
 
@@ -10914,20 +10914,20 @@ Kemudian firman Allah Subhanahu wa ta'ala,
 
 Ketika orang-orang kafir Quraisy menantikan kematian Nabi shallallahu 'alaihi wasallam maka Allah memerintahkan Nabi untuk menyampaikan kepada mereka bahwa Nabipun sedang menantikan kematian mereka. Akan tetapi takdir Allah Subhanahu wa ta'ala menentukan bahwa orang-orang kafir tersebut meninggal terlebih dahulu pada perang Badr.[^8] Ternyata bukan mereka yang menunggu tapi Nabi yang menunggu.
 
-[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/58
-[^2]: Lihat: Tafsir Ibnu ‘Athiyyah 5/191
-[^3]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/61
+[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/58
+[^2]: Lihat: Tafsir Ibnu 'Athiyyah 5/191
+[^3]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/61
 [^4]: HR. Bukhari no. 3042
 [^5]: HR. Bukhari no. 2961
-[^6]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 15/204
-[^7]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 12/21
+[^6]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 15/204
+[^7]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 12/21
 [^8]: Lihat: Tafsir Al-Qurthubiy 17/73
 
 ===== 4767 =====
 
 Orang-orang Arab Quraisy adalah orang-orang cerdas. Kabilah Quraisy sendiri merupakan kabilah induk di antara kabilah-kabilah Arab, dan orang Arab mengakui kecerdasan orang-orang Quraisy. Oleh karenanya di dalam ayat ini Allah Subhanahu wa ta'ala menyinggung mereka. Sekan-akan Allah Subhanahu wa ta'ala berkata, "Bukankah kalian orang-orang cerdas wahai orang-orang Quraisy? Mengapa kecerdasan kalian menghantarkan kalian mengatakan bahwa Muhammad orang gila, penyair, dan dukun?". Akan tetapi yang benar adalah sebagaimana Allah Subhanahu wa ta'ala sebutkan dalam akhir ayat ini yaitu mereka adalah orang yang melampaui batas. Sebenarnya mereka sangat tahu bahwa Nabi Muhammad shallallahu 'alaihi wasallam tidaklah seperti yang mereka tuduhkan. Akan tetapi karena mereka telah melampaui batas, akhirnya hawa nafsu mereka membuat mereka mengucapkan tuduhan-tuduhan tersebut dalam rangka untuk menghentikan dakwah Nabi shallallahu 'alaihi wasallam. Hawa nafsu mereka mengantarkan mereka berkata-kata seperti orang yang bodoh yang hilang kecerdasannya. Oleh karenanya dalam ayat ini Allah Subhanahu wa ta'ala bertanya sambil mengejek orang-orang kafir Quraisy atas kecerdasan mereka. [^1]
 
-[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/63
+[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/63
 
 ===== 4768 =====
 
@@ -10943,7 +10943,7 @@ Akan tetapi Allah Subhanahu wa ta'ala membantah hujjah-hujjah orang-orang kafir 
 
 Karena mereka menganggap bahwa Alquran adalah karangan Muhammad, maka Allah Subhanahu wa ta'ala menantang mereka untuk membuat yang semisal dengan Alquran jika tuduhan tersebut benar. Artinya jika memang al-Qurán karangan Muhammad maka kalian -wahai Quraisy- tinggal niru saja apa yang dibuat oleh Muhammad. Akan tetapi tuduhan-tuduhan mereka tidak berdalil dan tidak memiliki bukti. Demikianlah jika hawa nafsu telah muncul maka akan membuat orang bisa keluar dari kecerdasannya. [^1]
 
-[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/65
+[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/65
 
 ===== 4770 =====
 
@@ -10990,7 +10990,7 @@ Yaitu apakah mereka bisa mencari berita-berita di langit? Kalaupun mereka bisa m
 
 Di ayat ini Allah Subhanahu wa ta'ala berbicara tentang sifat-Nya yang 'Ulu (Maha Tinggi). [^2]
 
-[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/73
+[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/73
 [^2]: Lihat: Tafsir Al-Alusiy 14/38
 
 ===== 4774 =====
@@ -11003,7 +11003,7 @@ Pada ayat ini Allah Subhanahu wa ta'ala berdalil tentang kesempurnaan-Nya, bahwa
 
 Orang-orang musyrikin tidak senang memiliki anak-anak perempuan, dan hanya senang jika memiliki anak laki-laki. Akan tetapi mereka malah menuduh Allah Subhanahu wa ta'ala memiliki anak-anak perempuan. Oleh karenanya jelas sekali bahwa mereka telah melakukan dua kesalahan, pertama mereka menuduh Allah Subhanahu wa ta'ala memiliki anak, kedua anak Allah Subhanahu wa ta'ala adalah perempuan. Sungguh yang benar adalah Allah Subhanahu wa ta'ala Maha Esa. Jika Tauhid Ar-Rububiyah melazimkan Allah Subhanahu wa ta'ala Esa dalam Dzat-Nya, maka Tauhid Asma' wa Shifat melazimkan Allah Subhanahu wa ta'ala Esa dalam sifat-sifat-Nya. [^1]
 
-[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/74
+[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/74
 
 ===== 4775 =====
 
@@ -11013,8 +11013,8 @@ Nabi shallallahu 'alaihi wasallam tidaklah meminta upah dari mereka. Kalau sekir
 
 Ayat ini juga merupakan dalil bahwa seorang Da'i harus mengikuti jejak dakwah para Rasul, yaitu tidak boleh meminta upah dari dakwahnya, karena itu adalah hal yang tercela dan bukan kebiasaan para Nabi dan Rasul. Akan tetapi jika mereka diberi hadiah maka tidak mengapa untuk diterima. [^2]
 
-[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/75
-[^2]: Lihat: Adhwa’ul Bayan fii Idhahi Al-Qur’an bil Qur’an 2/179.
+[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/75
+[^2]: Lihat: Adhwa'ul Bayan fii Idhahi Al-Qur'an bil Qur'an 2/179.
 
 ===== 4776 =====
 
@@ -11038,7 +11038,7 @@ Ayat ini menunjukkan bahwa Nabi Muhammad shallallahu 'alaihi wasallam adalah utu
 
 Pada ayat ini Allah Subhanahu wa ta'ala berbicara tentang Tauhid Al-'Uluhiyah. Jika pada ayat-ayat sebelumnya Allah Subhanahu wa ta'ala bercerita tentang Tauhid Ar-Rububiyah dan Tauhid Asma' wa Shifat, dan jika mereka meyakini hal tersebut maka melazimkan bahwa tidak ada yang berhak disembah kecuali Allah Subhanahu wa ta'ala. Oleh karenanya Allah Subhanahu wa ta'ala berfirman dalam ayat ini bahwa apakah mereka mempunyai Tuhan selain Allah Subhanahu wa ta'ala?­­­­ [^1]
 
-[^1]: Lihat: Tafsir As-Sa’diy hal.816
+[^1]: Lihat: Tafsir As-Sa'diy hal.816
 
 ===== 4779 =====
 
@@ -11203,13 +11203,13 @@ Sebagian ulama yang lain menyebutkan bahwa yang dimaksud bertasbih tatkala bangk
 
 Inilah di antara tafsiran-tafsiran dari para ulama, bahwa tatkala seseorang bangkit hendak shalat, atau bangkit dari majelis, atau bangkit dari bangun di malam hari, maka hendaknya dia bertasbih. [^11]
 
-[^1]: Lihat: Tafsir As-Sa’dy hal: 818
-[^2]: Lihat: Al-Qowaa’idul Mutslaa Fii Shifaatillah wa Asmaaaihil Husnaa hal: 11
+[^1]: Lihat: Tafsir As-Sa'dy hal: 818
+[^2]: Lihat: Al-Qowaa'idul Mutslaa Fii Shifaatillah wa Asmaaaihil Husnaa hal: 11
 [^3]: Lihat: Tafsir Ath-Thobary 10/451
 [^4]: Shahih Al-Bukhari 6/112
 [^5]: Fathul Bari 8/505
 [^6]: Majazul Quran 2/112
-[^7]: Lihat: Tafsir Ibnu ‘Athiyyah 5/194
+[^7]: Lihat: Tafsir Ibnu 'Athiyyah 5/194
 [^8]: HR. Ibnu Majah no. 804
 [^9]: HR. Abu Daud no. 4859
 [^10]: HR. Bukhari no. 1154
@@ -11283,14 +11283,14 @@ Diantara faedah Allah bersumpah dengan bintang adalah Allah ingin menjelaskan pa
 
 [^1]: Lihat: Tafsir Al-Baghawiy 7/400.
 [^2]: Lihat: Tafsir Ath-Thabariy 22/495.
-[^3]: Lihat: Tafsir Ibnu ‘Athiyyah 5/195.
-[^4]: Lihat: At-Tahrir Wa At-Tanwir Li Ibnu ‘Asyur 27/90.
+[^3]: Lihat: Tafsir Ibnu 'Athiyyah 5/195.
+[^4]: Lihat: At-Tahrir Wa At-Tanwir Li Ibnu 'Asyur 27/90.
 [^5]: Lihat: Tafsir Al-Qurthubiy 7/26.
-[^6]: Lihat: At-Tahrir Wa At-Tanwir Li Ibnu ‘Asyur 27/91.
-[^7]: Lihat: Al-Bahr Al-Muhith Li Ibnu Hayyan Al-Andalusiy 7/325 dan Al-Burhan Fii ‘Ulum Al-Qur’an Li Az-Zarkasyiy 3/65
-[^8]: Lihat: Al-Burhan Fii ‘Ulum Al-Qur’an Li Az-Zarkasyiy 3/65.
+[^6]: Lihat: At-Tahrir Wa At-Tanwir Li Ibnu 'Asyur 27/91.
+[^7]: Lihat: Al-Bahr Al-Muhith Li Ibnu Hayyan Al-Andalusiy 7/325 dan Al-Burhan Fii 'Ulum Al-Qur'an Li Az-Zarkasyiy 3/65
+[^8]: Lihat: Al-Burhan Fii 'Ulum Al-Qur'an Li Az-Zarkasyiy 3/65.
 [^9]: Lihat: Tafsir Ar-Raziy 28/233.
-[^10]: Lihat: Tafsir Ats-Tsa’labiy 9/136 dan At-Tahrir Wa At-Tanwir Li Ibnu ‘Asyur 27/92.
+[^10]: Lihat: Tafsir Ats-Tsa'labiy 9/136 dan At-Tahrir Wa At-Tanwir Li Ibnu 'Asyur 27/92.
 
 ===== 4786 =====
 
@@ -11299,7 +11299,7 @@ Ayat ini menekankan maksud dari sumpah Allah. Yaitu Allah ingin membela NabiNya 
 Para ulama mengatakan Allah menggunakan ungkapan dengan lafadz 'kawan kalian' sebagai wujud penghinaan kepada orang-orang musyrik. Karena, sejatinya mereka mengetahui jati diri Nabi yang sebenarnya. Beliau yang sejak kecil tumbuh dan bergaul di tengah-tengah mereka. Mereka mengetahui bagaimana masa kecil beliau dan masa remajanya. Bagaimana sifatnya, akhlaqnya dan amanahnya. Bahkan, mereka dahulu memberikan julukan kepada beliau dengan 'Al-Amiin'. Lantas, mereka mengatakan dan menuduh Rasulullah sesat dan keliru. Seakan-akan mereka mengingkari apa yang sejatinya mereka sendiri lebih mengetahui tentang hal itu.[^2]
 
 [^1]: Lihat: Tafsir Ar-Raziy 28/234 dan Tafsir Ibnu Katsir 7/443.
-[^2]: Lihat: At-Tahrir Wa At-Tanwir Li Ibnu ‘Asyur 27/92.
+[^2]: Lihat: At-Tahrir Wa At-Tanwir Li Ibnu 'Asyur 27/92.
 
 ===== 4787 =====
 
@@ -11341,7 +11341,7 @@ Oleh karena itu, Rasulullah tetap ma'shum (terjaga dari kesalahan) baik ketika m
 [^2]: H.R. Abu Dawud no. 3646 dan dishahihkan oleh Al-Albani.
 [^3]: H.R. Tirmidzi no. 1990. Hadits hasan dan dishahihkan oleh Al-Albani.
 [^4]: H.R. Abu Dawud no. 4998 dan dishahihkan oleh Al-Albani.
-[^5]: Lihat: At-Tahrir Wa At-Tanwir Li Ibnu ‘Asyur 27/95.
+[^5]: Lihat: At-Tahrir Wa At-Tanwir Li Ibnu 'Asyur 27/95.
 
 ===== 4788 =====
 
@@ -11376,9 +11376,9 @@ Artinya Jibril berada di ufuk yang tinggi. Allah menjelaskan proses Jibril memba
 [^1]: Lihat: Tafsir Ath-Thabariy 22/498 dan Tafsir Al-Mawardi 5/391.
 [^2]: Lihat: Tafsir Al-Baghawiy 7/400.
 [^3]: Lihat: Tafsir Al-Mawardiy 5/329.
-[^4]: Lihat: Tafsir As-Sam’aniy 5/285.
-[^5]: Lihat: At-Tahrir Wa At-Tanwir Li Ibnu ‘Asyur 27/96.
-[^6]: Lihat: Tafsir Ats-Tsa’labiy 9/137.
+[^4]: Lihat: Tafsir As-Sam'aniy 5/285.
+[^5]: Lihat: At-Tahrir Wa At-Tanwir Li Ibnu 'Asyur 27/96.
+[^6]: Lihat: Tafsir Ats-Tsa'labiy 9/137.
 
 ===== 4790 =====
 
@@ -11430,13 +11430,13 @@ _"Aku melihat Jibril di ufuk yang tertinggi, dia memiliki enam ratus sayap, maka
 
 Itulah diantara keindahan malaikat Jibril, sebagaimana yang telah disebutkan pada ayat sebelumnya.
 
-[^1]: Lihat: Tafsir Ats-Tsa’labiy 9/139.
-[^2]: Lihat: At-Tahrir Wa At-Tanwir Li Ibnu ‘Asyur 27/97 dan 98.
-[^3]: Lihat: Tafsir Ath-Thabariy 22/508 dan Bahr Al-‘Ulum Li As-Samarqandiy 3/360.
-[^4]: Tafsir Ats-Tsa’labiy 9/142.
+[^1]: Lihat: Tafsir Ats-Tsa'labiy 9/139.
+[^2]: Lihat: At-Tahrir Wa At-Tanwir Li Ibnu 'Asyur 27/97 dan 98.
+[^3]: Lihat: Tafsir Ath-Thabariy 22/508 dan Bahr Al-'Ulum Li As-Samarqandiy 3/360.
+[^4]: Tafsir Ats-Tsa'labiy 9/142.
 [^5]: Lihat: Tafsir Ibnu Katsir 7/445.
-[^6]: Lihat: At-Tahrir Wa At-Tanwir Li Ibnu ‘Asyur 27/98.
-[^7]: Lihat: Tafsir Ath-Thabariy 22/514 dan At-Tahrir Wa At-Tanwir Li Ibnu ‘Asyur 27/101.
+[^6]: Lihat: At-Tahrir Wa At-Tanwir Li Ibnu 'Asyur 27/98.
+[^7]: Lihat: Tafsir Ath-Thabariy 22/514 dan At-Tahrir Wa At-Tanwir Li Ibnu 'Asyur 27/101.
 [^8]: Tafsir Al-Qurthubiy 17/94.
 
 ===== 4796 =====
@@ -11463,10 +11463,10 @@ Dari perumpamaan di atas, maka yang akan lebih giat dalam bekerja adalah anak bu
 
 Para ulama mengatakan bahwa surga yang ada sekarang bisa bertambah. Sebagaimana seseorang yang berdzikir maka akan ditanamkan baginya pohon kurma di surga. Dan inilah maksudnya bahwa surga bisa berkembang sesuai dengan kehendak Allah. Disamping itu, hal ini juga menunjukkan bahwa surga sudah ada[^4].
 
-[^1]: Lihat: Tafsir Al-Baghawiy 7/406 dan Tafsir Ibnu ‘Athiyyah 5/199.
-[^2]: Lihat: Tafsir As-Sam’aniy 5/291 dan Tafsir Al-Qurthubiy 17/96.
-[^3]: Lihat: At-Tahrir Wa At-Tanwir Li Ibnu ‘Asyur 4/89.
-[^4]: Lihat: Tafsir As-Sam’aniy 5/291.
+[^1]: Lihat: Tafsir Al-Baghawiy 7/406 dan Tafsir Ibnu 'Athiyyah 5/199.
+[^2]: Lihat: Tafsir As-Sam'aniy 5/291 dan Tafsir Al-Qurthubiy 17/96.
+[^3]: Lihat: At-Tahrir Wa At-Tanwir Li Ibnu 'Asyur 4/89.
+[^4]: Lihat: Tafsir As-Sam'aniy 5/291.
 
 ===== 4800 =====
 
@@ -11492,7 +11492,7 @@ _"(Sidratul Muntaha) itu diliputi oleh warna-warni, yang aku tidak tahu apa warn
 
 Jadi, semua itu menggambarkan suatu keindahan yang Allah tidak meyebutkannya secara detail.
 
-[^1]: Lihat: At-Tahrir Wa At-Tanwir Li Ibnu ‘Asyur 27/100.
+[^1]: Lihat: At-Tahrir Wa At-Tanwir Li Ibnu 'Asyur 27/100.
 [^2]: Tafsir Al-Baghawiy 7/406 dan Tafsir Al-Qurthubiy 17/96.
 [^3]: Tafsir Al-Qurthubiy 17/96.
 [^4]: Fathul Bari Li Ibni Rajab 2/323.
@@ -11501,7 +11501,7 @@ Jadi, semua itu menggambarkan suatu keindahan yang Allah tidak meyebutkannya sec
 
 Artinya Nabi benar-benar fokus melihat Jibril dengan nyata. Dan ketika beliau menceritakan kepada para sahabat, beliau tidaklah mengada-ada terhadap apa yang diceritakannya.  Tidak berlebih-lebihan dalam bercerita (hiperbola) ataupun menguranginya. Demikianlah beliau bercerita sebagaimana beliau melihatnya.[^1]
 
-[^1]: Lihat: Tafsir Ats-Tsa’labiy 9/139, Tafsir Al-Mawardiy 5/397 dan At-Tahrir Wa At-Tanwir Li Ibnu ‘Asyur 27/101.
+[^1]: Lihat: Tafsir Ats-Tsa'labiy 9/139, Tafsir Al-Mawardiy 5/397 dan At-Tahrir Wa At-Tanwir Li Ibnu 'Asyur 27/101.
 
 ===== 4802 =====
 
@@ -11534,14 +11534,14 @@ Adapun **Manat** adalah berhala yang terletak di _Musyallal_[^7] yang diagung-ag
 Di dalam ayat ini terdapat korelasi dengan paragraf sebelumnya. Allah membantah orang-orang kafir tentang berhala-berhala yang mereka sembah. Pantaskah berhala-berhala tersebut disembah? Apakah mereka tidak mengetahui malaikat Jibril yang begitu agung, memiliki bentuk sangat indah, sangat cerdas dan kuat, menurunkan wahyu dari Allah kepada Nabi. Artinya Allah telah memuji dan memberikan sifat-sifat agung kepada makhlukNya yang agung, yaitu Jibril diantara makhluk-makhlukNya yang lain. Namun, dia tidak pantas untuk disembah. Maka, bagaimana dengan berhala-berhala yang mereka sembah? Sesembahan yang sama sekali tidak memiliki keutamaan sedikitpun, apakah pantas untuk disembah?[^9]
 
 [^1]: Lihat: Tafsir Al-Qurthubiy 17/99.
-[^2]: Lihat: Tafsir Ath-Thabariy 22/523 dan Bahr Al-‘Ulum Li As-Samarqandiy 3/361.
-[^3]: Lihat: Bahr Al’Ulum Li As-Samarqandiy 3/361.
+[^2]: Lihat: Tafsir Ath-Thabariy 22/523 dan Bahr Al-'Ulum Li As-Samarqandiy 3/361.
+[^3]: Lihat: Bahr Al'Ulum Li As-Samarqandiy 3/361.
 [^4]: (سَمُرَاتٍ) adalah bentuk jamak dari (سَمُرَة) artinya salah satu jenis pepohonan. (An-Nihayah Li Ibnu Al-Atsir 2/399)
-[^5]: H.R. An-Nasa’i no.11483 di dalam As-Sunan Al-Kubra.
+[^5]: H.R. An-Nasa'i no.11483 di dalam As-Sunan Al-Kubra.
 [^6]: H.R. Bukhari no.3039.
-[^7]: Yaitu jalan dari di suatu bukit menuju wilayah Al-Qudaid. (Lihat: Taj Al-‘Arus 29/281).
+[^7]: Yaitu jalan dari di suatu bukit menuju wilayah Al-Qudaid. (Lihat: Taj Al-'Arus 29/281).
 [^8]: Suku Al-Aus dan Al-Khazraj adalah kaum Anshar sebelum memeluk agama islam.
-[^9]: Lihat: At-Tahrir Wa At-Tanwir Li Ibnu ‘Asyur 27/102.
+[^9]: Lihat: At-Tahrir Wa At-Tanwir Li Ibnu 'Asyur 27/102.
 
 ===== 4805 =====
 
@@ -11569,11 +11569,11 @@ _"Hisaplah kemaluan (klitoris) berhala Laata."_ [^4]
 
 Ini menunjukkan bahwa mereka menganggap berhala mereka Al-Laata adalah perempuan, putri-putri Allah. Maka pada ayat ini Allah membantah anggapan mereka. Yang demikian itu tentulah suatu pembagian yang tidak adil. [^5]
 
-[^1]: Lihat: Tafsir Ath-Thabariy 22/522 dan Bahr Al’Ulum Li As-Samarqandiy 3/361.
+[^1]: Lihat: Tafsir Ath-Thabariy 22/522 dan Bahr Al'Ulum Li As-Samarqandiy 3/361.
 [^2]: Lihat: Tafsir Ath-Thabariy 17/227 dan 22/522.
-[^3]: Lihat: Tafsir Ar-Razi 28/249 dan At-Tahrir Wa At-Tanwir Li Ibnu ‘Asyur 27/108.
+[^3]: Lihat: Tafsir Ar-Razi 28/249 dan At-Tahrir Wa At-Tanwir Li Ibnu 'Asyur 27/108.
 [^4]: H.R. Bukhari no.2731.
-[^5]: Lihat: At-Tahrir Wa At-Tanwir Li Ibnu ‘Asyur 27/106
+[^5]: Lihat: At-Tahrir Wa At-Tanwir Li Ibnu 'Asyur 27/106
 
 ===== 4806 =====
 
@@ -11587,7 +11587,7 @@ Jika dibandingkan dengan Jibril, malaikat yang mulia, yang cerdas nan kuat, memi
 
 Mereka menamakannya dengan nama-nama yang mereka pasang sebagai Tuhan yang pada hakekatnya adalah hanya sebongkah batu yang dipahat. Ini menjadi bantahan telak bagi orang kafir.[^3]
 
-[^1]: Lihat: Bahr Al-‘Ulum Li As-Samarqandiy 3/362, Tafsir Al-Baghawiy 7/409, Tafsir Al-Qurthubiy 17/103 dan At-Tahrir Wa At-Tanwir Li Ibnu ‘Asyur 27/108.
+[^1]: Lihat: Bahr Al-'Ulum Li As-Samarqandiy 3/362, Tafsir Al-Baghawiy 7/409, Tafsir Al-Qurthubiy 17/103 dan At-Tahrir Wa At-Tanwir Li Ibnu 'Asyur 27/108.
 [^2]: Lihat: Al-Kassyaf Li Az-Zamakhsyari 4/423.
 [^3]: Lihat: Tafsir Ibnu Katsir 7/458.
 
@@ -11627,17 +11627,17 @@ Jadi, seseorang yang beragama sebagaimana cara beragama orang-orang kafir dengan
 
 "Atau apakah manusia akan mendapat segala yang dicita-citakannya?"
 
-[^1]: At-Tahrir Wa At-Tanwir Li Ibnu ‘Asyur 27/111.
+[^1]: At-Tahrir Wa At-Tanwir Li Ibnu 'Asyur 27/111.
 [^2]: Lihat: Tafsir Al-Qurthubiy 15/233.
 [^3]: Lihat: Tafsir Ibnu Katsir 4/356.
-[^4]: Lihat: Tafsir Ibnu ‘Athiyyah 5/202 dan At-Tahrir Wa At-Tanwir Li Ibnu ‘Asyur 27/111.
-[^5]: Lihat: At-Tahrir Wa At-Tanwir Li Ibnu ‘Asyur 27/111.
+[^4]: Lihat: Tafsir Ibnu 'Athiyyah 5/202 dan At-Tahrir Wa At-Tanwir Li Ibnu 'Asyur 27/111.
+[^5]: Lihat: At-Tahrir Wa At-Tanwir Li Ibnu 'Asyur 27/111.
 
 ===== 4809 =====
 
 Kehidupan akhirat dan dunia hanyalah milik Allah semata, maka manusia harus mengikuti aturan-aturan Allah, terutama dalam urusan aqidah.[^1]
 
-[^1]: Lihat: Bahru Al-‘Ulum Li As-Samarqandiy 3/362 dan Tafsir Ibnu Katsir 7/458.
+[^1]: Lihat: Bahru Al-'Ulum Li As-Samarqandiy 3/362 dan Tafsir Ibnu Katsir 7/458.
 
 ===== 4810 =====
 
@@ -11672,12 +11672,12 @@ _"kecuali apabila Allah telah mengizinkan (dan hanya) bagi siapa yang Dia kehend
 Intinya adalah jika seseorang ingin mendapatkan syafa'at, maka hendaknya dia mencari keridhaan Allah. Jika dia telah diridhai Allah, maka siapapun bisa memberikan syafa'at kepadanya. Sebaliknya, jika seseorang tidak diridhai Allah, maka siapapun tidak akan mampu memberikan syafa'at kepadanya, karena Allah tidak ridha. [^7]
 
 [^1]: Lihat: Tafsir Al-Qurthubiy 17/104 dan Tafsir Ibnu Katsir 7/458.
-[^2]: Lihat: Tafsir As-Sa’diy hal.820.
-[^3]: Lihat: At-Tahrir Wa At-Tanwir Li Ibnu ‘Asyur 27/113.
+[^2]: Lihat: Tafsir As-Sa'diy hal.820.
+[^3]: Lihat: At-Tahrir Wa At-Tanwir Li Ibnu 'Asyur 27/113.
 [^4]: H.R. Bukhari no.7510.
-[^5]: Lihat: At-Tahrir Wa At-Tanwir Li Ibnu ‘Asyur 27/114.
+[^5]: Lihat: At-Tahrir Wa At-Tanwir Li Ibnu 'Asyur 27/114.
 [^6]: Lihat: Al-Kassyaf Li Az-Zamakhsyariy 4/424.
-[^7]: Lihat: At-Tahrir Wa At-Tanwir Li Ibnu ‘Asyur 27/114.
+[^7]: Lihat: At-Tahrir Wa At-Tanwir Li Ibnu 'Asyur 27/114.
 
 ===== 4811 =====
 
@@ -11729,7 +11729,7 @@ Firman Allah ﷻ :
 
 Oleh karenanya masing-masing dari dua kelompok ini akan mendapatkan balasan dari sisi Allah ﷻ, yang mendapatkan petunjuk Allah akan balas dengan surga dan yang tersesat Allah akan balas dengan neraka Jahannam.
 
-[^1]: Lihat Tafsir Ibnu ‘Athiyyah 5/203.
+[^1]: Lihat Tafsir Ibnu 'Athiyyah 5/203.
 [^2]: HR. Muslim no.6945.
 [^3]: Lihat: Subulus Salaam 2/602
 [^4]: Lihat: Tafsir Al-Qurthuby 17/105
@@ -11774,9 +11774,9 @@ _Dia akan memberi balasan kepada orang-orang yang berbuat baik dengan pahala yan
 
 Disini timbul pertanyaan, siapakah orang-orang tersebut? Kata Allah ﷻ dalam ayat selanjutnya :
 
-[^1]: Lihat: Al-Nalaghoh Al-‘Arabiyyah hal: 537
+[^1]: Lihat: Al-Nalaghoh Al-'Arabiyyah hal: 537
 [^2]: Lihat: Tafsir Al-Qurthuby 17/106
-[^3]: Lihat: Al-Lubaab fii ‘Uluumil Kitaab 8/170
+[^3]: Lihat: Al-Lubaab fii 'Uluumil Kitaab 8/170
 
 ===== 4816 =====
 
@@ -11927,16 +11927,16 @@ Bisa jadi orang di depan kita dia memiliki kekurangan dalam sebagian hal misal j
 [^1]: Lihat penjelasan tentang كَبٰۤىِٕرَ الْاِثْمِ dan الْفَوَاحِشَ di Tafsir Al-Qurthuby 17/106
 [^2]: Lihat: At-Tahrir wat Tanwir 27/127
 [^3]: Lihat: Tafsir Al-Qurthuby 17/106-107
-[^4]: Lihat: Madaarijus Saalikiin Bayna Manaazili Iyyaaka Na’budu wa Iyyaaka Nasta’iin 1/324
+[^4]: Lihat: Madaarijus Saalikiin Bayna Manaazili Iyyaaka Na'budu wa Iyyaaka Nasta'iin 1/324
 [^5]: Tafsir Al-Qurthuby 17/108.
-[^6]: Lihat: Tafsir As-Sam’any 2/412
+[^6]: Lihat: Tafsir As-Sam'any 2/412
 [^7]: Lihat: Syarhus Shuduur bisyarhil Mautaa wal Qubuur hal: 285
 [^8]: Lihat: At-Tahrir wat Tanwir 27/125
 [^9]: HR. Bukhori 2/72
 [^10]: HR. Ahmad dalam musnadnya no. 27457
-[^11]: HR. Malik dalam kitab Muwattho’nya no. 3621
-[^12]: Lihat: Al-Mishbaahul Mudhy Fii Kitaabin Nabi Al-Ummy wa Rusulihi Ilaa Muluukil Ardhi min ‘Aroby wa ‘ajamy hal: 87
-[^13]: Mushonnaf Ibni Abi Syaibah 7/481 no 37390. Al-Haitsami berkata, رَوَاهُ الْبَزَّارُ، وَرِجَالُهُ ثِقَاتٌ “Diriwayatkan oleh Al-Bazzaar dan para perawinya tsiqoh” (Majma’ Az-Zawaid no 3/42 no 4225)
+[^11]: HR. Malik dalam kitab Muwattho'nya no. 3621
+[^12]: Lihat: Al-Mishbaahul Mudhy Fii Kitaabin Nabi Al-Ummy wa Rusulihi Ilaa Muluukil Ardhi min 'Aroby wa 'ajamy hal: 87
+[^13]: Mushonnaf Ibni Abi Syaibah 7/481 no 37390. Al-Haitsami berkata, رَوَاهُ الْبَزَّارُ، وَرِجَالُهُ ثِقَاتٌ "Diriwayatkan oleh Al-Bazzaar dan para perawinya tsiqoh" (Majma' Az-Zawaid no 3/42 no 4225)
 [^14]: HR At-Tirmidzi no 3747 dan dishahihkan oleh Al-Albani
 [^15]: HR. Bukhori no. 3294
 [^16]: HR Ahmad no 322 dan sanadnya dishahihkan oleh para pentahqiq al-Musnad.
@@ -12038,7 +12038,7 @@ Oleh karenanya jika anak-anak kita didik kemudian menjadi anak yang sholih dan m
 
 Firman Allah ﷻ,
 
-[^1]: Lihat Al-Umm karya Imam As-Syafi’i 4/126.
+[^1]: Lihat Al-Umm karya Imam As-Syafi'i 4/126.
 [^2]: Lihat Al Minhaj Syarah Sahih Muslim karya An Nawawy 1/90.
 [^3]: Lihat Hasyiyah Ibnu Abidin 1/605.
 [^4]: Lihat Tafsir Ibnu Katsir 7/465.
@@ -12196,7 +12196,7 @@ Adapun  makna اَقْنٰىۙ  maka terdapat dua penafsiran, ada yang mengata
 
 Bintang Syi'ra dalam bahasa latinnya adalah bintang Sirius[^1]. Kenapa Allah ﷻ khususkan bintang ini padahal terdapat banyak bintang dilangit? Menurut penjelasan para ulama karena bintang Sirius dahulu di sembah oleh orang-orang Arab dari kabilah khuza'ah[^2] karena bintang Sirius adalah bintang yang paling terang di malam hari sehingga mereka mempunyai keyakinan-keyakinan khurofat tentang bintang tersebut dan pada akhirnya mereka menyembahnya.
 
-[^1]: Sirius adalah bintang paling terang di langit malam. Nama Sirius diambil kata Yunani Σείριος, yang berarti “berkilau”. Dengan magnitudo tampak −1.46, Sirius hampir dua kali lebih terang dari Canopus, bintang paling terang ke-2 di langit malam. Lihat : https://id.wikipedia.org/wiki/Sirius
+[^1]: Sirius adalah bintang paling terang di langit malam. Nama Sirius diambil kata Yunani Σείριος, yang berarti "berkilau". Dengan magnitudo tampak −1.46, Sirius hampir dua kali lebih terang dari Canopus, bintang paling terang ke-2 di langit malam. Lihat : https://id.wikipedia.org/wiki/Sirius
 [^2]: Lihat At Tahrir 27/151.
 
 ===== 4834 =====
@@ -12410,10 +12410,10 @@ Kita orang Islam tidak butuh penjelasan dan penilitian mereka,  kalau Alquran t
 
 Intinya, ada sejarah atau tidak yang menyebutkan peristiwa tentang terbelahnya bulan tidaklah menjadikan kita sebagai orang Islam ragu akan hal itu. Ketika Allah Subhanahu wa ta'ala telah menyebutkan bahwa bulan pernah terbelah maka kita beriman dengan kabar tersebut. Dan sederhananya, jika peristiwa ini tidak pernah terjadi maka orang-orang kafir Quraisy tentu akan menjadikan ayat ini sebagai bahan ejekan terhadap Nabi shallallahu 'alaihi wasallam, dan mereka semakin kafir terhadapnya. Akan tetapi kenyataannya mereka semua diam dan tidak mengomentari tentang ayat ini, sehingga menunjukkan bahwa peristiwa terbelahnya bulan benar-benar pernah terjadi.
 
-[^1]: Lihat kitab Asyrooth as-Saa’ah karya Yusuf bin Abdillah bin Yusuf al-Waabil
+[^1]: Lihat kitab Asyrooth as-Saa'ah karya Yusuf bin Abdillah bin Yusuf al-Waabil
 [^2]: HR. Bukhari no. 6504
 [^3]: HR. Al-Bazzar no. 7242 dalam Musnadnya
-[^4]: Lihat: Al-Manaar Al-Muniif Fii Ash-Shohiih wa Adh-Dho’iif hal: 80-84
+[^4]: Lihat: Al-Manaar Al-Muniif Fii Ash-Shohiih wa Adh-Dho'iif hal: 80-84
 [^5]: Lihat: Tarikh Ath-Thobary 2/237
 [^6]: HR. Bukhari no. 4800
 [^7]: HR. Bukhari no. 479 dalam Al-Adab Al-Mufrad, Al-Albani mengatakan hadits ini sahih
@@ -12422,7 +12422,7 @@ Intinya, ada sejarah atau tidak yang menyebutkan peristiwa tentang terbelahnya b
 [^10]: Lihat: Tafsir Al-Alusy 14/74
 [^11]: HR. Bukhari no.  4868
 [^12]: Silahkan lihat http://quran-m.com/quran/article/2653/الأدلة-العلمية-والشرعية-على-انشقاق-القمر
-[^13]: Profesor Muhammad Hamidullah (1909-2002) dalam kitabnya, Muhammad Rasulullah memberi satu catatan tersendiri mengenai ini. Dia menjelaskan bahwa di Museum Britania, London, ada sebuah manuskrip tua dari India dengan nomor induk 2807/152-173 yang bercerita bahwa salah seorang raja Malabar -barat daya di India-, yaitu Chakrawati Farmas pernah melihat bulan terbelah pada zaman Rasulullah shallallahu ‘alaihi wasallam. Dia ceritakan pada orang-orang, hingga pada suatu hari, datang segerombolan pedagang Muslim yang hendak ke Cina, tetapi singgah dulu di Malabar. Tatkala mendengar cerita itu, pedagang-pedagang itu meyakinkan bahwa itu adalah mukjizat Rasulullah. Akhirnya dia mendatangi Rasulullah, dan kemudian masuk Islam. Dia pulang, tetapi sayang, di tengah jalan, ajal menjemput. Kemudian dia dikuburkan di tempat yang bernama Thafar. Kabar itu kemudian sampai ke Malabar, dan konon setelah itu semua penduduknya masuk Islam dan menjadi daerah pertama India yang masuk Islam. (silahkan lihat :  Al-Najjar, Zaghlul Raghib (2013). Buku Pintar Sains dalam Hadits: Mengerti Mukjizat Ilmiah Sabda Nabi  hlm.137 – 142.) (https://id.wikipedia.org/wiki/Terbelahnya_bulan)
+[^13]: Profesor Muhammad Hamidullah (1909-2002) dalam kitabnya, Muhammad Rasulullah memberi satu catatan tersendiri mengenai ini. Dia menjelaskan bahwa di Museum Britania, London, ada sebuah manuskrip tua dari India dengan nomor induk 2807/152-173 yang bercerita bahwa salah seorang raja Malabar -barat daya di India-, yaitu Chakrawati Farmas pernah melihat bulan terbelah pada zaman Rasulullah shallallahu 'alaihi wasallam. Dia ceritakan pada orang-orang, hingga pada suatu hari, datang segerombolan pedagang Muslim yang hendak ke Cina, tetapi singgah dulu di Malabar. Tatkala mendengar cerita itu, pedagang-pedagang itu meyakinkan bahwa itu adalah mukjizat Rasulullah. Akhirnya dia mendatangi Rasulullah, dan kemudian masuk Islam. Dia pulang, tetapi sayang, di tengah jalan, ajal menjemput. Kemudian dia dikuburkan di tempat yang bernama Thafar. Kabar itu kemudian sampai ke Malabar, dan konon setelah itu semua penduduknya masuk Islam dan menjadi daerah pertama India yang masuk Islam. (silahkan lihat :  Al-Najjar, Zaghlul Raghib (2013). Buku Pintar Sains dalam Hadits: Mengerti Mukjizat Ilmiah Sabda Nabi  hlm.137 – 142.) (https://id.wikipedia.org/wiki/Terbelahnya_bulan)
 
 ===== 4848 =====
 
@@ -12596,7 +12596,7 @@ Sungguh sangat berat sekali ujian yang dihadapi oleh Nabi Nuh 'alaihissalam. Ole
 
 [^1]: Lihat: At-Tahrir wat Tanwir 27/180
 [^2]: Lihat: Tafsir Ath-Thobary 15/326
-[^3]: Lihat: Tafsir Ibnu ‘Athiyyah 3/168
+[^3]: Lihat: Tafsir Ibnu 'Athiyyah 3/168
 
 ===== 4856 =====
 
@@ -12659,7 +12659,7 @@ Terkadang kita merasa ada masalah yang kita rasa tidak bisa untuk kita hadapi, m
 
 Maryam menyangka bahwa dirinya tidak bisa melalui ujian tersebut, akan tetapi karena Allah Subhanahu wa ta'ala tahu bahwa dia mampu melewati ujian tersebut maka Allah Subhanahu wa ta'ala meniupkan ruh ke dalam rahimnya. Maka demikian pula dengan kapal Nabi Nuh 'alaihissalam, meskipun tampak tidak mungkin untuk melewati ombak-ombak sebesar gunung, akan tetapi kapal tersebut akhirnya bisa melewatinya karena pertolongan Allah Subhanahu wa ta'ala.
 
-[^1]: Lihat: Tafsir As-Sa’dy hal: 825
+[^1]: Lihat: Tafsir As-Sa'dy hal: 825
 
 ===== 4861 =====
 
@@ -12673,9 +12673,9 @@ Kemudian Allah Subhanahu wa ta'ala menjelaskan bahwa azab dan peringatan-peringa
 
 [^1]: Sebagaimana firman Allah :
 	وَقِيلَ يَا أَرْضُ ابْلَعِي مَاءَكِ وَيَا سَمَاءُ أَقْلِعِي وَغِيضَ الْمَاءُ وَقُضِيَ الْأَمْرُ وَاسْتَوَتْ عَلَى الْجُودِيِّ
-	Dan difirmankan: “Hai bumi telanlah airmu, dan hai langit (hujan) berhentilah,” dan airpun disurutkan, perintahpun diselesaikan dan bahtera itupun berlabuh di atas bukit Judiy” (QS Huud :44)
+	Dan difirmankan: "Hai bumi telanlah airmu, dan hai langit (hujan) berhentilah," dan airpun disurutkan, perintahpun diselesaikan dan bahtera itupun berlabuh di atas bukit Judiy" (QS Huud :44)
 [^2]: Lihat: Tafsir Al-Qurthuby: 17/133
-[^3]: Lihat: Tafsir As-Sa’dy hal:825
+[^3]: Lihat: Tafsir As-Sa'dy hal:825
 
 ===== 4863 =====
 
@@ -13057,7 +13057,7 @@ _"Dan sungguh, peringatan telah datang kepada keluarga Fir'aun."[^1]_
 Dan اٰلَ adalah pengikut-pengikut Fir'aun[^2], dan النُّذُرُ yaitu peringatan-peringatan atau ancaman-ancaman[^3].
 
 [^1]: Lihat: At-Tahrir wat Tanwir: 27/208
-[^2]: Lihat: Tafsir Ibnu ‘Athhiyyah 5/220
+[^2]: Lihat: Tafsir Ibnu 'Athhiyyah 5/220
 [^3]: Lihat: Tafsir Al-Qurthubi 17/145
 
 ===== 4888 =====
@@ -13161,7 +13161,7 @@ _"Dan sungguh, pada esok harinya mereka benar-benar ditimpa azab yang menetap. M
 
 Para ulama di antaranya Ibnu 'Athiyyah menafsirkan firman Allah tentang kaum Luth عَذَابٌ مُّسْتَقِرٌّ "azab yang menetap" (QS Al-Qomar : 48) yaitu begitu mereka ditimpa dengan azab berupa hujan batu itu adalah awal azab yang tidak akan berhenti, jadi ketika mereka ditimpa dengan hujan batu, ditenggelamkan ke dalam tanah, diazab dalam barzakh, dan itu terus menimpa mereka hingga dibangkitkan pada hari kiamat dalam kondisi tersiksa kemudian masuk neraka Jahanam abadi selama-lamanya, sejak mereka diazab mereka terus diazab dengan azab yang tidak pernah berhenti[^1]. Maka Allah subhanahu wa ta'ala ingatkan juga kepada Abu Jahal dan kawan-kawannya bahwa mereka akan kalah, bahkan bukan hanya di dunia saja mereka akan kalah, bahkan nanti pada hari kiamat mereka akan diazab dengan azab yang lebih dahsyat dan lebih pahit. Adzab yang mereka rasakan di dunia (kalah dalam perang) bukanlah akhir siksaan bagi mereka, akan tetapi merupakan permulaan adzab yang tidak akan pernah berhenti selama-lamanya.
 
-[^1]: Lihat: Tafsir Ibnu ‘Athiyyah 5/219
+[^1]: Lihat: Tafsir Ibnu 'Athiyyah 5/219
 
 ===== 4893 =====
 
@@ -13238,10 +13238,10 @@ Beriman kepada takdir fungsinya banyak, jadi ketika membahasa tentang takdir buk
 "Dia tidak ditanya tentang apa yang diperbuat-Nya dan merekalah yang akan ditanyai." QS. Al-Anbiya: 23
 
 [^1]: Lihat: Tafsir Al-Qurthuby 17/147
-[^2]: Lihat: Tafsir Ibnu ‘Athiyyah 5/221 dan Al-Alusy 14/93
+[^2]: Lihat: Tafsir Ibnu 'Athiyyah 5/221 dan Al-Alusy 14/93
 [^3]: HR. Muslim no. 8
-[^4]: Lihat: Syarah al-Arbaín An-Nawawiyah, Ibnu Daqiiq al-Íed pada syarah hadits ke 4, dan juga Syarah Tsalaatsatul Ushuul karya Syaikh Al-‘Utsaimin hal: 114
-[^5]: Lihat: Syarh Al-‘Aqidah Ath-Thohawiyyah hal: 162-163
+[^4]: Lihat: Syarah al-Arbaín An-Nawawiyah, Ibnu Daqiiq al-Íed pada syarah hadits ke 4, dan juga Syarah Tsalaatsatul Ushuul karya Syaikh Al-'Utsaimin hal: 114
+[^5]: Lihat: Syarh Al-'Aqidah Ath-Thohawiyyah hal: 162-163
 [^6]: HR. Muslim no. 2653
 [^7]: HR. Abu Dawud no. 4700 dan dishohihkan oleh Al-Albani
 [^8]: HR. Abu Dawud no. 4700 dan dishohihkan oleh Al-Albani
@@ -13287,7 +13287,7 @@ Dan ini hanya sekedar mubalaghoh atau hiperbola dari Nabi shallallahu 'alaihi wa
 Maksudnya seseorang ketika berada di dalam janin, maka ada malaikat yang mencatat takdirnya, misalnya malaikat mencatat takdir seseorang bahwa orang tersebut usianya hanya sampai 40 tahun dan rezekinya hingga dia meninggal adalah 2 milyar, ternyata ketika dia telah dewasa dia berbakti kepada kedua orang tuanya, menyambung silaturahmi, dan dia berdoa kepada Allah subhanahu wa ta'ala, maka Allah subhanahu wa ta'ala kemudian memerintahkan malaikat untuk mengubah catatan takdir tersebut dari takdirnya yang dicatat oleh malaikat bahwa usianya hanya 40 tahun menjadi 80 tahun dan yang sebelumnya ditakdirkan rezekinya 2 milyar menjadi 6 milyar, dan semua perubahan ini telah dicatat di al-lauh al-mahfuzh. Jadi maksud dari hadits tersebut adalah untuk seseorang berusaha karena sebab yang paling kuat untuk mendapatkan hasil adalah doa, karena ini banyak yang dilalaikan oleh orang yang kebanyakan mereka menjadikan doa sebagai alternatif terakhir, jika mereka telah berusaha kemudian tidak mampu baru mereka berdoa. Dan ini salah, karena sebab utama untuk meraih keberhasilan adalah dengan berdoa baru kita berusaha, karena semuanya ada di tangan Allah subhanahu wa ta'ala.
 
 [^1]: Lihat: At-Tahrir wat tanwir 27/215
-[^2]: HR. Ahmad no 22386, dikatakan oleh Syu’aib Al-Arnauth bahwa hadits ini hasan lighoirih
+[^2]: HR. Ahmad no 22386, dikatakan oleh Syu'aib Al-Arnauth bahwa hadits ini hasan lighoirih
 [^3]: HR. Abu Yusuf da;lam kitabnya Al-Aatsaar no. 10454
 
 ===== 4896 =====
@@ -13371,19 +13371,19 @@ Disebutkan di dalam suatu riwayat dari Abdullah bin Mas'ud yang menunjukan bahwa
 
 "Ada seseorang datang kepada Ibnu Mas'ud seraya berkata: 'Aku membaca surat Al-Mufasshal dalam satu rakaat.' Maka Ibnu Mas'ud bertanya: 'Apakah kamu membacanya dengan cepat seperti membaca sya'ir? Akan tetapi, Rasulullah dahulu membaca dua surat Al-Mufasshal dalam satu rakaat, beliau membaca surat Ar-Rahman dan An-Najm dalam satu rakaat, Al-Qamar dan Al-Haqqah dalam satu rakaat, Ath-Thur dan Adz-Dzariyat dalam satu rakaat, Al-Waqi'ah dan Nun dalam satu rakaat, Al-Ma'arij dan An-Nazi'at dalam satu rakaat, Al-Muthaffifin dan 'Abasa dalam satu rakaat, Al-Muddatstsir dan Al-Muzzammil dalam satu rakaat, Al-Insan dan Al-Qiyamah dalam satu rakaat, An-Naba' dan Al-Mursalat dalam satu rakaat. Dan Ad-Dukhan dan At-Takwir dalam satu rakaat." [^4]
 
-[^1]: Lihat: Tafsir Ath-Thabariy 22/7 dan Tafsir Ibnu ‘Athiyyah 5/223.
+[^1]: Lihat: Tafsir Ath-Thabariy 22/7 dan Tafsir Ibnu 'Athiyyah 5/223.
 [^2]: Lihat: Tafsir Al-Qurthubiy 17/152
-[^3]: Lihat: Tafsir As-Sa’diy hal.501
+[^3]: Lihat: Tafsir As-Sa'diy hal.501
 [^4]: H.R. Abu Dawud no.1396  dan dishahihkan oleh Al-Albani di Ashl Shifat Sholat an-Nabi 1/404-405
 	Hadits ini menunjukan dibolehkannya membaca dua surat dalam satu rakaat, begitu juga dibolehkan membaca tiga surat dalam satu rakaat. Sebagaimana dalam hadits yang diriwayatkan oleh Hudzaifah,
 	صَلَّيْتُ مَعَ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ ذَاتَ لَيْلَةٍ، فَافْتَتَحَ الْبَقَرَةَ، فَقُلْتُ: يَرْكَعُ عِنْدَ الْمِائَةِ، ثُمَّ مَضَى، فَقُلْتُ: يُصَلِّي بِهَا فِي رَكْعَةٍ، فَمَضَى، فَقُلْتُ: يَرْكَعُ بِهَا، ثُمَّ افْتَتَحَ النِّسَاءَ، فَقَرَأَهَا، ثُمَّ افْتَتَحَ آلَ عِمْرَانَ،
-	“Pada suatu malam aku shalat bersama Nabi, lalu beliau mulai membaca surat Al-Baqarah. Maka aku berkata: ‘Beliau akan ruku’ setelah seratus ayat’ kemudian beliau melanjutkannya. Maka aku berkata: ‘Beliau akan membaca Al-Baqarah dalam satu rakaat.’ Lalu beliau melanjutkannya. Maka aku berkata: ‘Beliau akan ruku’.’ Kemudian beliau melanjutkan lagi dengan membaca surat An-Nisa, kemudian membaca surat Ali Imran.” (H.R. Muslim no.772)
-	Dalam satu riwayat dari Abdullah bin Mas’ud berkata:
+	"Pada suatu malam aku shalat bersama Nabi, lalu beliau mulai membaca surat Al-Baqarah. Maka aku berkata: 'Beliau akan ruku' setelah seratus ayat' kemudian beliau melanjutkannya. Maka aku berkata: 'Beliau akan membaca Al-Baqarah dalam satu rakaat.' Lalu beliau melanjutkannya. Maka aku berkata: 'Beliau akan ruku'.' Kemudian beliau melanjutkan lagi dengan membaca surat An-Nisa, kemudian membaca surat Ali Imran." (H.R. Muslim no.772)
+	Dalam satu riwayat dari Abdullah bin Mas'ud berkata:
 	صَلَّيْتُ مَعَ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَأَطَالَ حَتَّى هَمَمْتُ بِأَمْرِ سَوْءٍ، قَالَ: قِيلَ: وَمَا هَمَمْتَ بِهِ؟ قَالَ: «هَمَمْتُ أَنْ أَجْلِسَ وَأَدَعَهُ
-	“Aku pernah bersama Rasulullah, lalu beliau memanjangkan shalatnya, hingga aku berkeinginan sesuatu yang buruk. Dia berkata, ditanyakan kepadanya: ‘Apa yang engkau inginkan?’ Dia berkata: ‘Aku ingin duduk dan meninggalkan beliau (shalat)’.” (H.R. Muslim no. 773)
-	Dibolehkan juga membaca satu surat dalam satu rakaat, sebagaimana yang dilakukan semua orang pada umumnya. Seperti halnya, dibolehkan bagi seseorang membaca satu surat dari Al-Qur’an dibagi menjadi dua, setengah surat yang pertama dibaca dalam satu rakaat dan setengah surat yang tersisa dibaca pada rakaat yang lain (Lihat Ahkamul Qur’an Li Ibnu Al-‘Arabiy 4/336). Hal ini berdasarkan firman Allah:
+	"Aku pernah bersama Rasulullah, lalu beliau memanjangkan shalatnya, hingga aku berkeinginan sesuatu yang buruk. Dia berkata, ditanyakan kepadanya: 'Apa yang engkau inginkan?' Dia berkata: 'Aku ingin duduk dan meninggalkan beliau (shalat)'." (H.R. Muslim no. 773)
+	Dibolehkan juga membaca satu surat dalam satu rakaat, sebagaimana yang dilakukan semua orang pada umumnya. Seperti halnya, dibolehkan bagi seseorang membaca satu surat dari Al-Qur'an dibagi menjadi dua, setengah surat yang pertama dibaca dalam satu rakaat dan setengah surat yang tersisa dibaca pada rakaat yang lain (Lihat Ahkamul Qur'an Li Ibnu Al-'Arabiy 4/336). Hal ini berdasarkan firman Allah:
 	فَاقْرَءُوْا مَا تَيَسَّرَ مِنَ الْقُرْاٰنِۗ
-	“Karena itu bacalah apa yang mudah (bagimu) dari Al-Qur’an.” (QS. Al-Muzzammil: 20)
+	"Karena itu bacalah apa yang mudah (bagimu) dari Al-Qur'an." (QS. Al-Muzzammil: 20)
 	Bahkan, sebagian ulama membolehkan membaca satu ayat di bagi menjadi dua rakaat, yaitu setengah ayat pertama dibaca pada rakaat pertama dan setengah ayat yang tersisa dibaca pada rakaat yang kedua. Akan tetapi, dengan syarat jika ayat tersebut membawa makna yang lengkap. Namun demikian, sebaiknya seseorang menghindari permasalahan ini, karena yang dicontohkan oleh Nabi adalah dengan membaca satu surat yang lengkap dalam satu rakaat atau satu surat dibagi menjadi dua dalam dua rakaat.( Lihat: Fathul Qadir Li Al-Kamal Ibnu Al-Humam 1/332)
 
 ===== 4903 =====
@@ -13407,7 +13407,7 @@ _"Yang mengajar (manusia) dengan pena. Dia mengajarkan manusia apa yang tidak di
 Karena pena dan lisan adalah dua cara untuk mengungkapkan isi hati manusia. Dan hal ini yang membedakan antara manusia dengan makhluk yang lainnya. [^3]
 
 [^1]: Lihat: Tafsir Ath-Thabariy 22/8 dan Tafsir Al-Mawardiy 5/423.
-[^2]: Lihat; Tafsir Ibnu ‘Athiyyah 5/224 dan Tafsir Al-Qurthubiy 17/152.
+[^2]: Lihat; Tafsir Ibnu 'Athiyyah 5/224 dan Tafsir Al-Qurthubiy 17/152.
 [^3]: Lihat: Tafsir Al-Qurthubiy 20/120.
 
 ===== 4906 =====
@@ -13456,8 +13456,8 @@ _"Agar kamu mengetahui bilangan tahun, dan perhitungan (waktu). Allah tidak menc
 
 Maksudnya adalah agar kalian mampu menghitung hari, bulan, tahun dan hal yang lainnya.[^5]
 
-[^1]: Lihat: Tafsir Ath-Thabariy 22/11 dan Tafsir Ibnu ‘Athiyyah 5/224.
-[^2]: Lihat: Bayan Talbis Al-Jahmiyyah fii Ta’sisi Bida’ihim Al-Kalamiyyah Li Ibni Taimiyyah 4/6 dan Majmu’ Al-Fatawa Li Ibni Taimiyyah 6/586.
+[^1]: Lihat: Tafsir Ath-Thabariy 22/11 dan Tafsir Ibnu 'Athiyyah 5/224.
+[^2]: Lihat: Bayan Talbis Al-Jahmiyyah fii Ta'sisi Bida'ihim Al-Kalamiyyah Li Ibni Taimiyyah 4/6 dan Majmu' Al-Fatawa Li Ibni Taimiyyah 6/586.
 [^3]: Lihat: Tafsir Al-Qurthubiy 10/12 dan Tafsir Ibnu Katsir 4/529.
 [^4]: Lihat: Tafsir Ath-Thabariy 22/11.
 [^5]: Tafsir Al-Baghawiy 4/122.
@@ -13504,9 +13504,9 @@ Adapun matahari, bulan dan bintang-bintang ketika sujud, para ahli tafsir menera
 
 Intinya, manusia tidak pernah tahu persis bagaimana makhluk-makhluk tersebut sujud. Namun, Allah telah mengabarkan bahwa mereka sujud kepada Allah dan masing-masing makhluk tersebut sujud sesuai dengan cara makhluk itu sendiri.[^6]
 
-[^1]: Lihat: Tafsir Ibnu ‘Athiyyah 5/224.
+[^1]: Lihat: Tafsir Ibnu 'Athiyyah 5/224.
 [^2]: Lihat: Tafsir Ibnu Katsir 7/489.
-[^3]: Lihat: Jami’ Ar-Rasa’il Li Ibni Taimiyyah 1/41, Tafsir Ath-Thabariy 22/13 dan Tafsir Al-Mawardiy 5/424.
+[^3]: Lihat: Jami' Ar-Rasa'il Li Ibni Taimiyyah 1/41, Tafsir Ath-Thabariy 22/13 dan Tafsir Al-Mawardiy 5/424.
 [^4]: H.R. Bukhari no.812.
 [^5]: Lihat: Tafsir Ibnu Katsir 1/274
 [^6]: Lihat: Tafsir Al-Qurthubiy 10/111.
@@ -13536,7 +13536,7 @@ Diantara nikmat Allah yang besar yang telah diberikan kepada manusia adalah Alla
 Diantara kenikmatan Allah adalah Dia meletakkan (الْمِيْزَانِ). Ada dua pendapat maksud dari (الْمِيْزَانِ). Ada yang mengatakan maksudnya adalah timbangan yang sudah diketahui pada umumnya, entah timbangan yang memiliki dua daun timbangan, ukuran, volume, berat atau semua jenis timbangan yang ada. Terutama timbangan zaman sekarang, seperti timbangan digital. Sebagian ulama menafsirkan bahwa yang dimaksud dalam ayat tersebut adalah keadilan[^2]. Pendapat kedua sebagian ulama menyatakan yang dimaksud dengan timbangan adalah keadilan, yaitu hendaknya bersikpa adil ketika menimbang suatu barang, mengukur volume dengan benar dan dengan cara yang seharusnya. Maka dari itu, Allah memperingatkan kepada manusia agar jangan berbuat kedzaliman dalam menakar atau menimbang suatu benda, hingga jauh dari keadilan.[^3]
 
 [^1]: Lihat: Tafsir Ath-Thabariy 22/13.
-[^2]: Lihat: Tafsir Ibnu ‘Athiyyah 5/224.
+[^2]: Lihat: Tafsir Ibnu 'Athiyyah 5/224.
 [^3]: Lihta: Tafsir Al-Baghawiy 7/442
 
 ===== 4909 =====
@@ -13575,7 +13575,7 @@ Oleh karena itu, hendaknya seseorang selalu berhati-hati. Jika dia mengurangi ti
 
 Ini sekaligus menjadi peringatan bagi orang yang berjualan, berbisnis agar menghindari kedustaan dan kebohongan dalam bisnis atau dagangannya. Karena banyak cara yang digunakan untuk berbohong khususnya bagi para pedagang, yaitu dengan cara mengurangi timbangan atau takaran. Jadi, setiap kali dia mengurangi takaran, maka tanpa sadar, sejatinya dia telah mengurangi amal kebaikannya di akhirat.
 
-[^1]: Lihat: At-Tahrir Wa At-Tanwir Li Ibnu ‘Asyur 27/240.
+[^1]: Lihat: At-Tahrir Wa At-Tanwir Li Ibnu 'Asyur 27/240.
 [^2]: At-Tadzkirah Bi Ahwali Al-Mauta wa Umuur Al-Akhirah Li Al-Qurthubiy hal.726.
 [^3]: Tafsir Al-Qurthubiy 17/155.
 
@@ -13613,7 +13613,7 @@ Para ulama menjelaskan (الْأَكْمَام ذَاتُ) dengan dua tafsiran. 
 Intinya di dalam ayat ini Allah menjelaskan tentang macam-macam nikmat yang telah diberikan kepada manusia.
 
 [^1]: Lihat: Tafsir Ath-Thabariy 22/17.
-[^2]: Lihat: At-Tahrir Wa At-Tanwir Li Ibnu ‘Asyur 27/242.
+[^2]: Lihat: At-Tahrir Wa At-Tanwir Li Ibnu 'Asyur 27/242.
 [^3]: Lihat: Tafsir Al-Baghawiy 7/442 dan Tafsir Al-Qurthubiy 17/156.
 
 ===== 4913 =====
@@ -13622,8 +13622,8 @@ Artinya gandum, biji-bijian, beras dan lainnya yang menjadi makanan pokok bagi m
 
 Allah menyebutkan berbagai kenikmatan yang diberikan di muka bumi, diantaranya adalah biji-bijian yang murni memiliki gizi. Lalu buah-buahan yang manusia dapat merasakan kelezatannya. Begitu juga dengan kurma, memiliki khasiat yang bercampur antara buah-buahan dan gizi. Selain sebagai buah-buahan, dia juga memiliki gizi yang tinggi. Bahkan kenikmatan ini tidak hanya dirasakan untuk manusia saja, namun juga untuk hewan-hewan ternak. Allah siapkan daun-daun kering untuk hewan ternak yang ada di muka bumi ini. Kemudian tumbuhan-tumbuhan yang memiliki aroma-aroma yang harum.[^2]
 
-[^1]: Lihat: Bahr Al-‘Ulum Li As-Samarqandiy 3/379, Tafsir Ibnu ‘Athiyyah 5/225 dan Al-Qurthubiy 17/157.
-[^2]: Lihat: Al-Kassayaf Li Az-Zamakhsyariy 4/444 dan Ruh Al-Ma’aniy Li Al-Alusiy 14/103.
+[^1]: Lihat: Bahr Al-'Ulum Li As-Samarqandiy 3/379, Tafsir Ibnu 'Athiyyah 5/225 dan Al-Qurthubiy 17/157.
+[^2]: Lihat: Al-Kassayaf Li Az-Zamakhsyariy 4/444 dan Ruh Al-Ma'aniy Li Al-Alusiy 14/103.
 
 ===== 4914 =====
 
@@ -13649,9 +13649,9 @@ Diantara bentuk tidak bersyukur adalah manusia beribadah kepada selain Allah, me
 
 Disamping itu, diantara bentuk tidak bersyukur adalah manusia menyandarkan kenikmatan kepada diri sendiri. Yaitu merasa percaya diri karena kecerdasannya, pengalamannya sehingga dia meraih keberhasilan. Bahkan, perbuatan ini termasuk bentuk berdusta dengan nikmat Allah. Maka dari itu, hendaknya seseorang tidak mendustakan nikmat Allah, sekecil apapun nikmat tersebut. Segala yang dirasakan oleh manusia adalah murni dari Allah.[^3]
 
-[^1]: Lihat: Ruh Al-Ma’aniy Li Al-Alusiy 14/104.
+[^1]: Lihat: Ruh Al-Ma'aniy Li Al-Alusiy 14/104.
 [^2]: H.R. Tirmidzi no.3291 dan dihasankan oleh Al-Albani.
-[^3]: Lihat: Ruh Al-Ma’aniy Li Al-Alusiy 14/104.
+[^3]: Lihat: Ruh Al-Ma'aniy Li Al-Alusiy 14/104.
 
 ===== 4915 =====
 
@@ -13679,7 +13679,7 @@ Ayat ini menjelaskan semua karena kekuasaan Allah. Jika Allah ingin menghendaki 
 
 [^1]: Lihat: Tafsir Al-Mawardiy 5/428 dan Tafsir Al-Alusiy 14/104.
 [^2]: Lihat: Al-Kassyaf Li Az-Zamakhsyariy 1/367.
-[^3]: Lihat: Tafsir As-Sam’aniy 5/324 dan Tafsir Al-Qurthubiy 17/161.
+[^3]: Lihat: Tafsir As-Sam'aniy 5/324 dan Tafsir Al-Qurthubiy 17/161.
 [^4]: Lihat: Tafsir Ibnu Katsir 2/44.
 
 ===== 4916 =====
@@ -13715,13 +13715,13 @@ Kemiringan rotasi bumi yang mengelilingi matahari ini juga mengakibatkan pergant
 
 Di dalam ayat ini, Allah menyebutkan dua titik terbit dan dua titik terbenam, maksudnya adalah dua titik terbit di musim yang paling dingin dan di musim yang paling panas. Demikian juga dua titik terbenam di musim yang paling dingin dan di musim yang paling panas.[^1]
 
-[^1]: Lihat: At-Tahrir Wa At-Tanwir Li Ibnu ‘Asyur 27/247.
+[^1]: Lihat: At-Tahrir Wa At-Tanwir Li Ibnu 'Asyur 27/247.
 
 ===== 4919 =====
 
 Allah menyebutkan nikmatNya yang lain. Bahwa terbitnya matahari adalah suatu kenikmatan. Seandainya Allah tidak menerbitkan matahari, maka manusia akan binasa. Begitupun sebaliknya, seandainya Allah tidak membenamkan matahari, maka manusia akan binasa. Jadi, terbit dan terbenamnya matahari adalah kenikmatan dari Allah. Allah menciptakan siang dan malam. Di waktu siang manusia dapat beraktivitas, malam mereka istirahat dan begitu seterusnya, menunjukkan bahwa semua adalah nikmat dari Allah. Tidak ada yang berjalan dengan sendirinya, melainkan ada yang mengaturnya, yaitu Allah. [^1]
 
-[^1]: Lihat: Bahrul ‘Ulum Li As-Samarqandiy 3/381, Tafsir Ibnu Katsir 7/492 dan At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/248.
+[^1]: Lihat: Bahrul 'Ulum Li As-Samarqandiy 3/381, Tafsir Ibnu Katsir 7/492 dan At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/248.
 
 ===== 4920 =====
 
@@ -13763,10 +13763,10 @@ Bahkan, ada sebagian ulama yang menafsirkan bahwa di dalam laut terkadang ada ai
 
 Meskipun pendapat Ibnu Katsir lebih kuat, bahwa pembatas yang dimaksud adalah bumi atau tanah kering yang menghalangi antara air laut dengan air tawar. Namun, itulah dua tafsiran ulama yang disebutkan oleh para ahli tafsir.
 
-[^1]: Lihat: Bahrul ‘Ulum Li As-Samarqandiy 3/381.
+[^1]: Lihat: Bahrul 'Ulum Li As-Samarqandiy 3/381.
 [^2]: Lihat: Tafsir Ibnu Katsir 7/492.
-[^3]: LIhat: Tafsir Al-Qurthubiy 17/162, Adhwa’ul Bayan Li Asy-Syinqithiy 6/66 dan At-Tahrir wa At-Tanwir 27/2498.
-[^4]: Lihat: Adhwa’ul Bayan Li Asy-Syinqithiy 6/66.
+[^3]: LIhat: Tafsir Al-Qurthubiy 17/162, Adhwa'ul Bayan Li Asy-Syinqithiy 6/66 dan At-Tahrir wa At-Tanwir 27/2498.
+[^4]: Lihat: Adhwa'ul Bayan Li Asy-Syinqithiy 6/66.
 
 ===== 4921 =====
 
@@ -13800,9 +13800,9 @@ Akan tetapi telah disebutkan dalam tafsir Al-Alusiy bahwa beliau menukilkan seba
 
 Dan ternyata di zaman sekarang telah ditemukan bahwa terdapat mutiara dari dalam sungai. Barangkali pada zaman sebagian ahli tafsir belum diketahui bahwasanya terdapat mutiara yang berasal dari sungai. Maka dari itu, hendaknya seseorang memahami firman Allah dari dzahir ayat bahwa terdapat mutiara yang berasal dari sungai (air tawar) dan juga dari laut (air asin).
 
-[^1]: Lihat: Bahrul ‘Ulum Li As-Samarqandiy 3/381 dan Tafsir Al-Baghawiy 7/445.
+[^1]: Lihat: Bahrul 'Ulum Li As-Samarqandiy 3/381 dan Tafsir Al-Baghawiy 7/445.
 [^2]: Lihat: Tafsir Al-Baghawiy 7/445 dan Tafsir Al-Qurthubiy 17/163.
-[^3]: Lihat: Ruh Al-Ma’aniy Li Al-Alusiy 14/106.
+[^3]: Lihat: Ruh Al-Ma'aniy Li Al-Alusiy 14/106.
 
 ===== 4924 =====
 
@@ -13810,7 +13810,7 @@ Dan ternyata di zaman sekarang telah ditemukan bahwa terdapat mutiara dari dalam
 
 Di dalam ayat ini Allah menyebutkan diantara kenikmatanNya, yaitu menjadikan kapal yang besar dan berisi muatan-muatan yang banyak, namun mampu mengalir di atas air. Hal ini juga menunjukkan bahwa Allah memberikan kenikmatan kepada manusia, karena mereka mampu membuat kapal tersebut. Disamping itu, diantara nikmat Allah yang lain adalah air yang berada di lautan mampu menampung kapal-kapal yang dibuat oleh manusia dengan muatan-muatan yang berat. Dan itu semua tidak lepas dari kekuasaan Allah.[^1]
 
-[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/252
+[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/252
 
 ===== 4926 =====
 
@@ -13853,10 +13853,10 @@ _"Yang memiliki kebesaran dan kemuliaan tetap kekal."_
 Maksud dari (الْجَلَال) adalah (العَظَمَة) maknanya adalah Maha Agung. Sedangkan (الْإِكْرَام) memiliki makna pemuliaan. Artinya Allah adalah Dzat yang paling utama untuk dimuliakan oleh makhluk-makhlukNya. Dan bisa juga berarti Allah yang memuliakan makhluk-makhlukNya yaitu wali-waliNya, para nabi dan rasul dan orang-orang shaleh. Ini merupakan diantara sifat-sifat Allah.[^5]
 
 [^1]: Lihat: Tafsir Al-Qurthubiy 17/165.
-[^2]: H.R. An-Nasa’i no.1305 dan dishahihkan oleh Al-Albani.
+[^2]: H.R. An-Nasa'i no.1305 dan dishahihkan oleh Al-Albani.
 [^3]: HR Muslim no 293
-[^4]: Lihat: Tafsir Al-Qurthubiy 17/165 dan At-Tahrir Wa At-Tanwir Li Ibnu ‘Asyur 27/254.
-[^5]: Lihat: Tafsir Al-Qurthubiy 17/165 dan At-Tahrir Wa At-Tanwir Li Ibnu ‘Asyur 27/254.
+[^4]: Lihat: Tafsir Al-Qurthubiy 17/165 dan At-Tahrir Wa At-Tanwir Li Ibnu 'Asyur 27/254.
+[^5]: Lihat: Tafsir Al-Qurthubiy 17/165 dan At-Tahrir Wa At-Tanwir Li Ibnu 'Asyur 27/254.
 
 ===== 4928 =====
 
@@ -13891,7 +13891,7 @@ _"Setiap waktu Dia dalam kesibukan."_ (QS. Ar-Rahman: 29)
 Artinya Allah setiap waktu mengatur makhlukNya dan juga mengatur alam semesta. Adapun pernyataan orang-orang Qadariyyah adalah keliru dan tidak benar. Perumpamaannya adalah seperti seseorang yang menciptakan dua robot lalu di nyalakan kemudian dibiarkan begitu saja. Dan yang benar adalah bahwa semua makhluk yang ada di alam semesta ini berikut gerakan-gerakannya berada di bawah urusan Allah, "Setiap waktu Dia dalam kesibukan."
 
 [^1]: Lihat: Tafsir Al-Qurthubiy 17/166.
-[^2]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/255.
+[^2]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/255.
 [^3]: Lihat: Al-Kassyaf Li Az-Zamakhsyariy 4/447 dan Tafsir Al-Alusiy 14/110.
 
 ===== 4931 =====
@@ -13904,7 +13904,7 @@ Maka, hendaknya seseorang berhati-hati dalam beramal dan tidak menganggap bahwa 
 
 Dalam ayat ini Allah menyebut (الثَّقَلَان)[^2] artinya dua hal yang berat, maksudnya adalah golongan manusia dan jin. Adapun sebab dua golongan ini disebut demikian, sebagian ulama mengatakan karena manusia dan jin adalah makhluk yang dimuliakan Allah, oleh karena itulah mereka disebut Ats-Tsaqalan (dua hal yang berat). Ada juga yang mengatakan karena manusia dan jin-lah yang hanya diberi beban yang berat, yaitu berupa syariat. Mereka dibebani untuk menjalankan syariat, hukum halal dan haram. Berbeda dengan malaikat, hewan, tumbuhan dan yang lainnya, mereka merupakan makhluk yang tidak diberikan beban untuk menjalankan syariatNya. Ada juga ulama yang mengatakan karena mereka makhluk yang berat akibat beban dosa-dosa yang mereka lakukan. [^3]
 
-[^1]: Lihat: Bahrul ‘Ulum Li As-Samarqandiy 3/383 dan Tafsir Al-Baghawiy 7/447.
+[^1]: Lihat: Bahrul 'Ulum Li As-Samarqandiy 3/383 dan Tafsir Al-Baghawiy 7/447.
 [^2]: Dalam Bahasa arab (الثَّقَل) artinya adalah sesuatu yang berat
 [^3]: Lihat: Tafsir Al-Baghawiy 7/447 dan Tafsir Al-Qurthubiy 17/169 dan Tafsir Al-Alusiy 14/111.
 
@@ -13957,9 +13957,9 @@ Nikmat Allah yang ada pada ayat-ayat ancaman ini adalah Allah memberi peringatan
 Hendaknya seseorang bersyukur apabila ada orang lain yang mengingatkannya tentang perilaku maksiat yang telah dikerjakannya. Agar dia tidak mendapat siksa pada hari kiamat. Jadi, diantara rahmat dan nikmat Allah adalah Dia mengirimkan peringatan-peringatan kepada manusia dan jin.
 
 [^1]: Lihat: Tafsir Ibnu Katsir 7/496.
-[^2]: Lihat: Bahrul ‘Ulum Li As-Samarqandiy 3/384.
-[^3]: Lihat: Tafsir Ibnu Katsir 7/498, Tafsir Ath-Thabariy 23/47 dan Tafsir Ats-Tsa’labiy 9/187.
-[^4]: Lihat: Bahrul ‘Ulum Li As-Samarqandiy 3/384 dan Tafsir Al-Alusiy 14/112.
+[^2]: Lihat: Bahrul 'Ulum Li As-Samarqandiy 3/384.
+[^3]: Lihat: Tafsir Ibnu Katsir 7/498, Tafsir Ath-Thabariy 23/47 dan Tafsir Ats-Tsa'labiy 9/187.
+[^4]: Lihat: Bahrul 'Ulum Li As-Samarqandiy 3/384 dan Tafsir Al-Alusiy 14/112.
 
 ===== 4938 =====
 
@@ -13967,7 +13967,7 @@ Di dalam ayat ini Allah menyebutkan bahwa langit yang sekarang terlihat begitu k
 
 Adapun (وَرْدَة) memiliki dua tafsiran. Pertama: Bunga yang berwarna merah. Artinya langit tersebut berubah menjadi warna merah. Kedua: kuda tertentu yang memiliki warna abu-abu yang bercampur dengan warna kemerah-merahan. Disebutkan juga bahwa kuda tersebut dalam empat musim warnanya akan berubah-ubah, dan sebagian ulama ahli tafsir menyebut kuda ini dengan (الْكُمَيْت) artinya kuda khusus yang disebut dengan Ward dan mampu berubah warna. Artinya pada hari kiamat langit tersebut akan meleleh dan warna langit yang biru tersebut akan berubah menjadi warna-warni seperti halnya warna kuda yang mampu berubah-ubah tersebut. Demikianlah kondisi hari kiamat kelak.[^2]
 
-[^1]: Lihat: Tafsir Al-Baghawiy 7/449 dan Tafsir Ats-Tsa’labiy 9/187.
+[^1]: Lihat: Tafsir Al-Baghawiy 7/449 dan Tafsir Ats-Tsa'labiy 9/187.
 [^2]: Lihat: Tafsir Ath-Thabariy 23/50, Tafsir Al-Baghawiy 7/449 dan Tafsir Al-Qurthubiy 17/173.
 
 ===== 4939 =====
@@ -14044,8 +14044,8 @@ Setelah fase tersebut, orang-orang kafir diambil oleh malaikat pada ubun-ubun da
 
 Intinya, mereka dimasukkan ke neraka Jahannam dengan paksaan dan cara yang sangat menghinakan mereka.
 
-[^1]: Lihat: Bahrul ‘Ulum Li As-Samarqandiy 3/385.
-[^2]: Lihat: At-Tahrir Wa At-Tanwir Li Ibnu ‘Asyur 27/262.
+[^1]: Lihat: Bahrul 'Ulum Li As-Samarqandiy 3/385.
+[^2]: Lihat: At-Tahrir Wa At-Tanwir Li Ibnu 'Asyur 27/262.
 [^3]: Lihat: Tafsir Ibnu Katsir 7/499.
 [^4]: H.R. Bukhari no.136.
 [^5]: Lihat: Tafsir Ar-Raziy 29/367.
@@ -14122,10 +14122,10 @@ Adapun maksud **dua surga**, maka para ulama memiliki beberapa penafsiran tentan
 [^2]: Lihat: Tafsir Ath-Thabariy 23/58.
 [^3]: Lihat: Tafsir Ath-Thabariy 23/56 dan Al-Kassyaf Li Az-Zamakhsyariy 4/451.
 [^4]: Lihat: Tafsir Al-Baghawiy 7/451.
-[^5]: Lihat: Tafsir Ats-Tsa’labiy 9/189.
+[^5]: Lihat: Tafsir Ats-Tsa'labiy 9/189.
 [^6]: Lihat: Tafsir Ath-Thabariy 23/57.
 [^7]: Lihat: Tafsir Al-Qurthubiy 17/177.
-[^8]: H.R. Al-Hakim dalam Mustadrak nya no 4211, Imam Adz-Dzahabiy berkata: shahih sesuai syarat Al-Bukhari dan Muslim dan dishahihkan pula oleh Syaikh Al-Albani dalam Shahih Al-Jami’ no 7320.
+[^8]: H.R. Al-Hakim dalam Mustadrak nya no 4211, Imam Adz-Dzahabiy berkata: shahih sesuai syarat Al-Bukhari dan Muslim dan dishahihkan pula oleh Syaikh Al-Albani dalam Shahih Al-Jami' no 7320.
 
 ===== 4948 =====
 
@@ -14155,7 +14155,7 @@ Diantara sifat surga yang disebutkan pada ayat ini adalah terdapat dua air yang 
 
 Sebagian ulama ada yang mengatakan bahwasanya salah satunya adalah mata air dari Salsabil, sedangkan yang satunya lagi adalah mata air dari Tasnim. Dan sebagian ulama lain mengatakan bahwa dua mata air ini tidak bisa diperoleh kecuali oleh orang-orang yang kedua matanya mengalirkan air mata karena takut kepada Allah. Ada juga yang mengatakan bahwa keduanya adalah mata air khamr dan mata air yang segar[^1]. Intinya adalah bahwa terdapat dua mata air di dalam surga itu. Tidak ada dalil yang tegas yang menunjukkan tentang perincian hal tersebut.
 
-[^1]: Lihat: Tafsir Ats-Tsa’labiy 9/190 dan Tafsir Al-Baghawiy 7/452.
+[^1]: Lihat: Tafsir Ats-Tsa'labiy 9/190 dan Tafsir Al-Baghawiy 7/452.
 
 ===== 4951 =====
 
@@ -14193,10 +14193,10 @@ _"Dan buah-buahan di kedua surga itu dapat (dipetik) dari dekat."_ (QS Ar-Rahman
 
 Penghuni surga dalam kondisi bertelekan dapat memetik buah-buahan yang dahannya dapat mendekat ke penghuni surga tersebut tanpa perlu bersusah payah untuk memetiknya dan ia bisa memakan buahnya tanpa kepayahan sama sekali. Itu semua menunjukkan kekuasaan Allah atas segala sesuatu yang mungkin saja terjadi.[^4]
 
-[^1]: Lihat: Tafsir Ats-Tsa’labiy 9/190 dan Tafsir Al-Baghawiy 7/453.
-[^2]: Lihat: At-Tahrir Wa At-Tanwir Li Ibnu ‘Asyur 27/267.
-[^3]: Lihat: At-Tahrir Wa At-Tanwir Li Ibnu ‘Asyur 27/267.
-[^4]: Lihat: Tafsir Al-Qurthubiy 17/180 dan At-Tahrir Wa At-Tanwir Li Ibnu ‘Asyur 27/269.
+[^1]: Lihat: Tafsir Ats-Tsa'labiy 9/190 dan Tafsir Al-Baghawiy 7/453.
+[^2]: Lihat: At-Tahrir Wa At-Tanwir Li Ibnu 'Asyur 27/267.
+[^3]: Lihat: At-Tahrir Wa At-Tanwir Li Ibnu 'Asyur 27/267.
+[^4]: Lihat: Tafsir Al-Qurthubiy 17/180 dan At-Tahrir Wa At-Tanwir Li Ibnu 'Asyur 27/269.
 
 ===== 4956 =====
 
@@ -14299,13 +14299,13 @@ Oleh karena itu, sebagaimana disebutkan dalam ayat ini bahwa golongan jin dan ma
 [^1]: Lihat: Tafsir Al-Qurthubiy 17/180.
 [^2]: Lihat: Tafsir Ath-Thabariy 23/63.
 	­­([110]) Lihat: Tafsir Al-Qurthubiy 17/181.
-[^3]: Lihat: Ruh Al-Ma’aniy Li Al-Alusiy 14/118 dan At-Tahrir Wa At-Tanwir Li Ibnu ‘Asyur 27/270.
+[^3]: Lihat: Ruh Al-Ma'aniy Li Al-Alusiy 14/118 dan At-Tahrir Wa At-Tanwir Li Ibnu 'Asyur 27/270.
 [^4]: Lihat: Tafsir Al-Baghawiy 8/14.
 [^5]: Lihat: Tafsir Al-Qurthubiy 17/181 dan Tafsir Al-Alusiy 14/118.
 [^6]: Lihat: Tafsir Al-Qurthubiy 10/289.
 [^7]: H.R. Bukhari no. 141.
-[^8]: Lihat: Adhwa’ul Bayan Li Asy-Syinqithiy 2/415.
-[^9]: Lihat: Adhwa’ul Bayan Li Asy-Syinqithiy 2/415.
+[^8]: Lihat: Adhwa'ul Bayan Li Asy-Syinqithiy 2/415.
+[^9]: Lihat: Adhwa'ul Bayan Li Asy-Syinqithiy 2/415.
 [^10]: Lihat: Tafsir Al-Qurthubiy 17/181.
 [^11]: Lihat: Al-Kassyaf Li Az-Zamakhsyariy 2/179.
 
@@ -14372,7 +14372,7 @@ Akan tetapi, Allah sembunyikan dari makhlukNya dan tidak ada yang tahu tentang b
 [^3]: H.R. Thabraniy no. 9763 dan Al-Hakim no.8761.
 [^4]: H.R. al-Bukhari no 3245 dan Muslim no.2834.
 [^5]: H.R. Bukhari no.6568.
-[^6]: Lihat: At-Tahrir Wa At-Tanwir Li Ibnu ‘Asyur 21/229.
+[^6]: Lihat: At-Tahrir Wa At-Tanwir Li Ibnu 'Asyur 21/229.
 
 ===== 4959 =====
 
@@ -14399,7 +14399,7 @@ Diantara sifat orang yang takut kepada Allah adalah dia selalu merasa diawasi, k
 "Maka nikmat Tuhan kamu yang manakah yang kalian dustakan?" (QS. Ar-Rahman: 61)
 
 [^1]: H.R. Bukhari no.50.
-[^2]: Lihat: Tafsir Ath-Thabariy 23/67 dan At-Tahrir Wa At-Tanwir Li Ibnu ‘Asyur 27/271.
+[^2]: Lihat: Tafsir Ath-Thabariy 23/67 dan At-Tahrir Wa At-Tanwir Li Ibnu 'Asyur 27/271.
 
 ===== 4962 =====
 
@@ -14434,8 +14434,8 @@ Artinya dua surga yang kedudukannya berada di bawah.[^2]
 Syaikh As-Sa'diy mengatakan dua surga yang berada di atas diperuntukkan bagi orang-orang yang istimewa dan dua surga yang disebutkan dalam ayat ini diperuntukkan untuk penghuni surga secara umum.[^3]
 
 [^1]: H.R. Bukhari no.2790
-[^2]: Lihat: At-Tahrir Wa At-Tanwir Li Ibnu ‘Asyur 27/272.
-[^3]: Lihat: Tafsir As-Sa’diy hal.831.
+[^2]: Lihat: At-Tahrir Wa At-Tanwir Li Ibnu 'Asyur 27/272.
+[^3]: Lihat: Tafsir As-Sa'diy hal.831.
 
 ===== 4963 =====
 
@@ -14449,7 +14449,7 @@ Ayat ini menggambarkan tentang sifat surga yang berwarna hijau tua, karena banya
 
 "Maka nikmat Tuhan kamu yang manakah yang kalian dustakan?" (QS. Ar-Rahman: 65)
 
-[^1]: Lihat: Tafsir Al-Qurthubiy 17/185 dan At-Tahrir Wa At-Tanwir Li Ibnu ‘Asyur 27/272.
+[^1]: Lihat: Tafsir Al-Qurthubiy 17/185 dan At-Tahrir Wa At-Tanwir Li Ibnu 'Asyur 27/272.
 
 ===== 4966 =====
 
@@ -14457,7 +14457,7 @@ Ayat ini menggambarkan tentang sifat surga yang berwarna hijau tua, karena banya
 
 Pada dua surga yang berada pada tingkatan sebelumnya terdapat mata air yang mengalir. Jika air mengalir tentu tekanannya lebih besar, dibandingkan dengan air yang memancar, yang mana tekanannya lebih rendah dan ringan. Ini menunjukkan bahwa air tersebut terdapat pada derajat surga yang berada di bawahnya.[^1]
 
-[^1]: Lihat: Tafsir Ibnu Katsir 7/507 dan At-Tahrir Wa At-Tanwir Li Ibnu ‘Asyur 27/272.
+[^1]: Lihat: Tafsir Ibnu Katsir 7/507 dan At-Tahrir Wa At-Tanwir Li Ibnu 'Asyur 27/272.
 
 ===== 4968 =====
 
@@ -14692,7 +14692,7 @@ Hal ini tentu menggambarkan akan dahsyatnya hari kiamat. Bukan lagi mobil, rumah
 
 Setelah Allah Subhanahu wa ta'ala menggambarkan dahsyatnya hari kiamat tersebut, maka Allah kemudian menyebutkan bahwa pada hari itu manusia menjadi tiga kelompok. Inilah gambaran secara global tentang kondisi manusia pada hari kiamat kelak. [^1]
 
-[^1]: Lihat: Gharibul Qur’an Li Ibnu Qutaibah hal.384
+[^1]: Lihat: Gharibul Qur'an Li Ibnu Qutaibah hal.384
 
 ===== 4987 =====
 
@@ -14778,15 +14778,15 @@ Maka pertanyaannya adalah, apakah kita masih mungkin menjadi golongan As-Saabiqu
 
 Dan tentunya kita sadar bahwa kita sangat jauh jika dibandingkan dengan para ulama terdahulu. Hubungan kita dengan orang tua terkadang tidak beres, hubungan sama istri terkadang kurang baik, kurang perhatian terhadap anak, bahkan hubungan dengan Allah Subhanahu wa ta'ala pun seringnya tidak bagus. Lantas apa yang bisa kita andalkan untuk menjadi As-Saabiquun?
 
-[^1]: Lihat: Ma’anil Qur’an Li Az-Zajjaj 5/109
-[^2]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/286
+[^1]: Lihat: Ma'anil Qur'an Li Az-Zajjaj 5/109
+[^2]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/286
 [^3]: Lihat: Tafsir Al-Baghawiy 7/9
 [^4]: Lihat: Tafsir Ath-Thabariy 23/98
-[^5]: Lihat: Ma’anil Qur’an Li Az-Zajjaj 5/109
+[^5]: Lihat: Ma'anil Qur'an Li Az-Zajjaj 5/109
 [^6]: Lihat: Al-Kassyaf Li Az-Zamakhsyariy 4/458
 [^7]: HR. Bukhari no. 3650
 [^8]: Lihat: Tafsir Ibnu Katsir 7/518
-[^9]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/291
+[^9]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/291
 
 ===== 4994 =====
 
@@ -14796,7 +14796,7 @@ Di antara kenikmatan yang Allah juga sediakan bagi _As-Saabiquun_ adalah dipan-d
 
 Kemudian Allah Subhanahu wa ta'ala menyebutkan bahwa orang-orang As-Saabiquun tersebut akan bersandar di atas dipan-dipan tersebut dan saling berhadap-hadapan. Dan kita tahu bahwa مُتَّكِئِينَ adalah kondisi seseorang antara duduk dan tidur, dengan meletakkan siku dan kemudian bersandar. Ini menunjukkan bahwa mereka berada dalam kondisi sehat dan sedang dilayani. Dan demikianlah kondisi para raja yang sedang duduk menikmati pandangan di hadapan mereka. Kemudian Allah Subhanahu wa ta'ala juga menyebutkan bahwa mereka saling berhadap-hadapan. [^1] Tentunya ini menunjukkan adab yang mulia tatkala di surga, dimana seseorang berbicara dengan saling berhadap-hadapan. Maka dengan kondisi tersebut, mereka saling berbicara satu sama lain, berbicara dengan keluarga dan kawan-kawannya, bahkan berbicara dengan bidadari[^2]. Tentunya ini menunjukkan kebahagiaan yang luar biasa, karena berbeda halnya jika kita berbicara kepada seseorang, namun orang tersebut melihat ke kanan dan ke kiri, kita seakan-akan tidak dihargai.
 
-[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/292
+[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/292
 [^2]: Lihat: Tafsir Al-Qurthubiy 17/202
 
 ===== 4996 =====
@@ -14812,7 +14812,7 @@ Artinya, pelayan-pelayan tersebut tidak hanya kekal abadi di surga, akan tetapi 
 Maka kenikmatan yang Allah Subhanahu wa ta'ala berikan dengan adanya pelayan-pelayan tersebut dari dua sisi, pertama adalah karena giatnya pelayan-pelayan tersebut, dan kedua adalah nikmatnya memandang pelayan-pelayan tersebut yang menyenangkan untuk dipandang, karena Allah Subhanahu wa ta'ala menciptakan mereka dalam kondisi selalu muda. Dan disebutkan bahwa pelayan-pelayan tersebut senantiasa berkeliling dan siap untuk melayani. Tidak kemudian mereka berhenti dan menunggu panggilan untuk melayani. [^2]
 
 [^1]: Lihat: Tafsir Al-Qurthubiy 17/203
-[^2]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/293
+[^2]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/293
 
 ===== 4997 =====
 
@@ -14824,7 +14824,7 @@ Maka kenikmatan yang Allah Subhanahu wa ta'ala berikan dengan adanya pelayan-pel
 
 Jadi, khamr diambil oleh pelayan-pelayan tersebut, kemudian disiapkan dan dihindangkan kepada penghuni surga yang merupakan As-Saabiquun. [^1]
 
-[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/294
+[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/294
 
 ===== 4998 =====
 
@@ -14839,7 +14839,7 @@ Dalam sebuah hadits, Nabi shallallahu 'alaihi wasallam pernah bersabda,
 Oleh karena itu, seseorang harus menjaga dirinya jangan sampai meminum khamr di dunia. Sesungguhnya khamr adalah minuman terlezat yang ada di dunia, akan tetapi ganjaran bagi orang yang meminumnya di dunia dan tidak bertaubat dari itu, maka dia tidak akan dapat minum khamr di akhirat yang artinya dia bukanlah penghuni surga, karena penghuni surga minumannya adalah khamr.[^4]
 
 [^1]: Lihat: Tafsir Al-Baghawiy 8/10
-[^2]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/294
+[^2]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/294
 [^3]: HR. Bukhari no. 5575 dan HR. Muslim no. 2003
 [^4]: Lihat: Fathul Bari Li Ibnu Hajar 10/32
 
@@ -14847,7 +14847,7 @@ Oleh karena itu, seseorang harus menjaga dirinya jangan sampai meminum khamr di 
 
 Di antara kenikmatan yang Allah berikan kepada orang-orang As-Saabiquun adalah buah-buahan yang bebas mereka pilih. Bagi orang yang paham bahasa Arab, tentu mereka akan paham perbedaan antara kata يَخْتَارُوْن dan يَتَخَيَّرُونَ, karena kata يَتَخَيَّرُونَ menunjukkan bahwa mereka benar-benar berlezat-lezat dalam memilih. Buah di surga sangat banyak, sehingga mereka menikmati dalam perihal memilih buah tersebut.[^1]
 
-[^1]: Lihat: Tafsir Al-Qurthubiy 17/204 dan At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/295
+[^1]: Lihat: Tafsir Al-Qurthubiy 17/204 dan At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/295
 
 ===== 5000 =====
 
@@ -14864,7 +14864,7 @@ Saking indahnya bidadari tersebut, Allah Subhanahu wa ta'ala mengumpamakan merek
 Kita manusia tentunya selalu ingin sesuatu yang spesial termasuk dalam hal wanita. Adapun jika wanita tersebut semua orang dapat melihatnya, semua orang bisa menyentuhnya, maka bagaimana mungkin dia bisa mulia? Sampai-sampai sebagian daerah mengatakan tentang ini bahwa ada wanita-wanita yang bis kota, yaitu mereka seperti bis yang setiap orang bisa naik. Kalau sudah demikian seorang wanita, maka siapa yang ingin wanita seperti itu? Karena pada hakikatnya laki-laki senantiasa ingin wanita yang mulia, terjaga, belum ada laki-laki yang haram menyentuhnya, bahkan mungkin kita ingin bahwa wanita tersebut belum ada yang pernah melihatnya.
 
 [^1]: Lihat: Tafsir Al-Qurthubiy 15/80
-[^2]: Lihat: Bahrul ‘Ulum Li As-Samarqandiy 3/392
+[^2]: Lihat: Bahrul 'Ulum Li As-Samarqandiy 3/392
 
 ===== 5002 =====
 
@@ -14872,7 +14872,7 @@ Kita manusia tentunya selalu ingin sesuatu yang spesial termasuk dalam hal wanit
 
 Allah Subhanahu wa ta'ala menjelaskan bahwasanya kenikmatan-kenikmatan yang Allah sebutkan tersebut dibagi secara detail berdasarkan amalan masing-masing orang, sehingga yang menjadi barometer tingkatan seseorang di surga adalah amalannya. Ketahuilah bahwa Allah Subhanahu wa ta'ala tidak asal-asalan dalam memberikan kenikmatan bagi seorang hamba di surga, karena dalam ayat ini Allah Subhanahu wa ta'ala menjelaskan bahwa mereka mendapatkan kenikmatan tersebut sebagai balasan atas amal yang mereka kerjakan[^1]. Maka dari itu setiap dari kita sadar diri bahwa jika kita ingin untuk mendapatkan surga yang tinggi maka kita harus semangat melakukan amalan-amalan, baik amalan batin ataupun amalan zahir, karena surga tidak bisa diraih dengan angan-angan dan impian, dan tingkatan seseorang di surga tergantung amalannya di dunia. Oleh karenanya penulis sering sampaikan pula bahwa satu pandangan/lirikan mata kita di dunia ini memengaruhi derajat kita di surga, yaitu dengan melepaskan atau menundukkan pandangan maka akan memengaruhi derajat kita di surga atau di neraka, karena timbangan Allah Subhanahu wa ta'ala sangat detail. Seseorang yang menundukkan pandangan dari hal yang diharamkan tentu surganya tidak akan sama dengan orang yang melepaskan dan mengumbar pandangannya dan melihat apa saja yang ingin dia lihat. Maka ketahuilah bahwa ayat ini menunjukkan Allah Subhanahu wa ta'ala sangat detail dan teliti dalam memberikan kenikmatan-kenikmatan dan tingkatan-tingkatan bagi penghuni surga, berdasarkan amalan yang dilakukan oleh seseorang selama di dunia.
 
-[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/296
+[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/296
 
 ===== 5004 =====
 
@@ -14881,7 +14881,7 @@ Selain Allah Subhanahu wa ta'ala memberikan kenikmatan kepada penghuni surga ber
 Di surga, tidak ada kata-kata yang menusuk lagi menyakitkan, tidak ada ghibah, tidak ada namimah, seluruh perkataan di surga membuat senang. Tidak sebagaimana kita di dunia, betapa banyak kata-kata yang kita dengar dan ucapkan dapat menyakitkan hati kita maupun hati orang lain. Di dunia, betapa banyak kata-kata yang merendahkan, menyindir, bahkan ada banyak kata-kata yang menunjukkan kesombongan. Terkadang  dalam lingkungan keluarga, antara suami dan istri juga tidak jarang ada kata-kata yang menyakitkan hati satu sama lain, antara anak dan orang tua juga terkadang ada kata-kata yang menyakitkan. Bahkan tatkala kita melihat komentar-komentar orang di media sosial, kita akan melihat beragam bentuk kata yang tidak enak untuk dibaca. Akan tetapi di surga, seluruh bentuk kata-kata yang tidak menyenangkan tersebut tidak ada. Antara satu penghuni surga dengan penghuni lainnya akan senantiasa tersenyum tatkala mereka bertemu, tidak ada perkataan mereka yang sia-sia, atau yang menimbulkan dosa.[^2]
 
 [^1]: Lihat: Tafsir Al-Mawardiy 5/452
-[^2]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/296
+[^2]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/296
 
 ===== 5005 =====
 
@@ -14898,7 +14898,7 @@ Ini menunjukkan bahwa penghuni surga sangat dihargai dan dihormati, karena para 
 Inilah deretan nikmat-nikmat yang Allah Subhanahu wa ta'ala peruntukkan orang golongan penghuni surga dengan tingkatan tertinggi, yaitu As-Saabiquun.
 
 [^1]: Lihat: Tafsir Al-Qurthubiy 17/206
-[^2]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/297
+[^2]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/297
 
 ===== 5006 =====
 
@@ -14922,7 +14922,7 @@ Di antara kenikmatan yang Allah Subhanahu wa ta'ala berikan kepada penghuni surg
 طَلْحٍ adalah sebuah jenis pohon tertentu, dan terdapat khilaf di kalangan para ulama tentangnya. Ada yang mengatakan bahwa طَلْحٍ adalah pohon yang besar, dan ada yang mengatakan bahwa طَلْحٍ adalah pohon pisang[^1]. Akan tetapi banyak ulama yang merajihkan bahwasanya طَلْحٍ bukanlah pohon pisang, karena pisang bukanlah tumbuhan di Jazirah Arab tatkala itu, padahal Allah Subhanahu wa ta'ala sedang berbicara dengan perkara-perkara yang dipahami oleh orang-orang kafir Quraisy. Oleh karenanya yang dimaksud dengan طَلْحٍ adalah tumbuhan spesial di Jazirah Arab tatkala itu, namun pohon ini tidak rapi, sehingga Allah menyebutkan bahwa di surga kelak tumbuhan tersebut akan tersusun rapi, rapi dengan batang-batangnya, rapi dengan daun-daunnya, atau rapi buah-buahannya. Adapun yang mengatakan bahwa طَلْحٍ adalah pisang, maka sebagian ulama lain menjelaskan bahwa kemungkinan maksud mereka adalah untuk menjelaskan bahwa pohon tersebut akan rapi di surga sebagaimana buah pisang yang tersusun rapi.[^2]
 
 [^1]: Lihat: Tafsir Al-Baghawiy 8/12
-[^2]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/299
+[^2]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/299
 
 ===== 5010 =====
 
@@ -15024,7 +15024,7 @@ Beberapa deretan nikmat yang telah disebutkan setelah nikmat bagi As-Saabiquun a
 
 Ini menunjukkan bahwa kesempatan untuk menjadi Ashabul Yamiin lebih besar daripada kesempatan menjadi As-Saabiquun, karena derajatnya yang berada di bawah As-Saabiquun.[^1]
 
-[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/303
+[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/303
 
 ===== 5019 =====
 
@@ -15048,13 +15048,13 @@ Namanya kita manusia di dunia ini tentu selalu mencari sesuatu yang segar-segar 
 Dalam ayat ini menjelaskan bahwa saking panasnya air tersebut, bahkan sebelum mereka meminum air tersebut, panas dari air tersebut telah menghanguskan wajah-wajah mereka.[^2]
 
 [^1]: Lihat: Al-Kassyaf Li Az-Zamakhsyariy 4/463
-[^2]: Lihat: Tafsir Al-Qur’an Al-Karim Surat Al-Kahfi Li Ibnu Al-‘Utsaimin hal.63
+[^2]: Lihat: Tafsir Al-Qur'an Al-Karim Surat Al-Kahfi Li Ibnu Al-'Utsaimin hal.63
 
 ===== 5022 =====
 
 Kita di dunia, tatkala menghindari teriknya matahari, maka kita mencari pohon untuk bernaung. Dan Ashabu Asy-Syimaal di neraka juga diberikan tempat bernaung berupa asap yang hitam, dan mereka berharap naungan tersebut bisa memberikan kesejukan. Akan tetapi ternyata naungan tersebut sangat panas, dan ketika asap tersebut melewati mereka maka mereka pun hangus[^1]. Kalau penulis boleh mengibaratkan bagaimana asap tersebut, maka seperti asap Wedhus Gembel[^2] yang sangat panas dan mematikan.
 
-[^1]: Lihat: Tafsir Ibnu ‘Athiyyah 5/246
+[^1]: Lihat: Tafsir Ibnu 'Athiyyah 5/246
 [^2]: Wedhus gembel secara bahasa artinya domba/kambing yang berbulu lebat, akan tetapi  nama wedhus gembel akrab terdengar bagi warga di sekitar Gunung Merapi. Wedhus gembel yang dimaksud ini bukanlah domba berbulu lebat, melainkan julukan untuk awan panas bergulung-gulung yang acap menyertai letusan Merapi, yang suhunya bisa mencapai 700 derajat celcius.
 
 ===== 5023 =====
@@ -15066,8 +15066,8 @@ Ketahuilah bahwa Allah Subhanahu wa ta'ala belum berbicara tentang api neraka, m
 Lantas, kenapa mereka bisa mendapatkan siksaan tersebut? Allah Subhanahu wa ta'ala menyebutkan sebab-sebabnya pada ayat selanjutnya.[^3]
 
 [^1]: Lihat: Tafsir Al-Baghawiy 8/18
-[^2]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/305
-[^3]: Lihat: Tafsir As-Sa’diy hal.834
+[^2]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/305
+[^3]: Lihat: Tafsir As-Sa'diy hal.834
 
 ===== 5024 =====
 
@@ -15089,9 +15089,9 @@ Contoh sederhana, tatkala seseorang hendak membeli mobil yang mewah, maka hendak
 
 Dalam ayat ini Allah menyebutkan bahwa di antara penyebab penghuni neraka disiksa adalah karena dahulu mereka bermewah-mewahan sehingga lalai dari Allah Subhanahu wa ta'ala, serta sombong dan merendahkan orang lain. Oleh karenanya penulis ingatkan bagi para laki-laki maupun wanita, untuk berhati-hati dengan barang mewah yang kita miliki, karena betapa banyak barang mewah tersebut telah membuat kita merasa lebih dari orang lain.
 
-[^1]: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/305
+[^1]: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/305
 [^2]: HR. Bukhari no. 6416
-[^3]: Majmu’ Fataawa 10/641
+[^3]: Majmu' Fataawa 10/641
 
 ===== 5025 =====
 
@@ -15130,7 +15130,7 @@ Pohon Zaqqum adalah pohon dengan buah yang sangat tidak enak[^1]. Oleh karenanya
 Penulis sering mengibaratkan tentang busuknya pohon Zaqqum dengan sebuah rumah mewah yang kita tinggali namun ada bangkai tikus yang tidak bisa kita buang sehingga bau bangkai tersebut mengganggu kehidupan kita di rumah. Dalam kondisi seperti itu maka rusaklah kehidupan kita, meskipun kita tinggal di rumah mewah, dengan makanan mewah, dan dengan perabot serta fasilitas yang mewah. Namun demikianlah, meskipunmereka tahu bahwa zaqqum adalah buah yang sangat tidak enak lagi menjijikkan, akan tetapi karena mereka sangat lapar maka mau tidak mau mereka tetap memakannya.
 
 [^1]: Tafsir Al-Qurthubiy 17/214
-[^2]: Shahihul Jami’ Ash-Shaghir no. 5250
+[^2]: Shahihul Jami' Ash-Shaghir no. 5250
 
 ===== 5033 =====
 
@@ -15139,7 +15139,7 @@ Penulis sering mengibaratkan tentang busuknya pohon Zaqqum dengan sebuah rumah m
 Setelah mereka makan dengan sangat tidak nyaman, maka mereka ingin minum. Akan tetapi yang mereka minum setelah memakan makanan yang busuk adalah air yang sangat panas, dan mereka akan minum seperti unta yang sangat kehausan. [^1]Sebagian ulama menafsirkan bahwa الْهِيمِ adalah unta yang sakit, dan ketika sakit dia tidak pernah merasa hilang dahaganya sehingga ingin terus minum. Maka demikianlah penghuni neraka Jahannam, karena dahaga mereka tidak pernah hilang maka mereka akan minum terus menerus hingga perut mereka besar dan meledak. Demikianlah Allah Subhanahu wa ta'ala menggambarkan tentang penghuni neraka Jahannam.[^2]
 
 [^1]: Lihat: Tafsir Ath-Thabariy 23/134
-[^2]: Lihat: Tafsir Al-Mawardiy 5/457, Tafsir Al-Baghawiy 8/19 dan Tafsir Ibnu ‘Athiyyah 5/247
+[^2]: Lihat: Tafsir Al-Mawardiy 5/457, Tafsir Al-Baghawiy 8/19 dan Tafsir Ibnu 'Athiyyah 5/247
 
 ===== 5035 =====
 
@@ -15158,7 +15158,7 @@ Ketika mereka orang-orang kafir Quraisy mengingkari adanya hari kebangkitan[^1],
 
 Kita semua laki-laki paham bahwa kita tidak bisa menciptakan air mani. Dan tatkala usia kita belum baligh, kita tidak bisa menciptakan air mani. Akan tetapi Allah Subhanahu wa ta'ala-lah yang menentukan kapan air mani itu bisa muncul. Bahkan ketika kita sudah keluarkan air mani tersebut, maka kita tidak bisa kemudian mengeluarkannya lagi, melainkan kita harus menunggu beberapa saat agar air mani tersebut terkumpulkan untuk bisa dikeluarkan kembali. Ini semua menunjukkan bahwa yang menciptakan air mani adalah Allah Subhanahu wa ta'ala, meskipun hal tersebut adalah diri kita. Dan bukti lain bahwa kita tidak bisa menciptakan air mani adalah ketika kita telah keluarkan dan air mani tersebut berada dalam rahim seorang wanita, maka kita tidak bisa tentukan bagaimana kesudahan air mani tersebut[^1]. Kita tidak bisa menentukan bahwa air mani itu akan menjadi janin yang kelak putih, tinggi, mancung, dan pintar. Hal seperti ini diluar kehendak kita. Ini menunjukkan bahwa air mani itu bukanlah ciptaan kita melainkan ciptaan Allah Subhanahu wa ta'ala.[^2]
 
-[^1]: Lihat: Gharibul Qur’an Li Ibnu Qutaibah hal.388
+[^1]: Lihat: Gharibul Qur'an Li Ibnu Qutaibah hal.388
 [^2]: Lihat: Al-Kassyaf Li Az-Zamakhsyariy 4/465
 
 ===== 5038 =====
@@ -15175,7 +15175,7 @@ Para ulama mengatakan, ini menunjukkan bahwa kematian adalah seperti sesuatu yan
 
 Maka ketika mereka sadar bahwa hidup dan mati mereka itu diatur oleh Allah Subhanahu wa ta'ala, lantas mengapa mereka tidak mau membenarkan bahwa Allah Subhanahu wa ta'ala bisa membangkitkan mereka pada hari kiamat kelak?[^1]
 
-[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/314
+[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/314
 
 ===== 5040 =====
 
@@ -15189,7 +15189,7 @@ Sebagian ulama mengatakan bahwa ini adalah dalil yang menunjukkan manusia akan d
 
 Laki-laki yang masuk surga akan dijadikan tampan oleh Allah Subhanahu wa ta'ala, dan wanita-wanita yang masuk surga akan dijadikan semakin cantik jelita. [^1]
 
-[^1]: Lihat: I’rabul Qur’an Li An-Nahhas 4/226
+[^1]: Lihat: I'rabul Qur'an Li An-Nahhas 4/226
 
 ===== 5041 =====
 
@@ -15288,7 +15288,7 @@ Sumpah yang dimaksud adalah Allah Subhanahu wa ta'ala bersumpah bahwa Alquran ad
 Ayat ini berbicara tentang Alquran yang ada di Lauhil Mahfudzh, dan bukan Alquran yang kita pegang saat ini, karena Allah Subhanahu wa ta'ala menyebutkan bahwa Alquran tersebut tersimpan di tempat yang terpelihara yaitu Lauhil Mahfudzh, dan yang menyentuhnya hanyalah para malaikat yang disucikan oleh Allah Subhanahu wa ta'ala. [^2]
 
 [^1]: Lihat: Tafsir Al-Baghawiy 8/23
-[^2]: Lihat: Syarhul ‘Umdah Li Ibnu Taimiyyah Kitab Ath-Thaharah hal.383
+[^2]: Lihat: Syarhul 'Umdah Li Ibnu Taimiyyah Kitab Ath-Thaharah hal.383
 
 ===== 5056 =====
 
@@ -15302,7 +15302,7 @@ Ayat ini berbicara tentang Alquran yang ada di Lauhil Mahfudzh, dan bukan Alqura
 
 Yaitu Alquran yang turun dari Allah Subhanahu wa ta'ala, yang sangat mulia[^1], lantas kemudian mereka meremehkannya?[^2]
 
-[^1]: Lihat: Tafsir Ibnu ‘Athiyyah 5/252
+[^1]: Lihat: Tafsir Ibnu 'Athiyyah 5/252
 [^2]: Lihat: Tafsir Al-Mawardiy 5/465
 
 ===== 5061 =====
@@ -15315,7 +15315,7 @@ Ayat ini berkaitan dengan orang-orang yang tatkala turun hujan, mereka menyandar
 
 Para paragraf terakhir dari surah Al-Waqi'ah, Allah Subhanahu wa ta'ala menceritakan tentang kondisi manusia tatkala meninggal dunia. Dan Allah memulai dengan firman-Nya ini.[^1]
 
-[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 27/346
+[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 27/346
 
 ===== 5063 =====
 
@@ -15421,7 +15421,7 @@ Kita boleh mengatakan bahwa Allah Subhanahu wa ta'ala mampu untuk menciptakan du
 
 Ketiga : Mumkinat, yaitu perkara yang mungkin terjadi. Inilah yang dimaksud "sesuatu" dalam bahasa Arab. Dan inilah yang termasuk dalam ke-Mahakuasaan Allah[^1].
 
-[^1]: Lihat penjelasan Ibnu Taimiyyah di Majmuu’ al-Fatawaa 8/8 dan Minhaaj As-Sunnah an-Nabawiyah 1/350
+[^1]: Lihat penjelasan Ibnu Taimiyyah di Majmuu' al-Fatawaa 8/8 dan Minhaaj As-Sunnah an-Nabawiyah 1/350
 
 ===== 5077 =====
 
@@ -15521,9 +15521,9 @@ Oleh karena itu, dengan tiga sebab inilah Al-Ghazali mengafirkan para Ahli Filsa
 
 [^1]: HR. Muslim no. 2713
 [^2]: HR. Bukhari no. 7418
-[^3]: Beliau adalah Abu Hamid Muhammad bin Muhammad Al-Ghazali Ath-Thusi, pengarang kitab Ihya’ ‘Ulumuddin
+[^3]: Beliau adalah Abu Hamid Muhammad bin Muhammad Al-Ghazali Ath-Thusi, pengarang kitab Ihya' 'Ulumuddin
 [^4]: Al-Ghazali mengkhususkan kepada Ibnu Sina dan Al-Farabi
-[^5]: Ibnu Sina memiliki syubhat-syhubat yang lain, dan syubhat-syubhat tersebut telah penulis sebutkan dan penulis bantah di Tesis penulis yang berjudul أَجْوِبَةُ شَيْخِ الإِسْلاَمِ اِبْنِ تَيْمِيَّةَ عَنِ الشُّبْهَاتِ التَّفْصِيْلِيَّةِ لِلْمُعَطِّلَةِ فِي الصِّفَاتِ الذَّاتِيَّةِ “Jawaban-jawaban Ibnu Taimiyyah atas syubhat-syubhat terperinci para penolak sifat yang berkaitan dengan sifat-sifat Dzatiah Allah”
+[^5]: Ibnu Sina memiliki syubhat-syhubat yang lain, dan syubhat-syubhat tersebut telah penulis sebutkan dan penulis bantah di Tesis penulis yang berjudul أَجْوِبَةُ شَيْخِ الإِسْلاَمِ اِبْنِ تَيْمِيَّةَ عَنِ الشُّبْهَاتِ التَّفْصِيْلِيَّةِ لِلْمُعَطِّلَةِ فِي الصِّفَاتِ الذَّاتِيَّةِ "Jawaban-jawaban Ibnu Taimiyyah atas syubhat-syubhat terperinci para penolak sifat yang berkaitan dengan sifat-sifat Dzatiah Allah"
 
 ===== 5079 =====
 
@@ -15583,7 +15583,7 @@ Allah Subhanahu wa ta'ala berkata kepada Nabi Musa dan Nabi Harun 'alaihimassala
 
 Oleh karena itu, jangan kemudian kebersamaan Allah dengan makhluknya dalam ayat ini ditafsirkan dengan kebersamaan Dzat Allah seperti yang diyakini oleh Ahlul Bid'ah yang mengatakan bahwa Allah itu ada di mana-mana (seperti pemahaman sebagian Jahmiyah), bahkan sampai-sampai ada yang mengatakan bahwa Allah bisa bersatu dengan makhluknya (seperti pemahaman al-Hululiyah atau al-Ittihaadiah). Sesungguhnya keyakinan seperti itu adalah bentuk kekufuran, dan yang benar adalah Allah Subhanahu wa ta'ala bersama kita dengan ilmu-Nya, adapun Dzat-Nya tidak.
 
-[^1]: Majmu’ Fataawaa 3/25
+[^1]: Majmu' Fataawaa 3/25
 
 ===== 5080 =====
 
@@ -15800,12 +15800,12 @@ Artinya para sahabat baik yang beriman sebelum atau sesudah Fathu Makkah, yang b
 [^2]: HR. Muslim no. 2541
 [^3]: HR. Bukhari no. 3661
 [^4]: HR. Ibnu Majah no. 94
-[^5]: Al-Foshol fi al-Milal wa an-Nihal wa al-Ahwaa’ 4/116
+[^5]: Al-Foshol fi al-Milal wa an-Nihal wa al-Ahwaa' 4/116
 [^6]: HR. Bukhari no. 3007
 [^7]: HR. Muslim no. 2496
 [^8]: HR. Ahmad no. 1675, dan diriwayatkan pula oleh At-Tirmidzi dan yang lainnya
 [^9]: HR. Bukhari no. 2924
-[^10]: Sebagaimana telah lalu penukilan perkataan Ibnu Hazm di Al-Foshol fi al-Milal wa an-Nihal wa al-Ahwaa’ 4/116
+[^10]: Sebagaimana telah lalu penukilan perkataan Ibnu Hazm di Al-Foshol fi al-Milal wa an-Nihal wa al-Ahwaa' 4/116
 
 ===== 5086 =====
 
@@ -16124,7 +16124,7 @@ Para ulama menjelaskan bahwasanya amal yang kita lakukan selama di dunia ini tid
 Maka kita senantiasa berdoa agar kita termasuk orang-orang yang dikehendaki oleh-Nya untuk masuk ke dalam surga.
 
 [^1]: HR. Muslim no. 1901
-[^2]: Sebagai perumpamaan sederhana, tentu seorang pegawai lebih semangat bekerja jika bosnya berkata, “Saya sudah membangunkan rumah bagimu, dengan sifat-sifat begini dan begitu….kalau kamu bekerja dengan baik maka saya akan serahkan kuncinya kepadamu”.  Lain halnya jika bosnya berkata, “Kalau kamu bekerja dengan baik maka saya akan membangunkan rumah bagimu”
+[^2]: Sebagai perumpamaan sederhana, tentu seorang pegawai lebih semangat bekerja jika bosnya berkata, "Saya sudah membangunkan rumah bagimu, dengan sifat-sifat begini dan begitu….kalau kamu bekerja dengan baik maka saya akan serahkan kuncinya kepadamu".  Lain halnya jika bosnya berkata, "Kalau kamu bekerja dengan baik maka saya akan membangunkan rumah bagimu"
 [^3]: HR. Muslim no. 2816
 
 ===== 5097 =====
@@ -16365,7 +16365,7 @@ Yaitu karunia Allah Subhanahu wa ta'ala berupa Nabi Muhammad shallallahu 'alaihi
 
 Oleh karena itu terdapat buku yang sangat indah dengan judul رَبِحْتُ مُحَمَّدًا وَلَمْ أَخْسَرِ الْمَسِيْحَ عَلَيْهِمَا السَلاَمُ "Aku beruntung beriman kepada Muhammad dan aku tidak kehilangan 'Isa" [^1]. Buku ini ditulis untuk orang-orang Nasrani, bahwa apa yang membuat mereka susah beriman kepada Nabi Muhammad shallallahu 'alaihi wasallam. Sesungguhnya jika mereka beriman kepada Nabi Muhammad shallallahu 'alaihi wasallam, maka mereka akan mendapat dua keuntungan dari beriman kepada Nabi Isa 'alaihissalam dan keuntungan dari beriman kepada Nabi Muhammad shallallahu 'alaihi wasallam. Sesungguhnya tidak ada kelaziman bahwa beriman kepada Nabi Muhammad shallallahu 'alaihi wasallam berarti kafir terhadap Nabi Isa 'alaihissalam, padahal kita bisa menggabungkan keimanan terhadap keduanya.
 
-[^1]: Yaitu buku karya Ibrahim bin Abdirrahman ad-Dumaiji dan juga dengan judul buku yang sama ditulis oleh Dr Abdul Mu’thi ad-Dilaalati
+[^1]: Yaitu buku karya Ibrahim bin Abdirrahman ad-Dumaiji dan juga dengan judul buku yang sama ditulis oleh Dr Abdul Mu'thi ad-Dilaalati
 
 ===== 5105 =====
 
@@ -16471,9 +16471,9 @@ Maka ketika dia mengatakan ini Allah mendengar menggunakan fi'il madhi yang menu
 [^1]: Tafsir Al-Qurthubi 17/269-270
 [^2]: Zhihar adalah perkataan seorang suami kepada istrinya:
 	أَنْتِ عَلَيَّ كَظَهْرِ أُمِّي
-	“Sesungguhnya engkau wahai istriku seperti punggung ibuku (dengan niat tidak ingin menggauli istrinya lagi).” (Lihat: Tafsir Al-Qurthubi 17/270)
+	"Sesungguhnya engkau wahai istriku seperti punggung ibuku (dengan niat tidak ingin menggauli istrinya lagi)." (Lihat: Tafsir Al-Qurthubi 17/270)
 [^3]: HR. Ibnu Majah no. 2063, dan dishohihkan oleh Al-Albani
-[^4]: HR. Ahmad no. 24195, dan dikatakan oleh Syu’aib al-Arnauth sanadnya shohih sesuai dengan syarat Muslim.
+[^4]: HR. Ahmad no. 24195, dan dikatakan oleh Syu'aib al-Arnauth sanadnya shohih sesuai dengan syarat Muslim.
 [^5]: Dalam konteks kisah ini, ada dua pendapat di kalangan para ulama. Pertama : Al-Lamam di sini maksudnya ada gairah dan syahwat yang berlebihan kepada wanita. Ini adalah pendapat al-Khottobi dan Ibnu al-Atsir. Kedua : Al-Lamam adalah gangguan pikiran yang menyebabkan emosinya tidak terkontrol (Lihat Badzlull Majhuud fi Halli Sunani Abi Dawud 8/245-246)
 [^6]: Tafsir Al-Qurthubi 17/270
 [^7]: Tafsir Al-Baghowi 5/38
@@ -16482,33 +16482,33 @@ Maka ketika dia mengatakan ini Allah mendengar menggunakan fi'il madhi yang menu
 [^10]: Mentakwil (menafsirkan) sifat mendengar dengan ilmu adalah takwil yang batil. Karena semua orang tahu bahwasanya ilmu bukanlah mendengar. Sebagai contoh seorang tuli bisa melihat seseorang berbicara atau melihat sebuah gentong yang dipukul keras, namun dia tidak mendengar suara pembicaraan dan suara bunyi gentong tersebut. Sebagaimana kita juga mengilmui bahwasanya para jin berbicara diantara mereka, malaikat berbicara diantara mereka, namun kita tidak bisa mendengar suara tersebut.
 	Untuk lebih memahami hal ini, maka perhatikanlah pembahasan berikut ini :
 	Pembagian sifat Allah
-	Sifat dzatiyah: yaitu sifat yang sejak azali ada selalu bersama Allah, sehingga tidak berkaitan dengan kehendak Allah. Contohnya wajah dan tangan Allah yang sejak azali ada bersama Allah, dan tidak bisa kita katakan, “Jika Allah berkehendak Allah punya tangan, dan jika tidak maka tidak punya tangan”.
-	Sifat fi’iliyyah: yaitu sifat yang berkaitan dengan kehendak Allah, jika Allah berkehendak maka Allah lakukan dan jika Allah tidak berkehendak maka Allah tidak lakukan, seperti sifat rahmat terkadang Allah merahmati sebagian dan terkadang Allah marah kepada sebagian.
-	Sifat dzatiyyah fi’liyyah: dzatiyyah ditinjau dari sisi asal sifat tersebut dan fi’liyyah ditinjau dari sisi penerapan sifat tersebut, contohnya sifat al-kalam (sifat berbicara), ditinjau dari asalnya maka ia dzatiyyah maksudnya sejak Allah ada Allah sudah bisa berbicara. Berbeda dengan manusia, ketika pertama lahir belum bisa berbicara kemudian umur sekian baru dilatih untuk berbicara, dan sifat bicara manusia munculnya belakangan, adapun Allah sejak zaman azali sudah bisa berbicara. Dan ditinjau dari kapannya Allah berbicara maka ini sifat fi’liyyah, maksudnya kapan Allah ingin bicara atau dengan siapa Allah ingin berbicara, dengan topik apa, atau Allah tidak ingin berbicara? maka semua ini terserah Allah. Ini menunjukkan akan kesempurnaan kesempurnaan Allah dalam sifat Al-Kalam. Berbeda dengan asya’iroh, karena mereka tidak menerima pembagian sifat fi’iliyyah, mereka mengatakan kalam Allah adalah kalam nafsy yang tidak boleh ada perubahan, pembaharuan, dan tidak boleh dikatakan dulu Allah tidak berbicara kemudian berbicara, lalu berbicara lagi dengan topik yang lain, maka semua ini menurut mereka tidak boleh. Jadi menurut mereka kalam Allah adalah kalam nafsy yang tidak berubah-rubah, statis tidak dinamis. Menurut mereka “kedinamisan” (perubahan-perubahan) merupakan sifat khusus makhluk, sehingga Allah tidak boleh mengalami kedinamisan. Dan ciri Tuhan yang paling utama adalah statsi, yang Allah statis sejak zaman azali hingga abadi. Oleh karenanya mereka mengatakan Al-quran bukan kalam Allah, karena Al-quran ada huruf-hurufnya dan menurut mereka sifat dzat Allah tidak demikian maka Al-quran hanyalah ungkapan dari kalam jiwanya Allah subhanahu wa ta’ala. Kalam nafsi (bahasa jiwa) Allah itulah yang merupakan sifat Allah karena statis sejak zaman azali, tanpa huruf dan suara. Karen adanya huruf dan suara menunjukan kedinamisan.
-	Termasuk sifat dzatiyyah fi’liyyah adalah sifat mendengar, maka Allah sejak azali sudah mendengar dan ini adalah sifat dzatiyyah, adapun berkaitan kapan Allah ingin mendengar, entah mendengar sesuatu yang sudah dibicarakan, sedang dibicarakan, atau akan dibicarakan, atau Allah mendengar suara yang sudah muncul, sedang muncul, atau akan muncul maka ini semua terserah Allah dan ini dinamakan sifat fi’liyyah.
-	Adapun sifat mendengar dan melihat menurut asya’iroh, mereka hanya menetapkan untuk Allah tujuh sifat yang semuanya mereka tetapkan dengan akal, menurut mereka alam semesta yang kokoh dan hebat seperti ini menunjukkan akan adanya pencipta, dan setelah mereka perhatikan mereka mendapati bahwa pencipta tersebut memiliki tiga sifat:
+	Sifat dzatiyah: yaitu sifat yang sejak azali ada selalu bersama Allah, sehingga tidak berkaitan dengan kehendak Allah. Contohnya wajah dan tangan Allah yang sejak azali ada bersama Allah, dan tidak bisa kita katakan, "Jika Allah berkehendak Allah punya tangan, dan jika tidak maka tidak punya tangan".
+	Sifat fi'iliyyah: yaitu sifat yang berkaitan dengan kehendak Allah, jika Allah berkehendak maka Allah lakukan dan jika Allah tidak berkehendak maka Allah tidak lakukan, seperti sifat rahmat terkadang Allah merahmati sebagian dan terkadang Allah marah kepada sebagian.
+	Sifat dzatiyyah fi'liyyah: dzatiyyah ditinjau dari sisi asal sifat tersebut dan fi'liyyah ditinjau dari sisi penerapan sifat tersebut, contohnya sifat al-kalam (sifat berbicara), ditinjau dari asalnya maka ia dzatiyyah maksudnya sejak Allah ada Allah sudah bisa berbicara. Berbeda dengan manusia, ketika pertama lahir belum bisa berbicara kemudian umur sekian baru dilatih untuk berbicara, dan sifat bicara manusia munculnya belakangan, adapun Allah sejak zaman azali sudah bisa berbicara. Dan ditinjau dari kapannya Allah berbicara maka ini sifat fi'liyyah, maksudnya kapan Allah ingin bicara atau dengan siapa Allah ingin berbicara, dengan topik apa, atau Allah tidak ingin berbicara? maka semua ini terserah Allah. Ini menunjukkan akan kesempurnaan kesempurnaan Allah dalam sifat Al-Kalam. Berbeda dengan asya'iroh, karena mereka tidak menerima pembagian sifat fi'iliyyah, mereka mengatakan kalam Allah adalah kalam nafsy yang tidak boleh ada perubahan, pembaharuan, dan tidak boleh dikatakan dulu Allah tidak berbicara kemudian berbicara, lalu berbicara lagi dengan topik yang lain, maka semua ini menurut mereka tidak boleh. Jadi menurut mereka kalam Allah adalah kalam nafsy yang tidak berubah-rubah, statis tidak dinamis. Menurut mereka "kedinamisan" (perubahan-perubahan) merupakan sifat khusus makhluk, sehingga Allah tidak boleh mengalami kedinamisan. Dan ciri Tuhan yang paling utama adalah statsi, yang Allah statis sejak zaman azali hingga abadi. Oleh karenanya mereka mengatakan Al-quran bukan kalam Allah, karena Al-quran ada huruf-hurufnya dan menurut mereka sifat dzat Allah tidak demikian maka Al-quran hanyalah ungkapan dari kalam jiwanya Allah subhanahu wa ta'ala. Kalam nafsi (bahasa jiwa) Allah itulah yang merupakan sifat Allah karena statis sejak zaman azali, tanpa huruf dan suara. Karen adanya huruf dan suara menunjukan kedinamisan.
+	Termasuk sifat dzatiyyah fi'liyyah adalah sifat mendengar, maka Allah sejak azali sudah mendengar dan ini adalah sifat dzatiyyah, adapun berkaitan kapan Allah ingin mendengar, entah mendengar sesuatu yang sudah dibicarakan, sedang dibicarakan, atau akan dibicarakan, atau Allah mendengar suara yang sudah muncul, sedang muncul, atau akan muncul maka ini semua terserah Allah dan ini dinamakan sifat fi'liyyah.
+	Adapun sifat mendengar dan melihat menurut asya'iroh, mereka hanya menetapkan untuk Allah tujuh sifat yang semuanya mereka tetapkan dengan akal, menurut mereka alam semesta yang kokoh dan hebat seperti ini menunjukkan akan adanya pencipta, dan setelah mereka perhatikan mereka mendapati bahwa pencipta tersebut memiliki tiga sifat:
 	Qadiir yaitu maha kuasa, karena muncul ciptaan yang luar biasa yang tidak ada yang mampu melakukannya kecuali dzat yang Qadir (yang maha kuasa).
 Muriid yaitu berkehendak, karena ciptaan yang muncul bentuknya berbeda-beda, diciptakan dalam waktu yang berbeda-beda, ini menunjukkan bahwa Allah memiliki kehendak untuk membeda-bedakan ciptaannya.
-‘Alim yaitu maha mengetahui, karena ciptaan Allah yang sangat luar biasa, sempurna, kokoh, dan hebat dengan peraturan yang teratur maka menunjukkan bahwa pencipta tersebut memiliki sifat maha berkuasa, maha berkehendak, dan maha berilmu.
+'Alim yaitu maha mengetahui, karena ciptaan Allah yang sangat luar biasa, sempurna, kokoh, dan hebat dengan peraturan yang teratur maka menunjukkan bahwa pencipta tersebut memiliki sifat maha berkuasa, maha berkehendak, dan maha berilmu.
 	Lalu mereka mengatakan bahwa dari tiga sifat ini melazimkan bahwa pencipta harus memiliki sifat al-hayat yaitu maha hidup, dan sesuatu yang hidup mesti memiliki tiga sifat, yaitu:
-	As-sama’ yaitu maha mendengar
+	As-sama' yaitu maha mendengar
 Al-bashar yaitu maha melihat
 Al-kalam yaitu maha berbicara
-	Berkaitan dengan tiga sifat ini sebagian mereka ada yang menempuh dengan dalil naqly yaitu bahwasanya Al-Quran dan Al-Hadits menunjukkan tiga sifat tersebut, namun sebagian yang lain mengatakan bahwa dalil naqly sifatnya tidak qhot’i (pasti) namun hanya zhonny (prasangkaan) sehingga mereka lebih mengedepankan pendalilan dengan akal, dan akal menunjukkan adanya sifat, as-sama’, al-bashor, dan al-kalam untuk dzat yang maha sempurna. Penetapan dengan dalil akal ini mereka ambil dengan beberapa metode pendalilan di antaranya metode pendalilan الضِّدِّيَّةُ adh-dhiddiyyah, yaitu ketika ada pilihan antara dzat yang mendengar atau tidak maka yang lebih sempurna adalah yang mendengar, ketika ada pilihan antara dzat yang melihat atau tidak maka yang lebih sempurna adalah yang melihat, dan ketika ada pilihan antara dzat yang berbicara atau tidak maka yang lebih sempurna adalah yang berbicara.
+	Berkaitan dengan tiga sifat ini sebagian mereka ada yang menempuh dengan dalil naqly yaitu bahwasanya Al-Quran dan Al-Hadits menunjukkan tiga sifat tersebut, namun sebagian yang lain mengatakan bahwa dalil naqly sifatnya tidak qhot'i (pasti) namun hanya zhonny (prasangkaan) sehingga mereka lebih mengedepankan pendalilan dengan akal, dan akal menunjukkan adanya sifat, as-sama', al-bashor, dan al-kalam untuk dzat yang maha sempurna. Penetapan dengan dalil akal ini mereka ambil dengan beberapa metode pendalilan di antaranya metode pendalilan الضِّدِّيَّةُ adh-dhiddiyyah, yaitu ketika ada pilihan antara dzat yang mendengar atau tidak maka yang lebih sempurna adalah yang mendengar, ketika ada pilihan antara dzat yang melihat atau tidak maka yang lebih sempurna adalah yang melihat, dan ketika ada pilihan antara dzat yang berbicara atau tidak maka yang lebih sempurna adalah yang berbicara.
 	Demikian juga dengan dalil الكَماَلُ, yaitu jika pada manusia sifat mendengar adalah sempurna maka Allah lebih utama untuk mendengar.
-	Inilah tujuh sifat yang ditetapkan oleh asya’iroh, adapun sifat-sifat yang lain maka itu hanyalah sekedar penjelasan dari tujuh sifat ini. Maka tidak benar bahwa mereka menetapkan dua puluh atau tiga belas sifat, karena sisanya hanyalah berputar sekitar penjelasan tujuh sifat ini, seperti sifat baqha maksudnya tidak akan mati, yaitu penjelasan dari sifat al-hayat maha hidup. (Penjelasan lebih detail bisa dibaca di buku lain milik penulis yaitu Syarh al-Aqidah al-Washithiyyah, yang insya Allah sedang disusun)
-	Sebagian Ahlussunnah menyangka bahwa Asya’iroh dan Ahlussunnah sama dalam menetapkan tujuh sifat ini, namun para ulama menjelaskan bahwa penetapan Asya’iroh terhadap tujuh sifat ini tidak sama dengan Ahlussunnah, contohnya dalam ayat ini terdapat sifat as-sama’ (mendengar), ahlussunnah menetapkan bahwa Allah memiliki sifat as-Sama’ yaitu Allah maha mendengar, adapun kaifiyat (bagaimana) cara mendengarnya maka ini bukan urusan kita. Kita tidak mengatakan Allah memiliki telinga atau tidak, karena ini bukan urusan kita, yang jelas Allah maha mendengar. Sebagaimana kita mengatakan Allah berbicara, maka kita tidak mengatakan ketika Allah memiliki sifat berbicara berarti Allah harus mempunyai lisan, mulut, atau pita suara. Maksudnya Allah berbicara yaitu Allah berbicara dengan sesuatu yang bisa didengar, adapun bagaimana berbicaranya maka kita tidak tahu. Demikian pula Allah mendengar maka kita tidak tahu bagaimana Allah mendengar. Adapun Allah melihat maka ada dalil yang menunjukkan bahwa Allah memiliki mata, akan tetapi berkaitan dengan sifat mendengarnya Allah, maka tidak ada dalil yang menunjukkan bahwa Allah memiliki telinga maka kita tidak mengatakan Allah memiliki telinga atau tidak memiliki telinga, akan tetapi kita hanya mengatakan bahwa Allah maha mendengar.
-	Adapun Asya’iroh tidak berani menetapkan sifat mendengar sebagaimana kita tetapkan dengan penjelasan di atas, karena mereka tidak menerima ada sesuatu yang baru ada pada diri Allah, jika seandainya Allah mendengar suara berarti Allah mendengar suara yang baru muncul dan juga suara yang bermacam-macam dan berubah-rubah, maka Allah berkaitan dengan sesuatu yang baru, berarti Allah mengalami perubahan-perubahan dan ini menunjukkan bahwa Allah bukan tuhan. Karena sebagaimana telah lalu, menurut Asyaíroh syarat tuhan adalah harus statis dan tidak tidak dinamis. Akhirnya hal ini menyebabkan mereka mentakwil sifat as-sama dan al-bashar.
+	Inilah tujuh sifat yang ditetapkan oleh asya'iroh, adapun sifat-sifat yang lain maka itu hanyalah sekedar penjelasan dari tujuh sifat ini. Maka tidak benar bahwa mereka menetapkan dua puluh atau tiga belas sifat, karena sisanya hanyalah berputar sekitar penjelasan tujuh sifat ini, seperti sifat baqha maksudnya tidak akan mati, yaitu penjelasan dari sifat al-hayat maha hidup. (Penjelasan lebih detail bisa dibaca di buku lain milik penulis yaitu Syarh al-Aqidah al-Washithiyyah, yang insya Allah sedang disusun)
+	Sebagian Ahlussunnah menyangka bahwa Asya'iroh dan Ahlussunnah sama dalam menetapkan tujuh sifat ini, namun para ulama menjelaskan bahwa penetapan Asya'iroh terhadap tujuh sifat ini tidak sama dengan Ahlussunnah, contohnya dalam ayat ini terdapat sifat as-sama' (mendengar), ahlussunnah menetapkan bahwa Allah memiliki sifat as-Sama' yaitu Allah maha mendengar, adapun kaifiyat (bagaimana) cara mendengarnya maka ini bukan urusan kita. Kita tidak mengatakan Allah memiliki telinga atau tidak, karena ini bukan urusan kita, yang jelas Allah maha mendengar. Sebagaimana kita mengatakan Allah berbicara, maka kita tidak mengatakan ketika Allah memiliki sifat berbicara berarti Allah harus mempunyai lisan, mulut, atau pita suara. Maksudnya Allah berbicara yaitu Allah berbicara dengan sesuatu yang bisa didengar, adapun bagaimana berbicaranya maka kita tidak tahu. Demikian pula Allah mendengar maka kita tidak tahu bagaimana Allah mendengar. Adapun Allah melihat maka ada dalil yang menunjukkan bahwa Allah memiliki mata, akan tetapi berkaitan dengan sifat mendengarnya Allah, maka tidak ada dalil yang menunjukkan bahwa Allah memiliki telinga maka kita tidak mengatakan Allah memiliki telinga atau tidak memiliki telinga, akan tetapi kita hanya mengatakan bahwa Allah maha mendengar.
+	Adapun Asya'iroh tidak berani menetapkan sifat mendengar sebagaimana kita tetapkan dengan penjelasan di atas, karena mereka tidak menerima ada sesuatu yang baru ada pada diri Allah, jika seandainya Allah mendengar suara berarti Allah mendengar suara yang baru muncul dan juga suara yang bermacam-macam dan berubah-rubah, maka Allah berkaitan dengan sesuatu yang baru, berarti Allah mengalami perubahan-perubahan dan ini menunjukkan bahwa Allah bukan tuhan. Karena sebagaimana telah lalu, menurut Asyaíroh syarat tuhan adalah harus statis dan tidak tidak dinamis. Akhirnya hal ini menyebabkan mereka mentakwil sifat as-sama dan al-bashar.
 	Terdapat khilaf di antara mereka dalam mentakwil dua sifat ini:
 	Pertama: mentakwil keduanya dengan ilmu, berdasarkan takwilan ini maka mendengar adalah Allah mengetahui apa yang di dengar, dan melihat adalah Allah mengetahui apa yang dilihat.
 	Kedua: mentakwil keduanya dengan ziyadatul inkisyaf yaitu tambahan yang terungkap, dan maknanya hampir sama dengan yang pertama yaitu tambahan pengetahuan atau ilmu.
-	Intinya mereka menetapkan as-sama’ dan al-bashor tidak seperti kita menetapkannya, karena mereka menetapkan keduanyanya dengan mengetahui, dan ini adalah takwil yang buruk karena seakan-akan mereka menolak sifat mendengar dan melihat.
+	Intinya mereka menetapkan as-sama' dan al-bashor tidak seperti kita menetapkannya, karena mereka menetapkan keduanyanya dengan mengetahui, dan ini adalah takwil yang buruk karena seakan-akan mereka menolak sifat mendengar dan melihat.
 	Dan kita tahu bahwa sifat mendengar berbeda dengan mengilmui, dan melihat berbeda dengan mengilmui. Contohnya jika ada orang yang tuli maka dia mengetahui bahwa dihadapannya ada orang yang sedang berbicara, dia mengetahui ada yang berbicara namun ia tidak bisa mendengar apa yang dibicarakan ini menunjukkan bahwa ia memiliki ilmu namun ia tidak dapat mendengar dan ini menunjukkan bahwa ilmu berbeda dengan mendengar. Juga contohnya ada orang yang buta dia mengetahui (dengan mendengar) bahwa ada orang yang berbicara di sekitarnya namun ia tidak dapat melihat, ini menunjukkan bahwa ia memiliki ilmu namun ia tidak dapat melihat dan ini menunjukkan bahwa ilmu berbeda dengan melihat. Oleh karenanya dalam sunan Abu Dawud dari Sulaim bin Jubair, ia berkata:
 	سَمِعْتُ أَبَا هُرَيْرَةَ يَقْرَأُ هَذِهِ الْآيَةَ {إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تُؤَدُّوا الْأَمَانَاتِ إِلَى أَهْلِهَا} إِلَى قَوْلِهِ تَعَالَى {سَمِيعًا بَصِيرًا} [النساء: 58] قَالَ: «رَأَيْتُ رَسُولَ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَضَعُ إِبْهَامَهُ عَلَى أُذُنِهِ، وَالَّتِي تَلِيهَا عَلَى عَيْنِهِ»، قَالَ أَبُو هُرَيْرَةَ: «رَأَيْتُ رَسُولَ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَقْرَؤُهَا وَيَضَعُ إِصْبَعَيْهِ»
-	“Aku mendengar Abu Hurairah membaca ayat ini: {Sesungguhnya Allah memerintahkan kalian menyampaikan amanat kepada yang berhak menerimanya} (Qs. An Nisa: 48) sampai pada firman-Nya {Sesungguhnya Allah adalah Maha Mendengar lagi Maha Meliha}. Abu Hurairah berkata, “Aku melihat Rasulullah shallallahu ‘alaihi wasallam meletakkan ibu jarinya ke telinga, dan meletakkan  jari telunjuknya pada mata.” Abu Hurairah melanjutkan, “Aku melihat Rasulullah shallallahu ‘alaihi wasallam membaca ayat tersebut seraya meletakkan kedua jarinya tersebut.” (HR. Abu Dawud no. 4728, dan dishohihkan oleh Ibnu Hajar dan al-Albani)
+	"Aku mendengar Abu Hurairah membaca ayat ini: {Sesungguhnya Allah memerintahkan kalian menyampaikan amanat kepada yang berhak menerimanya} (Qs. An Nisa: 48) sampai pada firman-Nya {Sesungguhnya Allah adalah Maha Mendengar lagi Maha Meliha}. Abu Hurairah berkata, "Aku melihat Rasulullah shallallahu 'alaihi wasallam meletakkan ibu jarinya ke telinga, dan meletakkan  jari telunjuknya pada mata." Abu Hurairah melanjutkan, "Aku melihat Rasulullah shallallahu 'alaihi wasallam membaca ayat tersebut seraya meletakkan kedua jarinya tersebut." (HR. Abu Dawud no. 4728, dan dishohihkan oleh Ibnu Hajar dan al-Albani)
 	Hadits ini menunjukkan bahwasanya Allah benar-benar mendengar dan melihat, dan seandainya mendengar dan melihat artinya mengetahui maka kemungkinan Nabi akan berisyarat ke hati, karena ilmu di hati, atau berisyarat ke kepala (karena ilmu letaknya di otak/fikiran). Akan tetapi Nabi berisyarat bahkan dengan dua jari untuk mendengar dan melihat ke telinga dan mata untuk menunjukkan bahwasanya Allah benar-benar mendengar dan melihat.
-	Karena Asyaíroh mentakwilkan sifat mendengar dan melihat dengan sifat ilmu, maka akhirnya muncul perkataan mereka yang aneh yaitu اللهُ يَسْمَعُ الْمُبْصَرَاتِ وَيُبْصِرُ الْمَسْمُوْعَاتِ “Allah mendengar apa yang terlihat dan melihat apa yang terdengar”, karena menurut mereka mendengar dan melihat sama dengan ilmu.
-	Dan ayat ini menjadi bantahan untuk mereka, karena Allah berfirman “Sesungguhnya Allah telah mendengar” berarti Allah telah mendengar pembicaraan tersebut dan ini bukanlah pendengaran di azali, akan tetapi Allah baru mendengarnya, kemudian Allah berfirman “Allah sedang mendengar pembicaraan kalian berdua”, berarti Allah sekarang sedang mendengar, akan tetapi menurut mereka (asya’iroh) tidak ada namanya Allah mendengar sekarang, karena Allah mendengar semuanya di azali, itupun mereka takwil dengan makna mengetahui/mengilmui.
+	Karena Asyaíroh mentakwilkan sifat mendengar dan melihat dengan sifat ilmu, maka akhirnya muncul perkataan mereka yang aneh yaitu اللهُ يَسْمَعُ الْمُبْصَرَاتِ وَيُبْصِرُ الْمَسْمُوْعَاتِ "Allah mendengar apa yang terlihat dan melihat apa yang terdengar", karena menurut mereka mendengar dan melihat sama dengan ilmu.
+	Dan ayat ini menjadi bantahan untuk mereka, karena Allah berfirman "Sesungguhnya Allah telah mendengar" berarti Allah telah mendengar pembicaraan tersebut dan ini bukanlah pendengaran di azali, akan tetapi Allah baru mendengarnya, kemudian Allah berfirman "Allah sedang mendengar pembicaraan kalian berdua", berarti Allah sekarang sedang mendengar, akan tetapi menurut mereka (asya'iroh) tidak ada namanya Allah mendengar sekarang, karena Allah mendengar semuanya di azali, itupun mereka takwil dengan makna mengetahui/mengilmui.
 
 ===== 5106 =====
 
@@ -16667,9 +16667,9 @@ _"Dan Allah Maha Menyaksikan segala sesuatu"_
 
 Berkata Abu Ishak az-Zajjaj bahwa شَهِيدٌ  artinya yaitu Allah subhanahu wa ta'ala hadir, jadi Allah subhanahu wa ta'ala bukan hanya sekedar melihat, menyaksikan, dan mendengar akan tetapi seakan-akan Allah subhanahu wa ta'ala hadir, dan ini menunjukkan bahwa Allah subhanahu wa ta'ala maha mengetahui terhadap segala sesuatu secara perinci, karena Allah subhanahu wa ta'ala mengatakan bahwa dirinya adalah شَهِيدٌ  yaitu Allah subhanahu wa ta'ala seakan-akan hadir bersama hamba. Bukanlah maksudnya dzat Allah subhanahu wa ta'ala bersama manusia, akan tetapi seakan-akan Allah subhanahu wa ta'ala hadir dan menyaksikan dengan perinci apa yang telah seseorang lakukan sehingga para malaikat mencatat semua apa yang diucapkan dan semua yang dilakukan, itulah maksud dari Allah subhanahu wa ta'ala شَهِيدٌ.
 
-[^1]: كَنَفَ dalam bahasa arab diambil dari كنف الطَّائِر yaitu sayap burung karena dengannya dia melindungi dirinya dan telur-telurnya dengan cara menutupi anak-anaknya dengan sayapnya, sehingga dalam hadits ini maknanya Allah subhanahu wa ta’ala melindungi orang yang beriman dan menutupi aibnya dari khalayak sehingga tidak diketahui oleh yang lainnya, dan perkaranya hanya antara dia dan Allah subhanahu wa ta’ala saja. (Lihat: ‘Umdatul Qori Syarhu Shohihil Bukhori 12/287)
+[^1]: كَنَفَ dalam bahasa arab diambil dari كنف الطَّائِر yaitu sayap burung karena dengannya dia melindungi dirinya dan telur-telurnya dengan cara menutupi anak-anaknya dengan sayapnya, sehingga dalam hadits ini maknanya Allah subhanahu wa ta'ala melindungi orang yang beriman dan menutupi aibnya dari khalayak sehingga tidak diketahui oleh yang lainnya, dan perkaranya hanya antara dia dan Allah subhanahu wa ta'ala saja. (Lihat: 'Umdatul Qori Syarhu Shohihil Bukhori 12/287)
 [^2]: HR. Ahmad no. 5436, Bukhari no. 2441, dan Muslim no. 2768
-[^3]: HR. Ahmad no. 6677, dan dikatakan oleh Syu’aib al-Arnauth bahwa sanad hadits ini hasan.
+[^3]: HR. Ahmad no. 6677, dan dikatakan oleh Syu'aib al-Arnauth bahwa sanad hadits ini hasan.
 [^4]: HR. Abu Dawud no. 2133, dan dishohihkan oleh Al-Albani.
 
 ===== 5111 =====
@@ -16792,17 +16792,17 @@ Dan kata ganti " _Kami_" di sini yang dimaksud adalah para malaikat maut yang si
 
 Dan inilah yang disalah pahami oleh mereka dan mereka mengatakan Allah subhanahu wa ta'ala bersatu dengan makhluknya secara dzat, dan ini adalah pemahaman ahlu bid'ah, dan yang benar bahwasanya Allah subhanahu wa ta'ala berada di atas 'arsy di atas langit yang ketujuh.
 
-[^1]: Lihat: Ma’anil Quran wa I’raabuhu 5/137
+[^1]: Lihat: Ma'anil Quran wa I'raabuhu 5/137
 [^2]: Lihat: Tafsir  Al-Alusy 14/217
-[^3]: Lihat tentang kedua pembagian ma’iyyah ini di kitab (Syarh Al-‘Aqidah Al-Wasithiyyah karya Muhammad bin Khalil Hasan Harras hal 146-147)
-[^4]: Lihat: Ar-Radd ‘Alal Jahmiyyah Waz Zanaadiqah hal: 144
-[^5]: Untuk lebih mudah memahami perbedaan antara al-ittihadiyah dan al-huluiyah maka pendekatannya dengan analogi berikut. Untuk al-Ittihadiyah (artinya dzat Allah bersatu dengan dzat makhluk-Nya), pendekataanya seperti kopi dan susu, ketika dicampur dan diaduk akhirnya bersatu menjadi kopi susu. Adapun al-Hululiyyah (artinya Allah subhanahu wa ta’ala menempati jasad makhluk-Nya), pendekatannya seperti contoh dengan air dan gelas, ketika air tersebut dituang  ke dalam gelas maka air tersebut menempati gelas
-[^6]: Lihat: Ar-Rad ‘Alal Jahmiyyah waz Zanaadiqah hal:154
+[^3]: Lihat tentang kedua pembagian ma'iyyah ini di kitab (Syarh Al-'Aqidah Al-Wasithiyyah karya Muhammad bin Khalil Hasan Harras hal 146-147)
+[^4]: Lihat: Ar-Radd 'Alal Jahmiyyah Waz Zanaadiqah hal: 144
+[^5]: Untuk lebih mudah memahami perbedaan antara al-ittihadiyah dan al-huluiyah maka pendekatannya dengan analogi berikut. Untuk al-Ittihadiyah (artinya dzat Allah bersatu dengan dzat makhluk-Nya), pendekataanya seperti kopi dan susu, ketika dicampur dan diaduk akhirnya bersatu menjadi kopi susu. Adapun al-Hululiyyah (artinya Allah subhanahu wa ta'ala menempati jasad makhluk-Nya), pendekatannya seperti contoh dengan air dan gelas, ketika air tersebut dituang  ke dalam gelas maka air tersebut menempati gelas
+[^6]: Lihat: Ar-Rad 'Alal Jahmiyyah waz Zanaadiqah hal:154
 [^7]: Lihat: Tafsir Ibnu Katsir 8/42
 	Tafsir yang paling bagus dalam menafsirkan ayat dengan ayat adalah:
-	Tafsir Ibnu Katsir, karena dalam tafsirnya beliau rahimahullah ta’ala sangat pandai dalam merangkai dan menafsirkan suatu ayat dengan ayat yang lainnya.
-Tafsir Adhwa’ul bayaan karya syaikh Amin Asy-Syinqithy rahimahullah ta’ala, beliau dalam kitab tafsirnya ini sering menggandengkan ayat yang satu dengan ayat yang lainnya.
-	Dan metode ini sangat sering kita dapati dalam kitab-kitab tafsir para ulama seperti Tafsir al-Qurthubi yang kitab ini adalah kitab tafsir yang sangat bagus, namun terkadang terluput darinya beberapa rangkaian ayat. Ibnu Katsir mempunyai perhatian yang lebih dalam masalah ini, seperti ketika beliau menjelaskan tentang ayat al-mujadalah ini beliau juga membawakan ayat yang penulis bacakan, dan ini adalah salah satu metode untuk bisa lebih memahami makna ayat ini yaitu dengan menafsirkan suatu ayat dengan ayat yang lain, karena tafsir yang terbaik adalah dengan menafsirkan sebuah ayat dengan ayat yang lain,  kemudian menafsirkan ayat dengan hadits Rasulullah shallallahu ‘alaihi wa sallam, dan kemudian menafsirkan ayat dengan atsar para salaf atau dengan bahasa.
+	Tafsir Ibnu Katsir, karena dalam tafsirnya beliau rahimahullah ta'ala sangat pandai dalam merangkai dan menafsirkan suatu ayat dengan ayat yang lainnya.
+Tafsir Adhwa'ul bayaan karya syaikh Amin Asy-Syinqithy rahimahullah ta'ala, beliau dalam kitab tafsirnya ini sering menggandengkan ayat yang satu dengan ayat yang lainnya.
+	Dan metode ini sangat sering kita dapati dalam kitab-kitab tafsir para ulama seperti Tafsir al-Qurthubi yang kitab ini adalah kitab tafsir yang sangat bagus, namun terkadang terluput darinya beberapa rangkaian ayat. Ibnu Katsir mempunyai perhatian yang lebih dalam masalah ini, seperti ketika beliau menjelaskan tentang ayat al-mujadalah ini beliau juga membawakan ayat yang penulis bacakan, dan ini adalah salah satu metode untuk bisa lebih memahami makna ayat ini yaitu dengan menafsirkan suatu ayat dengan ayat yang lain, karena tafsir yang terbaik adalah dengan menafsirkan sebuah ayat dengan ayat yang lain,  kemudian menafsirkan ayat dengan hadits Rasulullah shallallahu 'alaihi wa sallam, dan kemudian menafsirkan ayat dengan atsar para salaf atau dengan bahasa.
 
 ===== 5112 =====
 
@@ -16883,9 +16883,9 @@ Dan yang semisal ini juga pernah diucapkan oleh sebagian orang-orang liberal den
 Hadits ini menunjukkan betapa sabarnya Allah subhanahu wa ta'ala, mereka orang-orang kafir mengatakan bahwa Allah subhanahu wa ta'ala memiliki anak, memiliki istri, mereka juga mengatakan Allah lelah pada hari Sabtu, juga mereka mengatakan Allah subhanahu wa ta'ala fakir, dan perkataan buruk lainnya namun Allah subhanahu wa ta'ala sabar terhadap semua perkataan mereka tersebut, akan tetapi Allah subhanahu wa ta'ala cukup membalas mereka di akhirat nanti sebagaimana Allah berfirman حَسْبُهُمْ جَهَنَّمُ "cukup bagi mereka neraka Jahannam", Allah subhanahu wa ta'ala membiarkan mereka bersenang-senang di dunia ini agar mereka mendapatkan adzab yang lebih berat di akhirat kelak. Dan pada hari ini kita dapati sebagian orang-orang liberal yang hampir sama perbuatannya dengan orang-otang Yahudi, di antaranya mereka mengatakan "Seandainya homoseksual itu dilarang, maka pastinya Allah akan menurunkan adzab kepada pelakunya sebagaimana diturunkannya adzab kepada kaum nabi Luth?". Sungguh ini adalah perkataan yang tidak benar. Untuk menyanggah pernyataan mereka maka kita katakan: betapa banyak kita dapati di zaman sekarang banyaknya pencurian, perzinahan, korupsi, dan pembunuhan, namun semua pelakunya tidak diadzab di dunia ini, apakah tidak diturunkan adzab di dunia ini menunjukkan bahwa semua perbuatan tersebut benar? Maka pernyataan "tidak diturunkannya adzab di dunia terhadap pelaku yang menyimpang menunjukkan perbuatan itu adalah perbuatan yang benar" adalah pernyataan yang keliru.  Dan hal yang semacam ini termasuk tindak-tanduk Yahudi, mereka berkata لَوْلَا يُعَذِّبُنَا اللَّهُ بِمَا نَقُولُ "mengapa Allah tidak mengadzab kita atas perkataan kita?".
 
 [^1]: Lihat: Tafsir Al-Qurthubi 17/290
-[^2]: Al-Jami’u Li Ahkaamil Quraan Tafsir Al-Qurthuby 17/291
-[^3]: Al-Jami’u Li Ahkaamil Quraan Tafsir Al-Qurthuby 17/291
-	Begitu juga yang dimasukkan oleh Ibnu Abu Hatim dan Ibnu Katsir dalam tafsir mereka dari Muqotil dengan lafaz yang sedikit berbeda namun maknanya sama (lihat: Tafsir al-Quranil ‘Azhim libni Abi Hatim 10/3343 dan Tafsir al-Quranil ‘Azhim libni Katsir 8/42)
+[^2]: Al-Jami'u Li Ahkaamil Quraan Tafsir Al-Qurthuby 17/291
+[^3]: Al-Jami'u Li Ahkaamil Quraan Tafsir Al-Qurthuby 17/291
+	Begitu juga yang dimasukkan oleh Ibnu Abu Hatim dan Ibnu Katsir dalam tafsir mereka dari Muqotil dengan lafaz yang sedikit berbeda namun maknanya sama (lihat: Tafsir al-Quranil 'Azhim libni Abi Hatim 10/3343 dan Tafsir al-Quranil 'Azhim libni Katsir 8/42)
 [^4]: HR. Muslim no. 2165
 [^5]: HR. Muslim no. 2165
 [^6]: HR. Bukhori no. 6395
@@ -16893,11 +16893,11 @@ Hadits ini menunjukkan betapa sabarnya Allah subhanahu wa ta'ala, mereka orang-o
 [^8]: Lihat: Tafsir Muqotil bin Sulaiman 1/36
 [^9]: Seperti dalam firman Allah
 	وَلَقَدْ عَلِمْتُمُ الَّذِينَ اعْتَدَوْا مِنْكُمْ فِي السَّبْتِ فَقُلْنَا لَهُمْ كُونُوا قِرَدَةً خَاسِئِينَ
-	Dan sesungguhnya telah kamu ketahui orang-orang yang melanggar diantaramu pada hari Sabtu, lalu Kami berfirman kepada mereka: “Jadilah kamu kera yang hina” (QS Al-Baqoroh : 65)
+	Dan sesungguhnya telah kamu ketahui orang-orang yang melanggar diantaramu pada hari Sabtu, lalu Kami berfirman kepada mereka: "Jadilah kamu kera yang hina" (QS Al-Baqoroh : 65)
 	فَلَمَّا عَتَوْا عَنْ مَا نُهُوا عَنْهُ قُلْنَا لَهُمْ كُونُوا قِرَدَةً خَاسِئِينَ
-	Maka tatkala mereka bersikap sombong terhadap apa yang dilarang mereka mengerjakannya, Kami katakan kepadanya: “Jadilah kamu kera yang hina (QS Al-A’roof : 166)
+	Maka tatkala mereka bersikap sombong terhadap apa yang dilarang mereka mengerjakannya, Kami katakan kepadanya: "Jadilah kamu kera yang hina (QS Al-A'roof : 166)
 [^10]: Lihat: At-Tahrir wat Tanwir 28/32
-[^11]: HR. Ahmad no 19633, dan sanadnya dikatakan oleh Syu’aib al-Arnauth shohih dengan syarat Bukhari Muslim
+[^11]: HR. Ahmad no 19633, dan sanadnya dikatakan oleh Syu'aib al-Arnauth shohih dengan syarat Bukhari Muslim
 
 ===== 5113 =====
 
@@ -16934,7 +16934,7 @@ Walaupun yang dibisik-bisikkan oleh kedua orang tersebut bukanlah dalam rangka m
 Para ulama juga memasukkan ke dalam larangan hadits ini adalah ketika ada 3 orang berbicara dengan bahasa yang tidak dipahami oleh orang ke empat walaupun mereka tidak berbicara dengan bisik-bisik[^4], contohnya: jika ada 4 orang, 3 orang dari mereka orang Sunda dan yang satunya orang Madura, lalu mereka bertiga berbicara dengan bahasa sunda sedangkan orang Madura tidak memahami apa yang mereka bicarakan, tentunya ini akan menimbulkan persangkaan yang tidak baik dalam hati orang Madura. Terdapat sebuah kisah ketika penulis ke Amsterdam dan bertemu dengan orang Belanda yang dia adalah seorang muallaf dan dia bisa berbahasa Indonesia, dia bercerita kepada penulis dengan bahasa Indonesia: "Ustadz, ketika saya pergi ke Indonesia dan saat itu saya berada di suatu tempat yang ramai, lalu ada orang-orang yang mengobrol dengan sesama mereka membicarakan saya dalam rangka memaki saya dengan bahasa Indonesia, dan mereka tidak mengetahui kalau saya mengerti bahasa Indonesia, saya pun hanya bersabar mendengar makian mereka, ketika mereka selesai berbicara saya pun menyapa mereka, "Pak, bu, saya duluan ya", mereka semua pun terkejut mendengar ucapan saya dengan bahasa Indonesia", intinya termasuk termasuk dalam pelarangan نَجْوَى jika ada beberapa orang yang berbicara dengan bahasa yang tidak dipahami oleh orang yang ketiga.
 
 [^1]: Lihat: Ar-Risalah At-Tabukiyyah karya Ibnul Qoyyim hal: 7
-[^2]: Lihat: Tafsir as-Sa’dy hal: 845
+[^2]: Lihat: Tafsir as-Sa'dy hal: 845
 [^3]: HR. Bukhari no. 6290 dan Muslim no. 2184
 [^4]: Lihat: At-Tahrir wat Tanwir 28/30
 
@@ -17058,7 +17058,7 @@ Dan hadits ini menunjukkan bahwa orang yang berilmu dihormati, akan tetapi perlu
 [^2]: Lihat: Tafsir Al-Alusy 14/223
 [^3]: Tafsir Al-Qurthubi 17/296-297
 [^4]: Lihat: Tafsir Al-Alusy 14/223 dan Tafsir Al-Qurthubi 17/297
-[^5]: HR. Ahmad no. 13963, dikatakan oleh Syu’aib al-Arnauth hadits ini shohih dengan syarat Muslim
+[^5]: HR. Ahmad no. 13963, dikatakan oleh Syu'aib al-Arnauth hadits ini shohih dengan syarat Muslim
 [^6]: Lihat: Tafsir Al-Qurthubi 17/297
 [^7]: Lihat: Tafsir Al-Qurthubi 17/298
 [^8]: HR. Muslim no. 2178
@@ -17067,7 +17067,7 @@ Dan hadits ini menunjukkan bahwa orang yang berilmu dihormati, akan tetapi perlu
 [^11]: Lihat: Tafsir Al-Alusy 14/224
 [^12]: Ibnu Taimiyyah menyebutkan adanya hasad di kalangan para ulama dan juga di kalangan para donator. Beliau berkata
 	وَلِهَذَا يُوجَدُ بَيْنَ أَهْلِ الْعِلْمِ الَّذِينَ لَهُمْ أَتْبَاعٌ مِنْ الْحَسَدِ مَا لَا يُوجَدُ فِيمَنْ لَيْسَ كَذَلِكَ وَكَذَلِكَ فِيمَنْ لَهُ أَتْبَاعٌ بِسَبَبِ إنْفَاقِ مَالِهِ فَهَذَا يَنْفَعُ النَّاسَ بِقُوتِ الْقُلُوبِ وَهَذَا يَنْفَعُهُمْ بِقُوتِ الْأَبْدَانِ
-	“oleh karenanya terkadang didapati di kalangan para ulama yang mereka memiliki pengikut berupa hasad yang tidak didapati pada para ulama yang tidak memiliki pengikut, dan begitu juga terkadang didapati rasa hasad terhadap orang yang memiliki pengikut disebabkan dia menginfakkan hartanya.  Orang yang pertama (ulama) memberikan manfaat kepada manusia dengan memberi asupan kepada hati-hati mereka dan orang yang kedua (donator) memberikan manfaat manusia dengan memberikan asupan kepada badan-badan mereka.” (Majmu’ Al-Fatawa 10/114-115)
+	"oleh karenanya terkadang didapati di kalangan para ulama yang mereka memiliki pengikut berupa hasad yang tidak didapati pada para ulama yang tidak memiliki pengikut, dan begitu juga terkadang didapati rasa hasad terhadap orang yang memiliki pengikut disebabkan dia menginfakkan hartanya.  Orang yang pertama (ulama) memberikan manfaat kepada manusia dengan memberi asupan kepada hati-hati mereka dan orang yang kedua (donator) memberikan manfaat manusia dengan memberikan asupan kepada badan-badan mereka." (Majmu' Al-Fatawa 10/114-115)
 [^13]: HR. Muslim no. 817
 [^14]: HR. Bukhori no. 3627
 [^15]: HR. An-Nasai dalam sunannya no. 2010
@@ -17100,10 +17100,10 @@ _"Tetapi jika kalian tidak memperoleh (yang akan disedekahkan) maka sungguh, All
 
 Ayat ini menjelaskan bahwa bagi mereka yang miskin tidak memiliki sesuatu untuk disedekahkan maka tidak mengapa bagi mereka untuk bertanya kepada Nabi shallallahu 'alaihi wa sallam, dan Allah subhanahu wa ta'ala maha memaafkan[^4]. Perlu diketahui bahwa sedekah yang diberikan kepada Nabi shallallahu 'alaihi wa sallam bukan untuk Nabi shallallahu 'alaihi wa sallam, sebagaimana yang dijelaskan oleh Al-Alusy bahwa ayat ini faedahnya agar orang-orang bisa bersedekah dan Nabi shallallahu 'alaihi wa sallam mengumpulkan sedekah tersebut kemudian dibagikan kepada fakir miskin[^5].
 
-[^1]: Jaami’ul bayan ‘an ta’wiili aayil quraan tafsir at-thobari 22/484, tafsiir al-quraanil ‘azhiim libni abii haatim 10/3344, an-nukat wal ‘uyuun karya Al-Mawardy 5/493, dan dalam kitab tafsir lainnya.
-	Dan dikatakan oleh Salim bin ‘ied al-hilali bahwa sanadnya hasan (Lihat: Al-Isti’ab Fii Bayaani Al-Asbaab 3/347)
+[^1]: Jaami'ul bayan 'an ta'wiili aayil quraan tafsir at-thobari 22/484, tafsiir al-quraanil 'azhiim libni abii haatim 10/3344, an-nukat wal 'uyuun karya Al-Mawardy 5/493, dan dalam kitab tafsir lainnya.
+	Dan dikatakan oleh Salim bin 'ied al-hilali bahwa sanadnya hasan (Lihat: Al-Isti'ab Fii Bayaani Al-Asbaab 3/347)
 [^2]: Lihat: Tafsir Al-Qurthubi 17/303
-[^3]: Lihat: Tafsir As-Sa’di hal: 846
+[^3]: Lihat: Tafsir As-Sa'di hal: 846
 [^4]: Lihat: Tafsir Al-Alusy 14/225
 [^5]: Lihat: Tafsir Al-Alusy 14/224
 
@@ -17349,11 +17349,11 @@ Lalu Allah menutup firman-Nya:
 Kataيُوْقَ  berasal dari kata وِقَايَة yang artinya adalah penjagaan atau perlindungan. Mengapa dikatakan demikian?, karena sifat pelit itu setiap saat bisa menyerang dan menjangkiti. Pada hari ini seseorang bisa tidak memiliki sifat pelit namun pekan depannya dia bisa memiliki sifat pelit, oleh karena itu ia harus senantiasa menjaga dirinya dari sifat pelit dan kapan saja sifat pelit itu muncul maka sifat pelit itu harus ia lawan. Barangkali dalam kondisi lapang kita tidak pelit namun dalam kondisi sempit maka menjadi pelit. Oleh karena itu penting bagi kita agar mampu mengatur hati kita agar jangan sampai kita terjatuh kepada sifat pelit. Hal ini juga menunjukkan bahwasanya seseorang haruslah waspada dan barangsiapa yang bisa terjaga dari sifat pelit tersebut maka mereka itulah orang-orang yang beruntung.
 
 [^1]: Lihat Tafsir Al-Qurthubiy: 18/ 19.
-[^2]: Lihat Tafsir Ibnu ‘Asyur: 28/ 90-91.
+[^2]: Lihat Tafsir Ibnu 'Asyur: 28/ 90-91.
 [^3]: Lihat Tafsir Al-Qurthubiy: 18/ 28 dari perkataan Abu Yazid Al-Busthomiy.
 [^4]: HR Al-Bukhariy no 2018.
 [^5]: HR Muslim no 2054.
-[^6]: Atsar ini diriwayatkan oleh Hudzaifah Al-‘Adawiy disebutkan oleh Imam Al-Qurthubiy dalam Tafsirnya: 18/ 28.
+[^6]: Atsar ini diriwayatkan oleh Hudzaifah Al-'Adawiy disebutkan oleh Imam Al-Qurthubiy dalam Tafsirnya: 18/ 28.
 
 ===== 5135 =====
 
@@ -17438,7 +17438,7 @@ Setelah Allah subhanahu wa ta'ala menyebutkan tentang 3 golongan yang mulia, per
 [^1]: Lihat: Tafsir Al-Qurthuby 18/32
 [^2]: Lihat: Fathul Qadir 5/242
 [^3]: Lihat: Tafsir Al-Qurthuby 18/33
-[^4]: Lihat: Firaq Mu’ashirah hal: 350
+[^4]: Lihat: Firaq Mu'ashirah hal: 350
 [^5]: HR. Ahmad no. 12697, dan Tafsir Ibnu Katsir 8/70
 [^6]: HR. Muslim no. 2559
 
@@ -17632,7 +17632,7 @@ _"dan bertakwalah kepada Allah. Sungguh, Allah Mahateliti terhadap apa yang kamu
 
 Dan sifat Allah subhanahu wa ta'ala خَبِيْرٌ sebagaimana yang sering penulis sampaikan yaitu Allah subhanahu wa ta'ala mengetahui segala sesuatu secara detail[^7], seakan-akan Allah subhanahu wa ta'ala berfirman: lakukanlah kebajikan dan hati-hatilah terhadap kemaksiatan karena Allah subhanahu wa ta'ala mencatat kebajikan dan mencatat kemaksiatan dengan detail. Tidak ada satu senyuman pun kecuali tercatat dan pasti ada balasannya, dan tidak ada satu pandangan harampun kecuali pasti ada catatannya dan pasti ada balasannya. Jadi jangan khawatir ketika melakukan kebajikan sedikit apapun dan tidak ada yang mengetahuinya karena Allah subhanahu wa ta'ala mengetahuinya dengan detail. Ketika kita memiliki niat baik dan niat kita ada 3 maka sesungguhnya Allah subhanahu wa ta'ala maha mengetahui, tidak akan ditambah menjadi 4 atau dikurangi menjadi 2. Maka salah satu cara kita bermuhasabah agar kita ingat selalu apa yang sudah kita lakukan dan apa yang akan kita lakukan  semuanya tertulis secara detail.
 
-[^1]: Lihat: Tafsir As-Sa’dy hal: 853
+[^1]: Lihat: Tafsir As-Sa'dy hal: 853
 [^2]: Lihat: Tafsir Al-Qurthuby 18/43
 [^3]: Lihat: Tafsir Al-Qurthuby 18/43
 [^4]: Fafirruu ilallah hal: 84
@@ -17668,7 +17668,7 @@ Yaitu mereka yang lupa kepada Allah subhanahu wa ta'ala, tidak menjalankan perin
 
 [^1]: Lihat: Tafsir Al-Qurthuby 18/43
 [^2]: Lihat: Tafsir Al-Qurthubi 17/306
-[^3]: Lihat: Tafsir As-Sa’dy hal: 853
+[^3]: Lihat: Tafsir As-Sa'dy hal: 853
 
 ===== 5146 =====
 
@@ -17678,7 +17678,7 @@ Di dunia ini orang-orang boleh saja berpacu dalam segala hal, namun pemenang yan
 
 Dalam ayat ini Allah subhanahu wa ta'ala ingin menjelaskan bahwa Al-Quran ini adalah penegur yang luar biasa, penasihat yang luar biasa[^1], yang mana Al-Quran ini bisa menghancurkan batu yang besar dan gunung yang kokoh, apalagi hanya sekedar hati manusia seharusnya bisa luluh dan terenyuh. Yang jadi masalah adalah kita kurang mendalami Al-Quran dan kurang membaca Al-Quran, dan ketika membaca Al-Quran pun tidak mengetahui bahasa Arab, ada terjemahannya pun tidak sempat untuk dibaca. Dan terjemahan bisa memberikan pengaruh, lalu bagaimana dengan orang yang membaca Al-Quran dan dia mengetahui tafsirnya maka dia benar-benar akan merasakan kebahagiaan, dan di dalam Al-Quran tidak ada takalluf (dibuat-buat dan dipaksa-paksakan) dalam menasehati, karena Al-Quran menceritakan tentang kisah ini dan itu dan menjelaskan tentang ayat-ayat, dan ini bisa membuat hati kita terenyuh, tidak perlu membuat drama-drama seperti yang dilakukan oleh banyak orang. Jika kita ingin bahagia dengan iman maka kita harus bahagia dengan cara as-salaf ash-shalih, karena mereka ketika beriman tidak dengan cara-cara seperti itu yaitu dengan drama-drama ini dan itu, lagu ini dan itu, atau membuat acara kumpul menangis bersama, maka cukup dengan membaca Al-Quran.
 
-[^1]: Lihat: Tafsir As-Sa’dy hal: 853
+[^1]: Lihat: Tafsir As-Sa'dy hal: 853
 
 ===== 5148 =====
 
@@ -17780,10 +17780,10 @@ _"Kesombongan itu adalah 'selendangKu' dan keagungan itu adalah 'SarungKu' Sesia
 Maka tidak boleh ada yang merasa sombong dan merasa agung, karena yang berhak untuk merasa sombong dan agung hanyalah Allah subhanahu wa ta'ala. Adapun manusia semua yang mereka miliki hanyalah pemberian Allah subhanahu wa ta'ala maka mereka berhak untuk sombong.
 
 [^1]: Lihat: Tafsir Al-Qurthuby 28/190
-[^2]: HR. Ahmad no. 8863, dikatakan oleh Syu’aib Al-Arnauth hadits ini shohih
+[^2]: HR. Ahmad no. 8863, dikatakan oleh Syu'aib Al-Arnauth hadits ini shohih
 [^3]: Lihat: Tafsir Al-Qurthuby 28/190
 [^4]: Lihat: Tafsir Al-Qurthuby 18/46
-[^5]: Lihat: Tafsir Al-Qurthuby 18/46 dan Tafsir As-Sa’dy hal: 854
+[^5]: Lihat: Tafsir Al-Qurthuby 18/46 dan Tafsir As-Sa'dy hal: 854
 [^6]: Tafsir Al-Alusy 14/256
 [^7]: HR. Ahmad no. 7382
 
@@ -17904,14 +17904,14 @@ Dan firman-Nya,
 "Hai orang-orang yang beriman, janganlah kalian mengambil orang-orang Yahudi dan Nasrani menjadi pemimpin-pemimpin(kalian); sebahagian mereka adalah pemimpin bagi sebahagian yang lain. Barangsiapa diantara kalian mengambil mereka menjadi pemimpin, maka sesungguhnya orang itu termasuk golongan mereka. Sesungguhnya Allah tidak memberi petunjuk kepada orang-orang yang zalim." QS. Al-Maidah:51
 
 [^1]: Tempat antara Makkah dan Madinah sekitar 12 mil dari kota Madinah
-[^2]: Membocorkan rahasia Rasulullah shallallahu ‘alaihi wa sallam ketika ingin memerangi penduduk Makkah adalah suatu kesalahan yang jelas, ini adalah perkara yang genting dan sangat berbahaya, karena biasanya Nabi shallallahu ‘alaihi wa sallam ketika ingin melakukan perang beliau melakukan tauriyah (tidak terang-terangan contohnya Nabi shallallahu ‘alaihi wa sallam bertanya tentang daerah selatan ternyata beliau berjalan ke arah utara atau ketika beliau seakan-akan berjalan ke arah timur ternyata beliau berjalan ke arah barat) dan ini diperbolehkan dalam peperangan, sebagaimana yang diriwayatkan oleh Abu Hurairah bahwa Rasulullah shallallahu ‘alaihi wa sallam bersabda:
+[^2]: Membocorkan rahasia Rasulullah shallallahu 'alaihi wa sallam ketika ingin memerangi penduduk Makkah adalah suatu kesalahan yang jelas, ini adalah perkara yang genting dan sangat berbahaya, karena biasanya Nabi shallallahu 'alaihi wa sallam ketika ingin melakukan perang beliau melakukan tauriyah (tidak terang-terangan contohnya Nabi shallallahu 'alaihi wa sallam bertanya tentang daerah selatan ternyata beliau berjalan ke arah utara atau ketika beliau seakan-akan berjalan ke arah timur ternyata beliau berjalan ke arah barat) dan ini diperbolehkan dalam peperangan, sebagaimana yang diriwayatkan oleh Abu Hurairah bahwa Rasulullah shallallahu 'alaihi wa sallam bersabda:
 	«الحَرْبُ خَدْعَةٌ»
-	“Perang adalah tipuan” (HR. Bukhari no 3030)
-	Kecuali dalam perang Tabuk Nabi shallallahu ‘alaihi wa sallam menjelaskan dengan terang-terangan bahwa beliau akan memerangi Romawi, adapun sisa peperangan yang lain Nabi shallallahu ‘alaihi wa sallam tidak terang-terangan dan beliau selalu tauriyah. Dan Nabi shallallahu ‘alaihi wa sallam ingin memerangi kaum musyrikin Makkah secara tiba-tiba agar mereka tidak memiliki persiapan. Jika Hatib bin Abi Balta’ah menulis surat kepda mereka lalu ketahuan rencana Rasulullah shallallahu ‘alaihi wa sallam oleh mereka maka ini bahaya dan bisa jadi mereka akan mengumpulkan pasukan dan mempersiapkan senjata untuk menghadang Nabi shallallahu ‘alaihi wa sallam, yang hal ini mungkin tidak terpikirkan oleh Hatib bin Abi Balta’ah radhiallahu ‘anhu.
+	"Perang adalah tipuan" (HR. Bukhari no 3030)
+	Kecuali dalam perang Tabuk Nabi shallallahu 'alaihi wa sallam menjelaskan dengan terang-terangan bahwa beliau akan memerangi Romawi, adapun sisa peperangan yang lain Nabi shallallahu 'alaihi wa sallam tidak terang-terangan dan beliau selalu tauriyah. Dan Nabi shallallahu 'alaihi wa sallam ingin memerangi kaum musyrikin Makkah secara tiba-tiba agar mereka tidak memiliki persiapan. Jika Hatib bin Abi Balta'ah menulis surat kepda mereka lalu ketahuan rencana Rasulullah shallallahu 'alaihi wa sallam oleh mereka maka ini bahaya dan bisa jadi mereka akan mengumpulkan pasukan dan mempersiapkan senjata untuk menghadang Nabi shallallahu 'alaihi wa sallam, yang hal ini mungkin tidak terpikirkan oleh Hatib bin Abi Balta'ah radhiallahu 'anhu.
 [^3]: Karena dahulu suku-suku saling bersekutu, di antaranya suku Hatib bersekutu dengan suku Quraisy yang berada di Makkah
 [^4]: Tafsir Al-Qurthubi: 18/50
 [^5]: Tafsir Ath-Thobary 22/560
-[^6]: Lihat: Majmu’ Al-Fatawa 7/487
+[^6]: Lihat: Majmu' Al-Fatawa 7/487
 [^7]: HR. Bukhari no. 1521
 [^8]: HR. Ad-Daruquthny no. 17
 [^9]: Lihat: Tafsir Al-Qurthubi 18/52
@@ -18018,7 +18018,7 @@ Kedua: dishalatkan satu-satu, namun setiap kali shalat ketika dia ragu mayat ter
 [^6]: Lihat: Tafsir Al-Alusy 14/265
 [^7]: Lihat: Tafsir Al-Qurthuby 18/57
 [^8]: Lihat: Tafsir Al-Qurthuby 18/57
-[^9]: Lihat: Raudhatut Thalibin wa ‘Umdatul Muftiin 2/118
+[^9]: Lihat: Raudhatut Thalibin wa 'Umdatul Muftiin 2/118
 
 ===== 5155 =====
 
@@ -18091,11 +18091,11 @@ _"Dan berlaku adil terhadap orang-orang yang tidak memerangimu dalam urusan agam
 
 Kata القِسْط menurut para ahli tafsir menafsirkan bahwa kalian tidak dilarang untuk berbuat adil kepada mereka. Adapun sebagian ulama lain menafsirkan bahwa kalian tidak mengapa memberikan قِسْطًا مِنَ المَال  yaitu sebagian harta kalian kepada orang-orang kafir[^5]. Artinya tidak mengapa bagi seorang muslim memberikan sebagian hartanya kepada orang-orang kafir yang baik. Allah mencintai orang-orang yang berbuat adil. Jika mereka berbuat baik kepada kita, maka kita balas mereka dengan kebaikan pula. Tidak ada masalahnya kita memberikan hadiah kepada mereka, selama mereka bukan orang-orang kafir harbiy yang memusuhi atau menyerang agama Allah.
 
-[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 28/152
+[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 28/152
 [^2]: H.R. Bukhari no.5979
 [^3]: Lihat: Tafsir Al-Qurthubiy 18/59
 [^4]: Lihat: Tafsir Ath-Thabariy 23/323
-[^5]: Lihat: Ahkamul Qur’an Li Ibnu Al-‘Arabiy 4/228
+[^5]: Lihat: Ahkamul Qur'an Li Ibnu Al-'Arabiy 4/228
 
 ===== 5159 =====
 
@@ -18240,17 +18240,17 @@ Berkaitan dengan ayat ini, As-Sa'diy mengatakan bahwa apabila ada seorang istri 
 [^2]: Lihat: Tafsir Al-Qurthubiy 18/61
 [^3]: Lihat: Tafsir Al-Qurthubiy 18/62
 [^4]: Lihat: Tafsir Al-Qurthubiy 18/62
-[^5]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 28/156
+[^5]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 28/156
 [^6]: Lihat: Tafsir Al-Qurthubiy 18/63
 [^7]: Lihat: Tafsir Al-Qurthubiy 18/63
-[^8]: Lihat: Ahkamul Qur’an Li Ibnu Al-‘Arabiy 4/230
-[^9]: Lihat: Tafsir Ibnu ‘Athiyyah 5/297
+[^8]: Lihat: Ahkamul Qur'an Li Ibnu Al-'Arabiy 4/230
+[^9]: Lihat: Tafsir Ibnu 'Athiyyah 5/297
 [^10]: Lihat: Tafsir Al-Qurthubiy 18/65
-[^11]: Majmu’ Al-Fatawa Li Ibnu Taimiyyah 13/120
+[^11]: Majmu' Al-Fatawa Li Ibnu Taimiyyah 13/120
 [^12]: Tafsir Ibnu Katsir 2/292
 [^13]: Misalnya jika sang istri memiliki iddah tiga kali haid, maka dia memiliki masa tiga kali haid untuk merayu suaminya untuk masuk agama Islam.
 [^14]: Lihat: Tafsir Al-Qurthubiy 18/66
-[^15]: Tafsir As-Sa’diy hal.857
+[^15]: Tafsir As-Sa'diy hal.857
 
 ===== 5161 =====
 
@@ -18293,7 +18293,7 @@ Kemudian Allah berfirman,
 [^1]: Lihat: Tafsir Al-Qurthubiy 18/71
 [^2]: Niyahah adalah meratapi mayat. Karena ada sebagian wanita yang lemah imannya tatkala keluarganya meninggal dunia. Akhirnya dia meratapinya dengan berteriak-teriak atau dengan merobek-robek baju. Sebagaimana Nabi bersabda,
 	لَيْسَ مِنَّا مَنْ ضَرَبَ الْخُدُودَ، أَوْ شَقَّ الْجُيُوبَ، أَوْ دَعَا بِدَعْوَى الْجَاهِلِيَّة
-	“Bukan dari golongan kami, orang yang terkena musibah lalu menampar pipinya, merobek-robek bajunya dan berteriak sebagaimana perbuatan orang-orang jahiliyah.”(H.R. Muslim no.103)
+	"Bukan dari golongan kami, orang yang terkena musibah lalu menampar pipinya, merobek-robek bajunya dan berteriak sebagaimana perbuatan orang-orang jahiliyah."(H.R. Muslim no.103)
 	Diantara bentuk niyahah adalah seperti yang telah disebutkan dalam hadits tersebut. Hukumnya adalah haram dan termasuk dosa besar.
 [^3]: Lihat: Tafsir Al-Qurthubiy 18/72
 
@@ -18327,7 +18327,7 @@ Penafsiran kedua, maksudnya mereka sudah tahu bahwa mereka tidak akan mendapatka
 
 - **Pendapat kedua,** mengatakan bahwa kaum yang dimaksud adalah orang-orang musyrik. Mereka tidak beriman kepada hari akhir dan telah berputus asa dari akhirat sebagaimana penghuni kubur mengetahui bahwa mereka tidak akan kembali lagi ke dunia. Bentuk _tasybih_ (penyamaan) yang disebutkan dalam ayat ini adalah _tasybih_ antara كُفَّار الأَحْيَاء (orang-orang kafir yang hidup) dengan كُفَّار الأَمْوَات (orang-orang kafir yang telah mati). Sesungguhnya orang-orang kafir yang masih hidup telah putus asa dari akhirat. Dan mereka yang mati mengetahui bahwa mereka tidak akan kembali ke dunia. [^1]
 
-[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 28/169
+[^1]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 28/169
 
 ===== 5164 =====
 
@@ -18401,23 +18401,23 @@ Maka ketika "Al-'Aziz" digabungkan dengan "Al-Hakim" maka tambahlah kesempurnaan
 [^4]: HR Al-Bukhari no 3583.
 [^5]: Nabi bersabda :
 	إِنِّي لَأَعْرِفُ حَجَرًا بِمَكَّةَ كَانَ يُسَلِّمُ عَلَيَّ قَبْلَ أَنْ أُبْعَثَ إِنِّي لَأَعْرِفُهُ الْآنَ
-	“Sungguh aku benar-benar mengetahui sebuah batu di Mekah dahulu memberi salam kepadaku sebelum aku diutus, sungguh aku mengetahui batu tersebut sekarang” (HR Muslim no  2277).
+	"Sungguh aku benar-benar mengetahui sebuah batu di Mekah dahulu memberi salam kepadaku sebelum aku diutus, sungguh aku mengetahui batu tersebut sekarang" (HR Muslim no  2277).
 [^6]: Ibnu Masúd radhiallahu ánhu berkata :
 	وَلَقَدْ كُنَّا نَسْمَعُ تَسْبِيحَ الطَّعَامِ وَهُوَ يُؤْكَلُ
-	“Dan sungguh kami mendengar tasbih-nya makanan sementara makanan tersebut sedang dimakan” (HR Al-Bukhari no 3579)
+	"Dan sungguh kami mendengar tasbih-nya makanan sementara makanan tersebut sedang dimakan" (HR Al-Bukhari no 3579)
 [^7]: Lantas bagaimana dengan orang-orang kafir apakah mereka juga bertasbih kepada Allah?
 	Untuk menjawab pertanyaanya ini maka beberapa kemungkinan jawaban :
 	Pertama : Jika kita berpendapat bahwa seluruh makhluk (baik benda mati atau benda hidup, termasuk manusia, baik mukmin maupun kafir) bertasbih dengan tasbih ad-dalaalah maka orang kafirpun bertasbih.
 	Kedua : Jika kita berpendapat bahwa yang dimaksud dengan tasbih adalah tasbih al-maqool (dengan ucapan) maka tentu jelas bahwa orang kafir tidaklah bertasbih. Maka mereka keluar dari keumuman firman Allah
 	وَإِنْ مِنْ شَيْءٍ إِلَّا يُسَبِّحُ بِحَمْدِهِ وَلَكِنْ لَا تَفْقَهُونَ تَسْبِيحَهُمْ
-	“Tidaklah sesuatu pun yang ada di langit dan yang ada di bumi melainkan mereka mentasbihkan Allah hanya saja kalian tidak dapat memahami tasbih mereka”. (QS Al-Isra:44)
+	"Tidaklah sesuatu pun yang ada di langit dan yang ada di bumi melainkan mereka mentasbihkan Allah hanya saja kalian tidak dapat memahami tasbih mereka". (QS Al-Isra:44)
 	Adapun keluarnya mereka dari ayat ini bisa jadi karena dua hal :
 	Karena ayat ini sedang berbicara tentang selain mukallaf (selain jin dan manusia), sehingga Allah berdalil bahwa seluruh makhluk (selain jin dan manusia) bertasbih maka hendaknya orang-orang kafir juga bertasbih
 Karena ayat ini dijadikan dalil untuk mencela orang-orang kafir yang tidak betasbih maka Allah berdalil bahwa seluruh yang ada di alam semesta (selain orang-orang kafir) telah bertasbih kepada Allah. Hal ini seperti firman Allah
 	فَإِنِ اسْتَكْبَرُوا فَالَّذِينَ عِنْدَ رَبِّكَ يُسَبِّحُونَ لَهُ بِاللَّيْلِ وَالنَّهَارِ وَهُمْ لَا يَسْأَمُونَ
-	“Jika mereka menyombongkan diri, maka mereka (malaikat) yang di sisi Tuhanmu bertasbih kepada-Nya di malam dan siang hari, sedang mereka tidak jemu-jemu” (QS Fushhilat : 38)
+	"Jika mereka menyombongkan diri, maka mereka (malaikat) yang di sisi Tuhanmu bertasbih kepada-Nya di malam dan siang hari, sedang mereka tidak jemu-jemu" (QS Fushhilat : 38)
 	Maka demikian pula dalam ayat tasbih, seakan-akan Allah berkata jika kalian orang-orang kafir tidak mau bertasbih maka sungguh seluruh yang ada di langit dan di bumi bertasbih kepada Allah.
-[^8]: Lihat Tafsir Al-‘Utsaimin: 1/ 33, Tafsir Al-Hujurat.
+[^8]: Lihat Tafsir Al-'Utsaimin: 1/ 33, Tafsir Al-Hujurat.
 
 ===== 5165 =====
 
@@ -18525,19 +18525,19 @@ Sebagaimana telah dikemukakan bahwa berbagai penafsiran ini pun menjadi contoh b
 
 [^1]: HR Ad-Darimi no 2435 dan At-Tirmidzi no 3309.
 	Hadits ini disebut juga dengan hadits musalsal dimana seluruh perawi yang meriwatkan hadits ini bersepakat untuk melakukan sesuatu perbuatan tertentu yang sama. Dan dalam hal ini semua perawi membacakan surat ash-Shaff ketika meriwayatkannya. Ketika Abdullah bin Sallam meriwyatkan dari Nabi maka Nabi ﷺ membacakannya hingga akhir ayat.
-	Demikian pula kata Tabi’in Abu Salam, beliau berkata:
+	Demikian pula kata Tabi'in Abu Salam, beliau berkata:
 	فَقَرَأَهاَ عَلَيْنَا عَبْدُ اللهِ بْنُ سَلَّام حَتَّى خَتَمَهَا
-	“Lalu ia (Abdullah bin Sallam) membacakannya kepada kami hingga akhir ayat”.
+	"Lalu ia (Abdullah bin Sallam) membacakannya kepada kami hingga akhir ayat".
 	Dan demikian pula kata Yahya bin Abi Katsir:
 	فَقَرَأَهَا عَلَيْنَا أَبُوْ سَلَامٍ حَتَّى خَتَمَهَا
-	“Lalu Abu Salam membacakannya kepada kami hingga akhir ayat”.
-	Demikian pula kata Al-Awza’iy:
+	"Lalu Abu Salam membacakannya kepada kami hingga akhir ayat".
+	Demikian pula kata Al-Awza'iy:
 	فَقَرَأَهَا عَلَيْنَا يَحْيَى بْنُ أَبِيْ كَثِيْرٍ حَتَّى خَتَمَهَا
-	“Lalu Yahya bin Abi Katsir membacakannya hingga akhir ayat”.
+	"Lalu Yahya bin Abi Katsir membacakannya hingga akhir ayat".
 	Demikian pula kata Muhammad bin Katsir:
 	فَقَرَأَهَا عَلَيْنَا الْأَوْزَاعِيُّ حَتَّى خَتَمَهَا
-	“Lalu Al-Awza’iy membacakannya kepada kami hingga akhir ayat”.
-	Begitu pula Muhammad bin Katsir hingga sampai kepada Imam Ad-Darimiy. Oleh karena itu Al-Hafizh Ibnu Hajar Al-‘Asqalaniy berkata ketika menjelaskan hadits ini bahwasanya beliau pun memiliki riwayat musalsal ini dengan sanad yang shahih dan dengan cara yang sama, yang hadits musalsal ini memiliki faedah di antaranya adalah menunjukkan kekuatan hafalan para perawi dalam hadits ini.
+	"Lalu Al-Awza'iy membacakannya kepada kami hingga akhir ayat".
+	Begitu pula Muhammad bin Katsir hingga sampai kepada Imam Ad-Darimiy. Oleh karena itu Al-Hafizh Ibnu Hajar Al-'Asqalaniy berkata ketika menjelaskan hadits ini bahwasanya beliau pun memiliki riwayat musalsal ini dengan sanad yang shahih dan dengan cara yang sama, yang hadits musalsal ini memiliki faedah di antaranya adalah menunjukkan kekuatan hafalan para perawi dalam hadits ini.
 [^2]: Lihat Tafsir Al-Qurthubi: 18/ 77-78.
 [^3]: Lihat Tafsir Al-Qurthubi: 18/ 79.
 [^4]: Lihat Tafsir Al-Qurthubi: 18/ 77-78.
@@ -18579,7 +18579,7 @@ Kemudian Allah ta'ala menyebutkan kisah umat-umat terdahulu, kisah umat Nabi Mus
 [^1]: Lihat Tafsir Ibnu Katsir: 8/ 108.
 [^2]: Imam Ahmad bin Hanbal berkata dalam kitab Ushulus-Sunnah:
 	وَالْغَزْوُ مَاضٍ مَعَ الأُمَرَاءِ إِلَى يَوْمِ الْقِيَامَةِ الْبَرُّ وَالْفَاجِرُ لَا يُتْرَكُ
-	“Dan jihad tetap berlaku hingga hari kiamat bersama para pemimpin apakah dia (pemimpin) baik atau buruk, (kewajiban jihad) tidak ditinggalkan”.
+	"Dan jihad tetap berlaku hingga hari kiamat bersama para pemimpin apakah dia (pemimpin) baik atau buruk, (kewajiban jihad) tidak ditinggalkan".
 [^3]: Lihat Tafsir Al-Qurthubi: 18/ 82.
 
 ===== 5168 =====
@@ -18666,13 +18666,13 @@ Ayat ini menunjukkan bahwa orang yang berusah mencari hidayah maka Allah akan ta
 
 Begitu pula berlaku sebaliknya sebagaimana keadaan Bani jIsra'il, tatkala hati mereka menyimpang maka Allah tetap biarkan mereka di dalam Penyimpangan dan Allah tidaklah memberi petunjuk kepada orang-orang yang fasik.
 
-[^1]: Yakni suatu aib pada kemaluan berupa testis yang terlalu besar (Hadyus-Sariy karya Al-hafizh Ibnu Hajar Al-‘Asqalaniy: 1/ 73.
+[^1]: Yakni suatu aib pada kemaluan berupa testis yang terlalu besar (Hadyus-Sariy karya Al-hafizh Ibnu Hajar Al-'Asqalaniy: 1/ 73.
 [^2]: Lihat kisahnya dalam HR Al-Bukhari no 278 dan Muslim 339.
 [^3]: HR Al-Bukhari no  278 dan Muslim no  339.
 [^4]: HR Al-Bukhari no  3150 dan Muslim no  1062.
 [^5]: Imam Ibnu Katsir berkata demikian ketika menafsirkan  ayat Al-Baqarah: 9:
 	وَقَالَ الضَّحَّاكُ، عَنِ ابْنِ عَبَّاسٍ: {فِي قُلُوبِهِمْ مَرَضٌ} قَالَ: نِفَاقٌ {فَزَادَهُمُ اللَّهُ مَرَضًا} قَالَ: نِفَاقًا،…وَقَالَ عَبْدُ الرَّحْمَنِ بْنُ زَيْدِ بْنِ أَسْلَمَ: {فِي قُلُوبِهِمْ مَرَضٌ} قَالَ: هَذَا مَرَضٌ فِي الدِّينِ، وَلَيْسَ مَرَضًا فِي الْأَجْسَادِ، وَهُمُ الْمُنَافِقُونَ. وَالْمَرَضُ: الشَّكُّ الَّذِي دَخْلَهُمْ فِي الْإِسْلَامِ {فَزَادَهُمُ اللَّهُ مَرَضًا} قَالَ: زَادَهُمْ رِجْسًا، …وَهَذَا الَّذِي قَالَهُ عَبْدُ الرَّحْمَنِ، رَحِمَهُ اللَّهُ، حَسَنٌ، وَهُوَ الْجَزَاءُ مِنْ جِنْسِ الْعَمَلِ، وَكَذَلِكَ قَالَهُ الْأَوَّلُونَ
-	Adh-Dhahhak berkata dari Ibnu Abbas tentang ayat: “Di dalam hati mereka terdapat penyakit” yakni kemunafikan, maka “Allah tambahkan penyakit pada mereka” yakni kemunafikannya….Abdurrahman bin Zaid bin Aslam berkata tentang ayat ini: “Ini adalah penyakit dalam agama dan bukanlah penyakit pada jasad dan mereka adalah orang-orang munafik. Adapun penyakitnya adalah keraguan di dalam agam Islam, “Maka Allah tambahkan penyakit pada mereka”, beliau berkata: Tambahkan kotoran pada mereka…Lalu Imam Ibnu Katsir mengomentari: “Yang dikatakan Abdurrahman adalah bagus dan ini adalah termasuk balasan sejenis dengan amalannya, semakna ini pula pendapat para ulama yang disebutkan sebelumnya (Tafsir Ibnu Katsir: 1/ 178).
+	Adh-Dhahhak berkata dari Ibnu Abbas tentang ayat: "Di dalam hati mereka terdapat penyakit" yakni kemunafikan, maka "Allah tambahkan penyakit pada mereka" yakni kemunafikannya….Abdurrahman bin Zaid bin Aslam berkata tentang ayat ini: "Ini adalah penyakit dalam agama dan bukanlah penyakit pada jasad dan mereka adalah orang-orang munafik. Adapun penyakitnya adalah keraguan di dalam agam Islam, "Maka Allah tambahkan penyakit pada mereka", beliau berkata: Tambahkan kotoran pada mereka…Lalu Imam Ibnu Katsir mengomentari: "Yang dikatakan Abdurrahman adalah bagus dan ini adalah termasuk balasan sejenis dengan amalannya, semakna ini pula pendapat para ulama yang disebutkan sebelumnya (Tafsir Ibnu Katsir: 1/ 178).
 
 ===== 5169 =====
 
@@ -18708,7 +18708,7 @@ Adapun nama-nama beliau lainnya adalah _"Al-Mahiy"_ dan ada juga _"Al-Hasyir"_ s
 
 "Aku memiliki 5 nama, aku Muhammad, Ahmad, aku al-Maahiy (penghapus) yang dengan sebabku Allah menghapuskan kekufuran, dan aku al-Hasyir (pengumpul) yang manusia dikumpulkan di kakiku (yaitu setelahku), dan aku adalah al-Áaqib (penutup), dan al-Áaqib adalah yang tidak ada lagi nabi setelahnya" [^4]
 
-[^1]: Lihat Adhwa`ul-Bayan karya ‘Allamah Asy-Syinqithi: 8/ 110.
+[^1]: Lihat Adhwa'ul-Bayan karya 'Allamah Asy-Syinqithi: 8/ 110.
 [^2]: HR Al-Bukhari no  3532.
 [^3]: Lihat Tafsir Al-Qurthubi: 18/ 84.
 [^4]: HR Al-Bukhari no 3532 dan Muslim no 2354. Lihat penjelasan lebih panjang tentang nama-nama tersebut di Zaadul Maáad, Ibnul Qoyyim 1/87-94. Ibnul Qoyyim juga menyebutkan nama-nama Nabi shallallahu álaihi wasallam yang lain seperti :
@@ -19033,7 +19033,7 @@ Akan tetapi mereka tahu bahwasanya ancaman Muhammad ﷺ adalah benar adanya dan 
 
 "Dan sungguh, engkau (Muhammad) akan mendapati mereka (orang-orang Yahudi), manusia yang paling tamak akan kehidupan (dunia), bahkan (lebih tamak) dari orang-orang musyrik. Masing-masing dari mereka, ingin diberi umur seribu tahun, padahal umur panjang itu tidak akan menjauhkan mereka dari azab. Dan Allah Maha Melihat apa yang mereka kerjakan". (QS Al-Baqoroh ; 96)
 
-[^1]: HR.Thobari dalam tafsirnya 2/268 dan Ibnu Abi Hatim 1/188, Ibnu Hajar dalam kitabnya Al-‘Ujab fi bayanil asbab berkata : “Sanadnya sohih”.
+[^1]: HR.Thobari dalam tafsirnya 2/268 dan Ibnu Abi Hatim 1/188, Ibnu Hajar dalam kitabnya Al-'Ujab fi bayanil asbab berkata : "Sanadnya sohih".
 
 ===== 5185 =====
 
@@ -19113,13 +19113,13 @@ Mengenai adzar jumat dua kali maka para ulama berbeda pendapat apakah dianjurkan
 [^1]: HR. Muslim no.863.
 [^2]: Lihat Tafsir Al-Qurthuby 18/109-110.
 [^3]: Lihat Tafsir Al-Qurthuby 18/114.
-[^4]: lihat Al-Ijma’ karya Ibnu Al-Mundzir 1/40 no.54.
+[^4]: lihat Al-Ijma' karya Ibnu Al-Mundzir 1/40 no.54.
 [^5]: Lihat Tafsir Al-Qurthuby 18/100.
 [^6]: HR. Muslim no.(4)-845
 [^7]: HR. Muslim no.(3)-845
 [^8]: HR.Bukhori no.883
-[^9]: Lihat Fatawa nur ‘ala darb karya Ibnu Al-Utsaimin 8/2.
-[^10]: Majmu’ Fatawa wa Rosail karya Ibnu Al-Utsaimin 14/295.
+[^9]: Lihat Fatawa nur 'ala darb karya Ibnu Al-Utsaimin 8/2.
+[^10]: Majmu' Fatawa wa Rosail karya Ibnu Al-Utsaimin 14/295.
 [^11]: HR. Bukhori no.931.
 
 ===== 5189 =====
@@ -19212,8 +19212,8 @@ Kedua: lafal yang tidak tegas, seperti أَشْهَدُ, أَقْسَمْتُ, �
 
 [^1]: Lihat: Tafsir Al-Qurthubi 18/122
 [^2]: Lihat: Tahdziirul Jumhur min Mafaasidi Syahaadatiz Zuur hal: 31
-[^3]: Lihat: Kitab al-‘ain 5/177
-[^4]: lihat: Hasyiyatu Asy-Syihab ‘Alaa Tafsiir Al-Baydhowy atau dinamakan dengan kitab ‘Inaayatul Qaadhy wa kifaayatur Raadhy ‘Alaa Tafsiir Al-Baydhowy 1/310
+[^3]: Lihat: Kitab al-'ain 5/177
+[^4]: lihat: Hasyiyatu Asy-Syihab 'Alaa Tafsiir Al-Baydhowy atau dinamakan dengan kitab 'Inaayatul Qaadhy wa kifaayatur Raadhy 'Alaa Tafsiir Al-Baydhowy 1/310
 [^5]: Lihat: Kitab At-Tauhid karya Shalih bin Fauzan bin Abdullah Al-Fauzan hal:25-27
 [^6]: HR. Bukhori no 33
 [^7]: HR. Bukhori no. 2459
@@ -19321,9 +19321,9 @@ _"(Sama saja) engkau (Muhammad) memohonkan ampunan bagi mereka atau tidak memoho
 
 Dan ayat ini merupakan dalil bahwa orang munafik jika meninggal maka kita tidak boleh mendoakan dia. Karenanya jika kita benar-benar tahu bahwa ada seseorang yang dia adalah munafik, dia sangat benci dengan syariat Islam, dan mencerca syariat Islam, maka kita tidak boleh menshalatinya dan juga tidak boleh mendoakan dia.
 
-[^1]: Arti ini sebagaimana yang dijelaskan oleh Ibnu Hajar dalam Fathul Bary 8/649, beliau berkata tentang al-kas’u:
+[^1]: Arti ini sebagaimana yang dijelaskan oleh Ibnu Hajar dalam Fathul Bary 8/649, beliau berkata tentang al-kas'u:
 	وَالْمَشْهُورُ فِيهِ أَنَّهُ ضَرْبُ الدُّبُرِ بِالْيَدِ أَوْ بِالرِّجْلِ
-	“Dan yang masyhur dalam makna al-kas’u ini adalah memukul dubur (pantat) dengan tangan atau kaki.”
+	"Dan yang masyhur dalam makna al-kas'u ini adalah memukul dubur (pantat) dengan tangan atau kaki."
 [^2]: HR. Bukhori no. 4905 dan Muslim no. 2584, dan ini lafaz muslim
 [^3]: Lihat: Tafsir Al-Qurthubi 18/126-127
 
@@ -19336,7 +19336,7 @@ Yang mengatakan لَا تُنْفِقُوا عَلَى مَنْ عِنْدَ ر�
 Lalu Allah subhanahu wa ta'ala menjawab terhadap perkataan mereka tersebut dan berkata وَلِلَّهِ خَزَائِنُ السَّمَوَاتِ وَالْأَرْضِ وَلَكِنَّ الْمُنَافِقِينَ لَا يَفْقَهُونَ "padahal milik Allah-lah perbendaharaan langit dan bumi, tetapi orang-orang munafik itu tidak memahami" lalu apakah ketika kalian tidak memberikan makan kepada para pengikut Rasulullah shallallahu 'alaihi wa sallam mereka akan mati kelaparan? Padahal sesungguhnya pembendaharaan langit dan bumi semuanya milik Allah subhanahu wa ta'ala, dan Allah subhanahu wa ta'ala lah yang memberikan mereka makan jika kalian tidak memberikan mereka makan[^2].
 
 [^1]: Lihat: At-Tahrir Wat Tanwir 28/246
-[^2]: Penulis beberapa kali ketika pesawat hendak mendarat penulis melihat lewat jendela kondisi Jakarta yang sangat padat, rumah yang begitu banyak dan berdempetan, lalu penulis berkata dalam hati “Manusia yang begitu banyak yang hidup di Jakarta dengan kondisi demikian namun semuanya bisa makan. Padahal di sana tidak ada sawah, tidak ada ladang, dan tidak ada peternakan namun demikian dengan jumlah mereka yang padat bahkan jutaan, yang ketika datang waktu pagi jumlah mereka bertambah lebih banyak dari pada waktu malam karena datangnya para pekerja yang berasal dari luar Jakarta seperti Depok dan Bekasi, akan tetapi semuanya bisa makan, dan tidak lain yang memberikan makan adalah Allah subhanahu wa ta’ala”.
+[^2]: Penulis beberapa kali ketika pesawat hendak mendarat penulis melihat lewat jendela kondisi Jakarta yang sangat padat, rumah yang begitu banyak dan berdempetan, lalu penulis berkata dalam hati "Manusia yang begitu banyak yang hidup di Jakarta dengan kondisi demikian namun semuanya bisa makan. Padahal di sana tidak ada sawah, tidak ada ladang, dan tidak ada peternakan namun demikian dengan jumlah mereka yang padat bahkan jutaan, yang ketika datang waktu pagi jumlah mereka bertambah lebih banyak dari pada waktu malam karena datangnya para pekerja yang berasal dari luar Jakarta seperti Depok dan Bekasi, akan tetapi semuanya bisa makan, dan tidak lain yang memberikan makan adalah Allah subhanahu wa ta'ala".
 
 ===== 5196 =====
 
@@ -19425,12 +19425,12 @@ Intinya ayat ini menjelaskan orang yang dalam keadaan maut menghampirinya dia me
 
 "(Demikianlah keadaan orang-orang kafir itu), hingga apabila datang kematian kepada seseorang dari mereka, dia berkata: "Ya Tuhanku kembalikanlah aku (ke dunia). Agar aku berbuat amal yang saleh terhadap yang telah aku tinggalkan. Sekali-kali tidak. Sesungguhnya itu adalah perkataan yang diucapkannya saja. Dan di hadapan mereka ada dinding sampal hari mereka dibangkitkan." QS. Al-Mukminun: 99-100
 
-[^1]: Lihat: At-Tahrir wat Tanwir 28/253, penulis yakni Ath-Thahir bin ‘Asyur berkata:
+[^1]: Lihat: At-Tahrir wat Tanwir 28/253, penulis yakni Ath-Thahir bin 'Asyur berkata:
 	وَ (مِنْ) لِلتَّبْعِيضِ، أَيْ بَعْضَ مَا رَزَقْنَاكُمْ، وَهَذِهِ تَوْسِعَةٌ مِنَ اللَّهِ عَلَى عِبَادِهِ
-	“dan “مِنْ” untuk sebagian, yaitu sebagian rezeki yang kami berikan kepada kalian. Dan ini adalah kelapangan dari Allah subhanahu wa ta’ala atas hambanya.”
+	"dan "مِنْ" untuk sebagian, yaitu sebagian rezeki yang kami berikan kepada kalian. Dan ini adalah kelapangan dari Allah subhanahu wa ta'ala atas hambanya."
 [^2]: HR. Muslim no. 2588
 [^3]: HR. Ahmad no. 17332, dan Syuaib Al-Arnauth mengatakan sanadnya shohih.
-[^4]: HR. Ath-Thabrani dalam kitabnya Al-Mu’jam Al-Kabir no. 1018, dan Al-Albani mengatakan hadits ini hasan lighairih (lihat: Shahih Targhib wat Tarhib no 888 hal:532)
+[^4]: HR. Ath-Thabrani dalam kitabnya Al-Mu'jam Al-Kabir no. 1018, dan Al-Albani mengatakan hadits ini hasan lighairih (lihat: Shahih Targhib wat Tarhib no 888 hal:532)
 
 ===== 5199 =====
 
@@ -19588,7 +19588,7 @@ _Maka mereka berkata: "Bagaimana kita akan mengikuti seorang manusia (biasa) di 
 Yang mana mereka tidak mau mengikuti para nabi, bahkan mereka menuduh para nabi seperti nabi Nuh, Shalih dan Hud bahwasanya mereka adalah orang-orang miskin yang tidak memiliki harta dan kekuasaan, sehingga mereka mencari kekuasaan dengan cara mengaku-ngaku sebagai nabi atau utusan Allah agar mereka mempunyai pengikut. Akhirnya Allah menjelaskan keadaan mereka فَكَفَرُوا وَتَوَلَّوْا yaitu mereka kafir dan berpaling. Lihatlah ketika berpaling dari ajaran nabi mereka malah menyembah batu, berhala, atau pohon[^2]. Sungguh ini sangat aneh, otak mereka tidak bisa menerima untuk mengikuti ajaran para rasul namun otak mereka bisa menerima untuk menyembah berhala, otak mereka tidak bisa menerima agama Islam namun otak mereka bisa menerima jika sapi menjadi tuhan, dan itulah keadaan orang-orang musyrik dan ini menunjukkan betapa mahalnya hidayah, padahal mereka memiliki otak yang cerdas akan tetapi mereka tidak mau menerima ajaran nabi Muhammad dan tidak mau menerima Islam namun mereka mau menyembah manusia seperti mereka yang menyembah nabi Isa. Otak mereka tidak menerima ajaran Islam yang begitu indah namun mereka menerima untuk menyembah tuhan yang terbuat dari dengan berbagai macam bentuknya, dan inilah menunjukkan betapa berharganya hidayah. Dan keadaan ini juga sama didapati pada kaum musyrikin Quraisy mereka tidak menerima jika Muhammad adalah utusan Allah subhanahu wa ta'ala namun mereka menerima untuk menyembah berhala. Kemudian Allah subhanahu wa ta'ala mengatakan bahwasanya Dia tidak butuh mereka karena Allah subhanahu wa ta'ala maha kaya, jika mereka tidak mau menyembah Allah subhanahu wa ta'ala maka tidak masalah, dan jika mereka menyekutukan Allah subhanahu wa ta'ala juga tidak masalah, maka Allah subhanahu wa ta'ala membinasakan mereka, dan Allah subhanahu wa ta'ala maha terpuji walaupun banyak yang menyekutukannya akan tetapi Allah subhanahu wa ta'ala tetap maha terpuji.
 
 [^1]: Lihat: Tafsir al-Qurthubi 18/135
-[^2]: Lihat: Tafsir As-Sa’dy ha; 866
+[^2]: Lihat: Tafsir As-Sa'dy ha; 866
 
 ===== 5206 =====
 
@@ -19627,8 +19627,8 @@ _"Katakanlah kepada orang laki-laki yang beriman: "Hendaklah mereka menahan pand
 Dalam ayat ini Allah subhanahu wa ta'ala menjelaskan bahwa Allah mengetahui secara detail setiap lirikan manusia, dan Allah subhanahu wa ta'ala tentu akan catat setiap lirikan tersebut.
 
 [^1]: Lihat: At-Tahrir wat Tanwir 28/273
-[^2]: HR. Ahmad no. 15156, dan hadits ini dikatakan sanadnya lemah karena lemahnya Mujalid Ibnu Sa’id, walaupun sanadnya lemah namun hadits ini dihasankan oleh al-Albani sebagaimana yang beliau jelaskan panjang lebar dalam kitabnya Irwa-ul ghalil 6/34-38
-[^3]: Lihat: As-Showa’iqul Mursalah 2/492, at-Tahrir wat-Tanwir 22/310, dan Tafsir As-Sa’di hal: 945
+[^2]: HR. Ahmad no. 15156, dan hadits ini dikatakan sanadnya lemah karena lemahnya Mujalid Ibnu Sa'id, walaupun sanadnya lemah namun hadits ini dihasankan oleh al-Albani sebagaimana yang beliau jelaskan panjang lebar dalam kitabnya Irwa-ul ghalil 6/34-38
+[^3]: Lihat: As-Showa'iqul Mursalah 2/492, at-Tahrir wat-Tanwir 22/310, dan Tafsir As-Sa'di hal: 945
 
 ===== 5208 =====
 
@@ -19656,7 +19656,7 @@ _"Barangsiapa yang tidak mati karena pedang maka dia akan mati dengan sebab yang
 
 Maka kita dapati banyak orang yang meninggal dengan sebab-sebab yang berbeda, dan kehidupan kita di dunia ini hanya sebentar jika dibandingkan dengan akhirat yang kekal abadi, maka jangan sampai kita salah dalam bersikap karena setiap detik yang kita lewati di dunia ini akan menjadi penentu bagaimana tingkatan kita nanti tatkala di akhirat.
 
-[^1]: Penyair ini bernama Ibnu Nabatah, lihat: Wafayaatul A’yaan: 3/193
+[^1]: Penyair ini bernama Ibnu Nabatah, lihat: Wafayaatul A'yaan: 3/193
 
 ===== 5209 =====
 
@@ -19668,7 +19668,7 @@ Dalam ayat ini terdapat penyemangat untuk orang-orang yang beriman agar mereka l
 
 Kondisi seseorang yang tidak menerima ketika terkena musibah sesungguhnya merupakan penderitaan yang luar biasa, yang kemudian menyebabkan dia marah dan mengamuk dan terus dalam kondisi seperti itu, maka ini adalah adzab yang Allah subhanahu wa ta'ala segerakan untuknya di dunia. Adapun orang yang beriman maka tidak bersikap demikian, dia bersabar ketika mendapatkan ujian sehingga Allah subhanahu wa ta'ala memberikan hidayah kepada hatinya dan dia pun kokoh dalam menghadapi segala ujian dan Allah subhanahu wa ta'ala pun akan membalas atas hatinya yang sabar tersebut.
 
-[^1]: Lihat: Tafsir As-Sa’dy hal: 867
+[^1]: Lihat: Tafsir As-Sa'dy hal: 867
 
 ===== 5211 =====
 
@@ -19732,9 +19732,9 @@ _"dan jika kalian maafkan dan kalian santuni serta ampuni (mereka), maka sungguh
 
 Ini merupakan arahan ilahi yang indah, karena dalam ayat ini menjelaskan bahwa meskipun di antara istri-istri dan anak-anak ada yang merupakan musuh dan kita diperintahkan untuk waspada dan hati-hati, namun bukan berarti lantas kita menjadi pelit dan marah terhadap istri dan anak-anak, karena bagaimanapun mereka adalah istri-istri dan anak-anak kita. Allah subhanahu wa ta'ala memberi arahan dan bimbingan dengan firman-Nya وَإِنْ تَعْفُوا "dan jika kalian maafkan", وَتَصْفَحُوا "dan kalian berlapang dada" yaitu melapangkan dada tanpa perlu mencela namun cukup dinasihati, karena ketika mereka salah maka hakikatnya sang suami juga salah karena terlalu mengikuti kemauan mereka, وَتَغْفِرُوا "kalian menutupi" yaitu menutupi kesalahan mereka[^5], tidak perlu bercerita kepada orang lain sebab dia tidak bisa melalukan ketaatan karena disebabkan istri-istri dan anak-anaknya, karena kesalahan mereka bukanlah untuk diceritakan kepada orang lain, maka disini Allah subhanahu wa ta'ala memberikan solusi وَإِنْ تَعْفُوا وَتَصْفَحُوا وَتَغْفِرُوا "dan jika kalian maafkan dan kalian tidak mencela, serta menutupi (kesalahan mereka)". Mengapa suami dilarang untuk memarahi istri-istri dan anak-anaknya yang telah membuatnya lalai dari ketaatan kepada Allah subhanahu wa ta'ala?, hal ini dikarenakan bagaimanapun juga mereka adalah istri-istri dan anak-anaknya, dan bukanlah orang lain, yang mana mereka adalah kecintaannya, yang memiliki jasa baik lainnya, memberikan kebahagiaan kepadanya. Karenanya dilarang untuk mencela dan memarahi mereka atau menghukum mereka. Uslub/metode ini disebut dalam istilah tafsir dengan الاِحْتِرَاس, yaitu Allah subhanahu wa ta'ala mendatangkan suatu pernyataan untuk menepis prasangka yang keliru (yang mungkin muncul) terhadap pernyataan yang sebelumnya.  Dalam hal ini ketika Allah berfirman إِنَّ مِنْ أَزْوَاجِكُمْ وَأَوْلَادِكُمْ عَدُوًّا لَكُمْ فَاحْذَرُوهُمْ "Sesungguhnya di antara istri-istri kalian dan anak-anak kalian ada yang menjadi musuh bagi kalian, maka berhati-hatilah kalian terhadap mereka", maka ketika ada seseorang yang membaca ayat ini kawatir ia salah paham, dan menyangka harus menghukum anak dan istrinya yang menyebabkannya lalai. Maka untuk menepis kemungkinan persangkaan ini maka Allah subhanahu wa ta'ala mengatakan setelahnya وَإِنْ تَعْفُوا وَتَصْفَحُوا وَتَغْفِرُوا "dan jika kalian maafkan dan kalian tidak mencela, serta menutupi (kesalahan mereka)". Ini menunjukkan untuk kita tetap harus sayang kepada istri-istri dan anak-anak kita meskipun dalam kondisi mereka jelas-jelas salah, entah karena menjerumuskan kita sehingga menjadi pelit, atau menghalangi kita dari menuntut ilmu, atau menyebabkan kita kurang berbakti kepada orang tua, dan lain-lain, namun kita tetap dilarang untuk memarahi mereka, mencela mereka, dan mengumbar aib mereka. Apalagi jika kesalahan mereka hanya berupa kesalahan yang ringan maka lebih dilarang lagi bagi kita untuk memarahi mereka, mencela mereka, dan mengumbar aib mereka. Dan jika seorang suami sudah melakukan apa yang Allah subhanahu wa ta'ala perintahkan yaitu وَإِنْ تَعْفُوا وَتَصْفَحُوا وَتَغْفِرُوا "dan jika kalian maafkan dan kalian tidak mencela, serta menutupi (kesalahan mereka)" maka balasannya adalah فَإِنَّ اللَّهَ غَفُورٌ رَحِيمٌ "Allah Maha Pengampun, Maha Penyayang". Maksudnya adalah اَلْجَزَاءُ مِنْ جِنْسِ الْعَمَلِ "balasan sesuai dengan amal", sebagaimana kalian mengampuni istri-istri dan anak-anak kalian maka Allah subhanahu wa ta'ala akan mengampuni kalian. Dalam ayat ini Allah subhanahu wa ta'ala tidak memberikan janji-janji yang lain dan Allah subhanahu wa ta'ala hanya memberikan janji akhirat, yaitu ketika seorang suami memaafkan istri-istri dan anak-anaknya, menasihati mereka, tidak mencela mereka, dan tidak membongkar aib mereka maka Allah subhanahu wa ta'ala akan mengampuninya, dan ini yang paling diharapkan oleh seorang hamba di akhirat, yaitu diampuni dosa-dosanya. Dan itu bisa ia raih dengan mengampuni istri-istri dan anak-anaknya.
 
-[^1]: HR. Ahmad no. 22437, dikatakan oleh Syu’aib al-Arnauth hadits ini hasan lighoirih
+[^1]: HR. Ahmad no. 22437, dikatakan oleh Syu'aib al-Arnauth hadits ini hasan lighoirih
 [^2]: HR. Ibnu Majah no. 3666, dan hadits ini dishohihkan oleh Al-Albani
-[^3]: HR. At-tirmidzi no. 3317 dan ia berkata, “Hadits ini adalah hadits hasan shahih”, dan hadits ini dihasankan oleh Al-Albani.
+[^3]: HR. At-tirmidzi no. 3317 dan ia berkata, "Hadits ini adalah hadits hasan shahih", dan hadits ini dihasankan oleh Al-Albani.
 [^4]: Lihat: Tafsir Al-Qurthubi 18/142
 [^5]: Lihat: At-Tahrir- wat-Tanwir 28/285
 
@@ -19919,18 +19919,18 @@ Disini Allah Subhanahu wa ta'ala memberikan solusi. Artinya Jika seseorang mence
 
 [^1]: Lihat: Tafsir Al-Qurthuby 18/148
 [^2]: Lihat: At-Tahrir wa At-Tanwir 28/294
-[^3]: Lihat: Majmuu’ al-Fataawaa, Ibnu Taimiyyah 33/22-25
-[^4]: Lihat: Zaadul Ma’aad 5/201-220
+[^3]: Lihat: Majmuu' al-Fataawaa, Ibnu Taimiyyah 33/22-25
+[^4]: Lihat: Zaadul Ma'aad 5/201-220
 [^5]: Lihat: Fataawaa al-Lajnah ad-Daaimah 20/58 fatwa no 6542
 [^6]: Lihat: Tafsir Ibnu Katsir 8/143
 [^7]: Lihat: Jamharatul Amtsal 1/97.
 	Maksudnya meskipun kay adalah bentuk pengobatan yang menyakitkan namun ia adalah obat, yaitu obat yang terakhir. Demikian pula dengan cerai, meskipun ia adalah perkara yang menyakitkan akan tetapi terkadang merupakan solusi yang terbaik untuk sebuah rumah tangga.
-[^8]: Lihat: Mukhtashor Al-Fiqhi Al-Islamy Fii Dhou’i Al-Quran wa As-Sunnah hal: 838
-[^9]: Untuk tholaq bi ‘iwadh (suami mentalak dengan menerima upah dari istri) maka para ulama berselisih pendapat dalam hal ini, secara umum ada 2 pendapat :
-	Pertama : Perkara ini tetap termasuk talak, hanya saja hak rujuk gugur dari suami karena dia menerima pembayaran dari pihak istri. Namun karena ini termasuk talak maka tetap dihitung sebagai satu talal, dan sang wanita menjalankan ‘iddah sebagaimana ‘iddahnya wanita yang ditalak
-	Kedua : Perkara ini adalah khulu’, karena bentuknya adalah persis dengan khulu’ (yaitu dimana sang istri minta untuk membatalkan akad nikah dengan memberi bayaran kepada suami). Meskipun talak dengan ‘iwadh lafalnya adalah talak dari pihak suami, akan tetapi hakikatnya persis dengan khulu’ yang diminta dari pihak istri. Karenanya ini bukan termasuk talak, dan tidak dihitung sebagai talak, dan ‘iddahnya pun hanya sekali haid, sebagaimana ‘iddahnya wanita yang minta khulu’. Ini adalah pendapat Ibnu Taimiyyah rahimahullah. Beliau berkata :
+[^8]: Lihat: Mukhtashor Al-Fiqhi Al-Islamy Fii Dhou'i Al-Quran wa As-Sunnah hal: 838
+[^9]: Untuk tholaq bi 'iwadh (suami mentalak dengan menerima upah dari istri) maka para ulama berselisih pendapat dalam hal ini, secara umum ada 2 pendapat :
+	Pertama : Perkara ini tetap termasuk talak, hanya saja hak rujuk gugur dari suami karena dia menerima pembayaran dari pihak istri. Namun karena ini termasuk talak maka tetap dihitung sebagai satu talal, dan sang wanita menjalankan 'iddah sebagaimana 'iddahnya wanita yang ditalak
+	Kedua : Perkara ini adalah khulu', karena bentuknya adalah persis dengan khulu' (yaitu dimana sang istri minta untuk membatalkan akad nikah dengan memberi bayaran kepada suami). Meskipun talak dengan 'iwadh lafalnya adalah talak dari pihak suami, akan tetapi hakikatnya persis dengan khulu' yang diminta dari pihak istri. Karenanya ini bukan termasuk talak, dan tidak dihitung sebagai talak, dan 'iddahnya pun hanya sekali haid, sebagaimana 'iddahnya wanita yang minta khulu'. Ini adalah pendapat Ibnu Taimiyyah rahimahullah. Beliau berkata :
 	وَالْخُلْعُ بِعِوَضٍ فَسْخٌ بِأَيِّ لَفْظٍ كَانَ وَلَوْ وَقَعَ بِصَرِيحِ الطَّلَاقِ … وَهَذَا هُوَ الْمَنْقُولُ عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ وَأَصْحَابِهِ وَعَنْ الْإِمَامِ أَحْمَدَ وَقُدَمَاءِ أَصْحَابِهِ لَمْ يُفَرِّقْ أَحَدٌ مِنْ السَّلَفِ وَلَا أَحْمَدُ بْنُ حَنْبَلٍ وَلَا قُدَمَاءُ أَصْحَابِهِ فِي الْخُلْعِ بَيْنَ لَفْظٍ وَلَفْظٍ لَا لَفْظِ الطَّلَاقِ وَلَا غَيْرِهِ بَلْ أَلْفَاظُهُمْ كُلُّهَا صَرِيحَةٌ فِي أَنَّهُ فَسْخٌ بِأَيِّ لَفْظٍ كَانَ
-	“Dan al-Khulu’ dengan membayar adalah fasakh (pembatalan akad nikah) dengan lafal apapun, meskipun dengan lafal talak yang tegas… dan inilah yang dinukilkan dari Abdullah bin Ábbas dan murid-muridnya, dan juga dinukil dari Imam Ahmad dan murid-murid seniornya. Tidak seorangpun dari salaf -termasuk Imam Ahmad bin Hanbal dan murid-murid seniornya- yang membedakan antara lafal yang satu dengan lafal yang lain dalam hal khulu’, tidak dibedakan antara lafal talak dan lafal yang lainnya. Pernyataan mereka seluruhnya tegas bahwasanya khulu’ adalah faskh (pembatalan akad nikah) dengan lafal apapun” (Al-Fataawaa al-Kubroo 5/486)
+	"Dan al-Khulu' dengan membayar adalah fasakh (pembatalan akad nikah) dengan lafal apapun, meskipun dengan lafal talak yang tegas… dan inilah yang dinukilkan dari Abdullah bin Ábbas dan murid-muridnya, dan juga dinukil dari Imam Ahmad dan murid-murid seniornya. Tidak seorangpun dari salaf -termasuk Imam Ahmad bin Hanbal dan murid-murid seniornya- yang membedakan antara lafal yang satu dengan lafal yang lain dalam hal khulu', tidak dibedakan antara lafal talak dan lafal yang lainnya. Pernyataan mereka seluruhnya tegas bahwasanya khulu' adalah faskh (pembatalan akad nikah) dengan lafal apapun" (Al-Fataawaa al-Kubroo 5/486)
 [^10]: Lihat: At-Tahrir wa At-Tanwir 28/298
 [^11]: Lihat: Tafsir Al-Qurthuby 18/155
 [^12]: Lihat: Tafsir Al-Alusy 14/329
@@ -19987,7 +19987,7 @@ Penggalan ayat ini sangat sering kita dengan para khatib-khatib menyampaikannya 
 
 Firman Allah مَخْرَجًا "jalan keluar" menunjukan orang yang terjebak dalam kasus talak sedang berada dalam kondisi yang sempit sehingga dia membutuhkan jalan keluar[^7]. Tentunya kesulitan ini dialami oleh keduanya, baik orang yang menjatuhkan talak maupun yang ditalak. Maka untuk mendapatkan jalan keluar, mereka berdua harus bertakwa kepada Allah Subhanahu wa ta'ala.
 
-[^1]: Lihat: Asy-Syarhul Mumti’ 13/192-193
+[^1]: Lihat: Asy-Syarhul Mumti' 13/192-193
 [^2]: Lihat: At-Tahrir wa At-Tanwir 28/308
 [^3]: Orang-orang jahiliyah dahulu tidak memiliki batasan dalam menceraikan. Sehingga mereka menceraikan istri-istri mereka seenaknya. Jika hampir habis masa idahnya, mereka kemudian rujuk. Akan tetapi setelah itu mereka menceraikan kembali, dan jika masa idahnya hampir habis mereka kemudian rujuk. Dan hal itu terjadi terus menerus sehingga sang wanita terkatung-katung tidak jelas (lihat: Tafsir Al-Qurthuby 3/126).
 [^4]: Lihat: Tafsir Al-Qurthuby 18/158
@@ -20298,7 +20298,7 @@ Allah Subhanahu wa ta'ala Maha Adil, Dia menjadikan surga bertingkat-tingkat. Se
 Pada ayat ini Allah Subhanahu wa ta'ala juga menyebutkan bahwa di antara nikmat surga adalah adanya taman-taman yang mengalir di bawahnya sungai-sungai. Akan tetapi dengan ayat-ayat yang berbicara tentang kenikmatan surga ini, sebagian orang liberal mengatakan bahwa Alquran konteksnya turun 1400 tahun yang lalu kepada orang-orang Arab badui yang ketika itu mereka senang dengan taman-taman dan sungai-sungai. Sedangkan menurut mereka orang-orang Indonesia tidak membutuhkan hal tersebut. Ketahuilah bahwa tidaklah mereka mengatakan demikian kecuali untuk mengukuhkan metode tafsir mereka yaitu dengan menggunakan teori Hermeneutika. Dan mereka juga ingin menegaskan bahwa Alquran bukanlah firman Allah Subhanahu wa ta'ala, melainkan perkataan Nabi Muhammad shallallahu 'alaihi wasallam yang merupakan penjelasan dari makna-makna yang Allah Subhanahu wa ta'ala sampaikan kepadanya 1400 tahun yang lalu. Padahal kenyataannya di zaman modern sekarang ini orang-orang tetap suka dengan yang namanya taman-taman. Bukankah banyak wisatawan dari luar negeri datang ke Indonesia untuk melihat keindahan alamnya? Oleh karenanya jangan kemudian kita mendengarkan ungkapan-ungkapan orang liberal terkait hal ini. Karena sesungguhnya kenikmatan di surga sangat banyak dan bukan hanya taman-taman dan sungai-sungai. Dan tentu taman surga tidak sama dengan taman dunia, terlebih lagi isi taman tersebut tidak sama dengan yang ada di dunia. Yang sama hanya sekedar nama adapun hakikat tentu berbeda.
 
 [^1]: Lihat: At-Tahrir wa At-Tanwir 28/336
-[^2]: Miftah Daar As-Sa’adah 1/187
+[^2]: Miftah Daar As-Sa'adah 1/187
 [^3]: Tafsir Ath-Thobary 1/10
 
 ===== 5229 =====
@@ -20602,7 +20602,7 @@ Kemudian dalam ayat ini pula Allah Subhanahu wa ta'ala memuji para malaikat penj
 
 [^1]: Lihat: Tafsir Al-Qurthubiy 18/194
 [^2]: Lihat: Tafsir Al-Qurthubiy 18/195
-[^3]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 28/365
+[^3]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 28/365
 [^4]: Lihat: Tafsir Al-Qurthubiy 18/196
 
 ===== 5236 =====
@@ -20767,17 +20767,17 @@ Sungguh ini menunjukkan bahwa tidak ada yang mudah pada hari kiamat, dan setiap 
 [^1]: Tafsir Al-Qurthubiy 18/197
 [^2]: Tafsir Al-Qurthubiy 18/198
 [^3]: Tafsir Al-Qurthubiy 18/197
-[^4]: Syarh An-Nawawi ‘ala Muslim 17/59
+[^4]: Syarh An-Nawawi 'ala Muslim 17/59
 [^5]: HR. Ibnu Majah no. 4252
-[^6]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 28/368
-[^7]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 28/369
-[^8]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 28/369
-[^9]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 28/369
+[^6]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 28/368
+[^7]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 28/369
+[^8]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 28/369
+[^9]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 28/369
 [^10]: Madarijus Salikin Li Ibnu Al-Qayyim 1/316
-[^11]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 28/370
-[^12]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 28/371
+[^11]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 28/370
+[^12]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 28/371
 [^13]: Lihat: Tafsir Al-Qurthubiy 18/201
-[^14]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 28/371
+[^14]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 28/371
 [^15]: HR. Bukhari no. 806
 
 ===== 5238 =====
@@ -20807,7 +20807,7 @@ Maka dengan ayat ini Allah Subhanahu wa ta'ala ingin agar orang-orang kafir Qura
 Sebagian ulama mengatakan bahwa dalam ayat ini terdapat sindiran kepada 'Aisyah dan Hafshah radhiallahu 'anhuma yang telah melakukan kesalahan sebagaimana telah disebutkan di awal-awal surah ini, yaitu jika 'Aisyah dan Hafshah tidak beriman kepada Nabi shallallahu 'alaihi wasallam dan melakukan pelanggaran, maka tidak bermanfaat pula status mereka sebagai istri-istri Nabi shallallahu 'alaihi wasallam[^2]. Oleh karena itu, penulis juga ingatkan bagi para istri bahwa jangan berharap kepada suami Anda dengan mengatakan "yang penting suami saya saleh dan rajin ibadah" atau "yang penting suami saya ustaz". Ketahuilah bahwa meskipun suami Anda sangat saleh akan tetapi Anda sendiri tidak beriman dan penuh dengan maksiat terhadap Allah Subhanahu wa ta'ala, maka tidak akan bermanfaat suami Anda sama sekali. Kalau 'Aisyah dan Hafshah radhiallahu 'anhuma tidak dapat ditolong oleh Nabi shallallahu 'alaihi wasallam, maka tentu suami Anda juga tidak dapat menolong Anda di akhirat, karena hukum asalnya seseorang akan diselamatkan oleh amalnya sendiri. Adapun perkara syafaat adalah perkara belakangan, itupun jika Allah Subhanahu wa ta'ala mengizinkan.
 
 [^1]: Lihat: Tafsir Al-Qurthubiy 18/202
-[^2]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 28/374
+[^2]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 28/374
 
 ===== 5240 =====
 
@@ -20832,7 +20832,7 @@ Intinya Asiah binti Muzahim adalah contoh seorang mukminah yang meninggalkan dun
 Perhatikanlah, pada ayat sebelumnya Allah Subhanahu wa ta'ala menceritakan dua Nabi yang istri mereka kafir, akan tetapi dalam ayat ini Allah Subhanahu wa ta'ala bercerita tentang Fir'aun yang istrinya mukmin. Subhanallah, ini menunjukkan bahwa hidayah di tangan Allah Subhanahu wa ta'ala. Lihatlah Nabi Nuh dan Nabi Luth 'alaihimassalam, tentunya mereka sayang kepada istri-istri mereka, dan tentunya mereka juga mendakwahi istri-istri mereka, akan tetapi ternyata kedua-duanya tidak beriman sementara sebab hidayah sudah sangat luar biasa. Sebaliknya Asiah binti Muzahim istri Fir'aun, yang sebab kerusakan dan kesesatan serta kekufuran berada di sekitarnya, akan tetapi ternyata dia beriman ditengah-tengah kekufuran. Oleh karenanya dari sini kita tahu bahwa hidayah itu mahal. Kalau kita merasa telah mendapatkan hidayah, maka perbanyak syukur kepada Allah Subhanahu wa ta'ala karena tidak semua orang diberikan hidayah oleh Allah Subhanahu wa ta'ala.
 
 [^1]: Lihat: Tafsir Al-Alusiy 14/357
-[^2]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 28/377
+[^2]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 28/377
 [^3]: Lihat: Tafsir Al-Qurthubiy 18/203
 
 ===== 5241 =====
@@ -20862,7 +20862,7 @@ Asiah binti Muzahim dan Maryam binti Imran adalah dua wanita spesial yang Allah 
 Pada hadits ini juga terdapat keutamaan 'Aisyah radhiallahu 'anhu dibandingkan wanita yang lain, yaitu ibarat makanan Tsarid. Para ulama mengatakan bahwa Tsarid merupakan makanan yang mencampurkan antara kelezatan dan gizi, serta mudah untuk ditelan dan dicerna. Demikianlah perumpamaan akan keutamaan 'Aisyah radhiallahu 'anha, artinya dia adalah wanita yang salehah, cerdas, mudah diajak berbicara dengan Nabi shallallahu 'alaihi wasallam, mampu berbicara dengan baik, sehingga sangat dicintai oleh Nabi shallallahu 'alaihi wasallam.[^4]
 
 [^1]: Tafsir Al-Alusiy 14/358
-[^2]: Tsarid merupakan makanan favorit di zaman Nabi shallallahu ‘alaihi wasallam. Tsarid merupakan makanan yang terbuat dari daging berkuah yang kemudian dicampur dengan roti
+[^2]: Tsarid merupakan makanan favorit di zaman Nabi shallallahu 'alaihi wasallam. Tsarid merupakan makanan yang terbuat dari daging berkuah yang kemudian dicampur dengan roti
 [^3]: HR. Bukhari no. 3411
 [^4]: Tafsir Al-Alusiy 14/360
 
@@ -20892,10 +20892,10 @@ Kemudian Allah Subhanahu wa ta'ala menutup firman-Nya dengan mengatakan,
 
 Artinya segala kerajaan di langit maupun di bumi adalah milik Allah Subhanahu wa ta'ala, dan Dia yang berkuasa menjalankan segala sesuatu dalam kerajaan tersebut, serta tidak ada satu pun yang keluar dari kehendak Allah. [^4]
 
-[^1]: Lihat: Tafsir As-Sa’diy hal.875.
+[^1]: Lihat: Tafsir As-Sa'diy hal.875.
 [^2]: Tafsir Al-Qurthubi 18/206
 [^3]: HR. Bukhari no. 844
-[^4]: Lihat: Tafsir As-Sa’diy hal.875.
+[^4]: Lihat: Tafsir As-Sa'diy hal.875.
 
 ===== 5243 =====
 
@@ -20956,10 +20956,10 @@ Oleh karena itu tidak ada kata terlambat. Jangan sampai orang yang baru berhijra
 Hadits ini menjelaskan bahwa taubat itu bertingkat-tingkat, akan tetapi taubat wanita Juhainah ini berada ditingkat yang tinggi, sampai-sampai Nabi shallallahu 'alaihi wasallam mengatakan bahwa jika taubat wanita tersebut cukup jika dibagi kepada tujuh puluh penduduk Madinah dan semuanya masuk surga. Ini menunjukkan bahwa bisa jadi amalan seseorang itu tidak banyak, namun kualitas amalannya sangat luar biasa di sisi Allah Subhanahu wa ta'ala. Oleh karenanya jika seseorang menjadikan amalannya banyak dan berkualitas maka tentu itu jauh lebih luar biasa lagi, sebagaimana para salaf yang memperhatikan kualitas dan juga kuantitas amal-amal mereka. Akan tetapi yang lebih utama adalah kualitas, yaitu bagaimana seseorang beribadah kepada Allah Subhanahu wa ta'ala dengan amalnya yang terbaik, yaitu yang paling ikhlas dan paling sesuai dengan sunnah Rasulullah shallallahu 'alaihi wasallam.
 
 [^1]: Lihat: Tafsir al-Qurthubi 18/206, Tafsir ibnu Katsir 8/176  dan Adwaaul Bayaan 8/228.
-	Jika kematian adalah perkara ‘adami (tidak ada) maka maksudnya kematian adalah hilangnya kehidupan. Sehingga antara kehidupan dan kematian hubungannya تَقَابُلُ الْعَدَمِ وَالْمَلَكَة (sebagaimana hubungan antara buta dan tuli). Adapun jika kematian adalah perkara wujudi (sesuatu yang ada) maka kematian adalah sesuatu sifat/kondisi yang muncul tatkala kehidupan sirna, dan bukan hanya sekedar hilangnya kehidupan. Sehingga hubungan antara kematian dan kehidupan adalah تَقَابُلُ الضِّدَّيْنِ (dua hal yang saling kontradiktif sebagaimana antara timur dan barat, namun keduanya adalah perkara yang ada)
+	Jika kematian adalah perkara 'adami (tidak ada) maka maksudnya kematian adalah hilangnya kehidupan. Sehingga antara kehidupan dan kematian hubungannya تَقَابُلُ الْعَدَمِ وَالْمَلَكَة (sebagaimana hubungan antara buta dan tuli). Adapun jika kematian adalah perkara wujudi (sesuatu yang ada) maka kematian adalah sesuatu sifat/kondisi yang muncul tatkala kehidupan sirna, dan bukan hanya sekedar hilangnya kehidupan. Sehingga hubungan antara kematian dan kehidupan adalah تَقَابُلُ الضِّدَّيْنِ (dua hal yang saling kontradiktif sebagaimana antara timur dan barat, namun keduanya adalah perkara yang ada)
 	Akan tetapi sebagian ulama berpendapat bahwa perselisihan apakah kematian adalah perkara yang wujud (ada) atau ádami (tidak ada) merupakan khilaf lafdziy (yaitu khilaf yang dari sisi pengungkapan saja). Karena pada hakikatnya kedua pendapat tersebut setuju bahwa yang namanya kematian adalah keluarnya ruuh dari jasad, atau perpindahan ruuh dari alam dunia menuju alam akhirat (Lihat Darú at-Taáarud, Ibnu Taimiyyah 2/383)
 [^2]: HR. Bukhari no. 4730 dan HR. Muslim no. 2849
-[^3]: Lihat: Tafsir Al-Baghawi 8/176, Ibnu Katsir 8/176 dan Tafsir As-Sa’diy hal.875.
+[^3]: Lihat: Tafsir Al-Baghawi 8/176, Ibnu Katsir 8/176 dan Tafsir As-Sa'diy hal.875.
 [^4]: HR. Ibnu Majah no. 4259
 [^5]: Tafsir Al-Baghawi 8/176
 [^6]: Tafsir Al-Baghawi 8/176
@@ -21014,7 +21014,7 @@ Maka adapun sebelum hari kiamat, langit akan tetap sempurna dan kukuh dan kita t
 [^3]: Ini adalah penafsiran Mujahid dan Adh-Dhohhak (lihat: tafsir Al-Qurthubi 18/209)
 [^4]: disebutkan oleh Ibnu Zaid:
 	فَإِذَا جَاءَ يَوْمُ الْقِيَامَةِ انْفَطَرَتْ ثُمَّ انْشَقَّتْ، ثُمَّ جَاءَ أَمْرٌ أَكْبَرُ مِنْ ذَلِكَ انْكَشَطَتْ
-	“Dan jika datang hari kiamat langit terbelah, kemudian terbelah (lebih besar) dan kemudian datang perkara yang lebih besardari hal itu yaitu langit lenyap.” Lihat: Tasir Ath-Thabari 23/122
+	"Dan jika datang hari kiamat langit terbelah, kemudian terbelah (lebih besar) dan kemudian datang perkara yang lebih besardari hal itu yaitu langit lenyap." Lihat: Tasir Ath-Thabari 23/122
 
 ===== 5245 =====
 
@@ -21039,8 +21039,8 @@ Artinya seseorang yang memperhatikan ciptaan Allah Subhanahu wa ta'ala, dia tida
 Artinya Allah Subhanahu wa ta'ala menantang manusia untuk mencari kesalahan dalam penciptaan langit tersebut. Bahkan pencarian tersebut diperintahkan untuk berulang-ulang. Maka bagaimanapun seseorang berusaha mencari-cari cacatnya, maka dia tidak akan mendapatkannya. Tentunya ini menunjukkan betapa sempurnanya ciptaan Allah Subhanahu wa ta'ala.
 
 [^1]: Lihat: Tafsir Ibnu Katsir 8/177
-[^2]: Lihat: Tafsir Al-Qurthubi 18/210 dan Tafsir As-Sa’diy hal.875.
-[^3]: Tafsir Ibnu Katsir 8/177 dan Tafsir As-Sa’diy hal.875.
+[^2]: Lihat: Tafsir Al-Qurthubi 18/210 dan Tafsir As-Sa'diy hal.875.
+[^3]: Tafsir Ibnu Katsir 8/177 dan Tafsir As-Sa'diy hal.875.
 [^4]: Tafsir Al-Qurthubi 18/210
 
 ===== 5246 =====
@@ -21105,13 +21105,13 @@ Artinya adalah Allah Subhanahu wa ta'ala menggambarkan bahwa tatkala orang-orang
 
 Adapun kata تَفُورُ artinya api neraka itu berkobar-kobar. Ibarat jika air yang dipanaskan disebut mendidih[^8], maka api disebut berkobar-kobar. Ini semua menunjukkan betapa mengerikannya neraka Jahannam, suara dan suasananya sangat mengerikan.
 
-[^1]: Tafsir Al-Baghawiy 8/177 dan Tafsir Al-Ma’tsur 22/69.
+[^1]: Tafsir Al-Baghawiy 8/177 dan Tafsir Al-Ma'tsur 22/69.
 [^2]: Lihat: Fathul Qadir 5/310
-[^3]: Lihat: Al-Muharror Al-Wajiz fii Tafsir Al-Kitab Al-‘Aziz 5/339
+[^3]: Lihat: Al-Muharror Al-Wajiz fii Tafsir Al-Kitab Al-'Aziz 5/339
 [^4]: Tafsir Al-Qurthubi 18/211
 [^5]: Lihat: Tafsir Al-Qurthubi 18/210-211, ia berkata:
 	(وَجَعَلْناها رُجُوماً) أي جعلنا شهبها، فحذف المضاف….وَعَلَى هَذَا فَالْمَصَابِيحُ لَا تَزُولُ وَلَا يُرْجَمُ بِهَا
-	“(Dan Kami jadikan bintang-bintang itu alat-alat pelempar syaithan) yaitu kami menjadikan percikan-percikan api dari bintang-bintang, lalu dihapuskan mudhofnya….dengan ini maka bintang-bintang tidaklah hilang dan juga tidak dilempar.
+	"(Dan Kami jadikan bintang-bintang itu alat-alat pelempar syaithan) yaitu kami menjadikan percikan-percikan api dari bintang-bintang, lalu dihapuskan mudhofnya….dengan ini maka bintang-bintang tidaklah hilang dan juga tidak dilempar.
 	Juga beliau membawakan penafsiran lain yang menyebutkan bahwa dhomir ها pada firman-Nya (وَجَعَلْناها رُجُوماً) itu tetap kembali kepada bintang-bintang itu sendiri, dan yang dijadikan sebagai pelempar syaithan adalah bagian kecil dari bintang-bintang tersebut tanpa mengurangi cahayanya dan bentuknya.
 [^6]: Lihat: Tafsir Al-Qurthubi 18/211
 [^7]: Lihat: Lisanul Arab 10/191.
@@ -21175,7 +21175,7 @@ Mereka orang-orang kafir menuduh bahwa Nabi Muhammad shallallahu 'alaihi wasalla
 
 "Dan kelak mereka akan mengetahui pada saat mereka melihat azab, siapa yang paling sesat jalannya." (QS. Al-Furqan : 42)
 
-[^1]: Lihat: Tafsir Al-Baghawiy 8/177 dan Tafsir Ibnu Katsir 8/178 dan Tafsir As-Sa’diy hal.875.
+[^1]: Lihat: Tafsir Al-Baghawiy 8/177 dan Tafsir Ibnu Katsir 8/178 dan Tafsir As-Sa'diy hal.875.
 [^2]: Lihat: Tafsir Al-Baghawiy 8/177.
 [^3]: Lihat: Al-Muharror Al-Wajiz Fii Tafsir Al-Kitab Al-Aziz 5/340
 
@@ -21227,7 +21227,7 @@ Oleh karenanya hendaknya seseorang bertakwa kepada Allah tatkala bersendirian. Z
 
 [^1]: Lihat: Al-Muharror Al-Wajiz Fii Tafsir Al-Kitab Al-Aziz 5/340
 [^2]: HR. Bukhari no. 1423 dan HR. Muslim no. 1031
-[^3]: HR. Ibnu Hibban no. 1971 dan Shahihnya, diriwayatkan pula oleh An-Nasa’i dan Imam Ahmad.
+[^3]: HR. Ibnu Hibban no. 1971 dan Shahihnya, diriwayatkan pula oleh An-Nasa'i dan Imam Ahmad.
 [^4]: Lihat: Tafsir Ibnu Katsir 8/179.
 
 ===== 5254 =====
@@ -21328,8 +21328,8 @@ Sesungguhnya Allah Subhanahu wa ta'ala tidak hanya mengetahui tentang manusia, a
 
 Jika jatuhnya daun saja diketahui oleh Allah, maka bagaimana lagi dengan manusia sebagai mukallaf (dibebankan untuk menjalankan syariat). Oleh karenanya jangan sampai terbetik dalam hati kita bahwa Allah Subhanahu wa ta'ala tidak mengetahui isi hati kita. Padahal kenyataannya setiap gerakan, perilaku, serta apa yang terlintas di hati kita semua dicatat dan diketahui oleh Allah Subhanahu wa ta'ala. Allah Subhanahu wa ta'ala tahu kapan seseorang itu riya', ujub, sombong, atau bahkan Allah tahu kapan seorang itu ikhlas atau tidak. Karena Allah Subhanahu wa ta'ala adalah Al-Khabiir dan Al-Lathif. Maka hal ini akan menjadikan kita terpacu agar ikhlas dalam beramal meskipun tidak ada seorang manusia pun yang mengetahuinya, karena kita tahu bahwa Rabb kita mengetahui segala apa yang kita kerjakan.
 
-[^1]: Lihat: Tafsir Al-Baghawi 8/178, Tafsir Ibnu Katsir 8/179 dan Tafsir As-Sa’diy hal.876.
-[^2]: Lihat: Tafsir Muqotil bin Sulaiman 4/391 dan At-Tafsir Al-Ma’tsur 22/75.
+[^1]: Lihat: Tafsir Al-Baghawi 8/178, Tafsir Ibnu Katsir 8/179 dan Tafsir As-Sa'diy hal.876.
+[^2]: Lihat: Tafsir Muqotil bin Sulaiman 4/391 dan At-Tafsir Al-Ma'tsur 22/75.
 [^3]: Lihat: Nuniyah Ibnul Qoyyim hal. 207
 
 ===== 5255 =====
@@ -21393,7 +21393,7 @@ Oleh karenanya juga Nabi shallallahu 'alaihi wasallam bersabda tentang di antara
 Hadits ini menerangkan bahwa laki-laki tersebut tidak sedang berada di masjid, akan tetapi hatinya selalu rindu untuk ke masjid untuk beribadah.
 
 [^1]: Lihat: Tafsir Ibnu Katsir 8/179.
-[^2]: Lihat: At-Tafsir Al-Ma’tsur 22/76.
+[^2]: Lihat: At-Tafsir Al-Ma'tsur 22/76.
 [^3]: HR. At-Tirmidzi no. 2344
 [^4]: Lihat: Tafsir Ibnu Katsir 8/179.
 [^5]: Lihat: Tafsir Al-Qurthubi 18/215
@@ -21419,7 +21419,7 @@ Oleh karenanya jangan seseorang merasa aman, karena jika Allah Subhanahu wa ta'a
 
 [^1]: Lihat: Tafsir Al-Baghawi 8/179 dan Tafsir Ibnu Katsir 8/180.
 [^2]: HR. Muslim no. 2088
-[^3]: Lihat: Tafsir As-Sa’diy hal.877.
+[^3]: Lihat: Tafsir As-Sa'diy hal.877.
 
 ===== 5258 =====
 
@@ -21433,7 +21433,7 @@ Adapun Firman Allah Subhanahu wa ta'ala,
 
 Artinya adalah Allah Subhanahu wa ta'ala ingatkan kepada orang-orang Quraisy bahwa apabila mereka terus-terusan membangkang, kalau Allah Subhanahu wa ta'ala berkehendak maka bisa jadi Allah memberikan mereka azab sebagaimana yang pernah ditimpakan kepada kaum Nabi Luth yaitu hujan batu. [^2]
 
-[^1]: Lihat: Tafsir Al-Baghawi 8/179 dan At-Tafsir Al-Ma’tsur 22/78.
+[^1]: Lihat: Tafsir Al-Baghawi 8/179 dan At-Tafsir Al-Ma'tsur 22/78.
 [^2]: Lihat: Fathul Qadir 5/313
 
 ===== 5259 =====
@@ -21448,7 +21448,7 @@ Pada ayat ini Allah Subhanahu wa ta'ala berbicara tentang kekuasaan-Nya. Yang pe
 
 Artinya adalah tidak ada yang bisa menolong jika Allah telah berkehendak untuk mendatangkan azab kepada suatu kaum[^1]. Bahkan tidak perlu menunggu datangnya azab untuk membuktikan bahwa tidak ada yang bisa menolong mereka, ketika datang malaikat maut untuk mencabut nyawa pun tidak ada yang bisa menolong mereka dari hal itu. Seorang jenderal dengan pangkat tertingginya sendiri tidak bisa lari dari malaikat maut, padahal pasukannya sangat banyak. Maka apabila azab Allah Subhanahu wa ta'ala telah turun, maka tidak akan ada yang bisa selamat meskipun dilindungi oleh pasukan sehebat apa pun. Oleh karenanya Allah Subhanahu wa ta'ala mengatakan bahwasanya orang-orang kafir itu berada dalam kondisi terperdaya. Mereka menyangka bahwa mereka bisa melawan atau terhindar dari azab Allah Subhanahu wa ta'ala, seperti Abu Jahal dan kawan-kawannya.
 
-[^1]: Lihat: Tafsir As-Sa’diy hal.877.
+[^1]: Lihat: Tafsir As-Sa'diy hal.877.
 
 ===== 5262 =====
 
@@ -21547,25 +21547,25 @@ Maka pada hari kiamat nanti Allah Subhanahu wa ta'ala akan benar-benar menunjukk
 
 Adapun firman Allah Subhanahu wa ta'ala, وَقِيلَ هَٰذَا الَّذِي كُنتُم بِهِ تَدَّعُونَ (Dan dikatakan (kepada mereka), 'Inilah (azab) yang dahulunya kamu minta) maksudnya adalah  Allah Subhanahu wa ta'ala benar-benar akan menunjukkan apa yang mereka propagandakan bahwa tidak ada surga dan tidak pula neraka. Maka akhirnya Allah Subhanahu wa ta'ala menunjukkannya untuk mereka apa yang mereka dustakan selama di dunia[^6].
 
-[^1]: Lihat: Tafsir Ibnu Katsir 8/182 dan Tafsir As-Sa’diy hal.877.
-[^2]: Lihat: Tafsir Ibnu Katsir 8/182 dan Tafsir As-Sa’diy hal.877.
-[^3]: Lihat: Tafsir Ibnu Katsir 8/182 dan Tafsir As-Sa’diy hal.878.
+[^1]: Lihat: Tafsir Ibnu Katsir 8/182 dan Tafsir As-Sa'diy hal.877.
+[^2]: Lihat: Tafsir Ibnu Katsir 8/182 dan Tafsir As-Sa'diy hal.877.
+[^3]: Lihat: Tafsir Ibnu Katsir 8/182 dan Tafsir As-Sa'diy hal.878.
 [^4]: Lihat: Tafsir Al-Qurthubi 18/220, dan ini adalah tafsiran Mujahid
 [^5]: Lihat: Tafsir Al-Baghawiy 8/180.
-[^6]: Lihat: Tafsir Al-Ma’tsur 22/85.
+[^6]: Lihat: Tafsir Al-Ma'tsur 22/85.
 
 ===== 5269 =====
 
 Ayat ini seakan-akan menggambarkan bahwa Nabi shallallahu 'alaihi wasallam berkata kepada orang-orang musyrikin, "Tidak ada hubungannya kami mati dahulu atau masih hidup, karena baik kami masih hidup atau telah mati, di dunia atau di akhirat, Allah Subhanahu wa ta'ala tetap akan kirimkan azab untuk kalian". [^1]
 
-[^1]: Lihat: Tafsir Al-Baghawi 8/180, Tafsir Ibnu Katsir 8/182 dan Tafsir As-Sa’diy hal.878.
+[^1]: Lihat: Tafsir Al-Baghawi 8/180, Tafsir Ibnu Katsir 8/182 dan Tafsir As-Sa'diy hal.878.
 
 ===== 5270 =====
 
 Sebagian mengatakan bahwa air yang dimaksudkan adalah air zam-zam, dan sebagian lain adalah air yang berada di daerah Mekkah[^1]. Maka dalam ayat ini Allah Subhanahu wa ta'ala kembali menunjukkan bagaimana kekuasaan-Nya, yaitu seandainya air-air tersebut surut dan kering, maka tidak ada yang bisa mengembalikannya atau mendatangkan penggantinya melainkan Allah Subhanahu wa ta'ala semata. [^2]
 
 [^1]: Lihat: Tafsir Al-Qurthubi 18/222, dan beliau menyebutkan bahwa sumber air mereka berasal dari dua sumur yaitu sumur zam-zam dan sumur maimun.
-[^2]: Lihat: Tafsir Ibnu Katsir 8/183 dan Tafsir As-Sa’diy hal.878.
+[^2]: Lihat: Tafsir Ibnu Katsir 8/183 dan Tafsir As-Sa'diy hal.878.
 
 ===== 5271 =====
 
@@ -21647,17 +21647,17 @@ Untuk menekankan pernyataan "Sungguh beruntung orang yang menyucikan jiwanya", A
 
 [^1]: Lihat: Tafsir Ibnu katsir 8/184.
 [^2]: Lihat: Tafsir Al-Baghawiy 8/182.
-[^3]: Lihat: Tafsir Ibnu katsir 8/184-185 dan Tafsir Al-Ma’tsur 22/90-93.
+[^3]: Lihat: Tafsir Ibnu katsir 8/184-185 dan Tafsir Al-Ma'tsur 22/90-93.
 [^4]: Lihat: Tafsir Ibnu Katsir 8/184 dan At-Tibyan fi Aqsamil Quran hal. 203
 [^5]: Ibnu Katsir berkata :
 	كَانَتْ مُعْجِزَةُ كُلِّ نَبِيٍّ فِي زَمَانِهِ بِمَا يُنَاسِبُ أَهْلَ ذَلِكَ الزَّمَانِ
-	“Mukjizat setiap Nabi di zamannya sesuai dengan (apa yang digandrungi) oleh penduduk zaman tersebut” (Al-Bidaayah wa an-Nihaayah 2/486)
-[^6]: Lihat: Majmu’ Al-Fatawa 1/290
+	"Mukjizat setiap Nabi di zamannya sesuai dengan (apa yang digandrungi) oleh penduduk zaman tersebut" (Al-Bidaayah wa an-Nihaayah 2/486)
+[^6]: Lihat: Majmu' Al-Fatawa 1/290
 [^7]: Lihat: Tafsir Ath-Thobari 24/527
 [^8]: Lihat: Tafsir Ibnu Katsir 8/187.
 [^9]: Lihat: Tafsir Al-Qurthubi 18/224-225, dan sebagaimana yang dijelaskan oleh Ar-Razy:
 	فَإِنَّ التَّفَاهُمَ تَارَةً يَحْصُلُ بِالنُّطْقِ وَ [تَارَةً] يُتَحَرَّى بِالْكِتَابَةِ
-	“karena sesungguhnya saling memahami terkadang didapat dengan ucapan dan terkadang didapat dengan tulisan.” (Lihat: At-Tafsir Al-Kabir 30/598)
+	"karena sesungguhnya saling memahami terkadang didapat dengan ucapan dan terkadang didapat dengan tulisan." (Lihat: At-Tafsir Al-Kabir 30/598)
 [^10]: Lihat:  Tafsir Ibnu Katsir 8/187.
 [^11]: HR. At-Tirmidzi no. 2155
 [^12]: Lihat: Tafsir Al-Baghawi 8/187.
@@ -21755,8 +21755,8 @@ Ini merupakan dalil bahwasanya akhlak yang mulia adalah barometer tingginya iman
 
 [^1]: Yaitu dalam firmanNya :
 	لَعَمْرُكَ إِنَّهُمْ لَفِي سَكْرَتِهِمْ يَعْمَهُونَ
-	“Demi Umurmu (Muhammad), sesungguhnya mereka (kaum Nabi Luth) terombang-ambing di dalam kemabukan (kesesatan)” (QS Al-Hijr : 72)
-	Padahal ayat ini konteksnya sedang membicarakan tentang Nabi Luth álaihis salam dan kaumnya, akan tetapi ketika bersumpah Allah tidak bersumpah dengan Nabi Luth akan tetapi dengan Umur Nabi Muhammad shallallahu álaihi wasallam. Ini menunjukan akan agungnya umur Nabi, yaitu seluruh waktu Nabi shallallahu ‘alaihi wasallam berkah dan penuh keteladanan.
+	"Demi Umurmu (Muhammad), sesungguhnya mereka (kaum Nabi Luth) terombang-ambing di dalam kemabukan (kesesatan)" (QS Al-Hijr : 72)
+	Padahal ayat ini konteksnya sedang membicarakan tentang Nabi Luth álaihis salam dan kaumnya, akan tetapi ketika bersumpah Allah tidak bersumpah dengan Nabi Luth akan tetapi dengan Umur Nabi Muhammad shallallahu álaihi wasallam. Ini menunjukan akan agungnya umur Nabi, yaitu seluruh waktu Nabi shallallahu 'alaihi wasallam berkah dan penuh keteladanan.
 [^2]: HR. Ahmad no. 24645
 [^3]: Lihat:  Tafsir Al-Baghawiy 8/188 dan Tafsir Ibnu Katsir 8/189.
 [^4]: HR. At-Tirmidzi no. 2018
@@ -21815,15 +21815,15 @@ Dalam kehidupan bermasyarakat, terkadang ada yang berbeda dengan kita. Maka kita
 
 Ulama tafsir mengatakan bahwa ayat ini dan yang semisal dengan ini kebanyakan turun kepada Al-Walid Ibnul Mughirah, atau Abu Jahal, atau dan para pembesar Quraisy lainnya yang mereka suka menghina dan bersumpah[^1]. Sesungguhnya orang yang suka bersumpah dengan nama Allah umumnya mereka suka berdusta. Karena bagi mereka sumpah itu adalah hal yang mudah dan murah bagi mereka. Mereka tidak sadar bahwa dalam bersumpah ada bentuk pengagungan terhadap Allah Subhanahu wa ta'ala. Adapun mereka, mereka bersumpah namun tidak mengagungkan Allah karena saking mudahnya mereka dalam bersumpah dan menggampangkannya. Dan ketahuilah bahwa orang yang banyak berdusta maka dia adalah orang yang hina, dan itulah orang-orang yang bermudah-mudahan dalam bersumpah. [^2]
 
-[^1]: Lihat:  Tafsir Al-Baghawiy 8/192 dan Tafsir Al-Ma’tsur 22/109.
-[^2]: Lihat:  Tafsir Ibnu Katsir 8/190, Tafsir As-Sa’diy hal:879 dan Tafsir Al-Ma’tsur 22/109.
+[^1]: Lihat:  Tafsir Al-Baghawiy 8/192 dan Tafsir Al-Ma'tsur 22/109.
+[^2]: Lihat:  Tafsir Ibnu Katsir 8/190, Tafsir As-Sa'diy hal:879 dan Tafsir Al-Ma'tsur 22/109.
 
 ===== 5282 =====
 
 Kata هَمَّازٍ  artinya adalah mengejek dengan lirikan mata, lisan, maupun gerakan.[^1] Adapun مَّشَّاءٍ بِنَمِيمٍ  adalah berjalan kemana-mana untuk mengadu domba[^2]. Hendaknya kita berhati-hati dalam perkara mengadu domba. Dahulu tatkala orang ingin namimah, maka mereka harus berkeliling untuk menebar berita sehingga akhirnya semua orang ribut. Akan tetapi zaman sekarang seseorang tidak perlu berajalan kemana-mana untuk mengadu domba, cukup dengan tulisan yang bisa membuat semua pihak ribut, lalu dikirim di media sosial, maka namimah itu akan segera terwujud. Oleh karena itu hendaknya seseorang berhati-hati dalam masalah namimah karena termasuk dalam dosa besar dan bisa menjerumuskan seseorang ke dalam neraka Jahannam.
 
 [^1]: Lihat: Tafsir Al-Qurthubi 18/232
-[^2]: Lihat:  Tafsir Al-Baghawiy 8/192, Tafsir Ibnu Katsir 8/191, Tafsir As-Sa’diy hal:879 dan Tafsir Al-Ma’tsur 22/111.
+[^2]: Lihat:  Tafsir Al-Baghawiy 8/192, Tafsir Ibnu Katsir 8/191, Tafsir As-Sa'diy hal:879 dan Tafsir Al-Ma'tsur 22/111.
 
 ===== 5283 =====
 
@@ -21850,7 +21850,7 @@ Kata عُتُلٍّ  artinya kaku, keras, dan kasar [^1]. Adapun زَنِيمٍ
 Artinya adalah Al-Walid Ibnul Mughirah disifati oleh Allah Subhanahu wa ta'ala sebagai orang yang kasar dan buruk akhlaknya, serta dia adalah orang yang paling terkenal dalam hal-hal keburukan. [^3]
 
 [^1]: Lihat: Tafsir Al-Qurthubi 18/232
-[^2]: Lihat: Tafsir Ibnu Katsir 8/193 dan Tafsir Al-Ma’tsur 22/120.
+[^2]: Lihat: Tafsir Ibnu Katsir 8/193 dan Tafsir Al-Ma'tsur 22/120.
 [^3]: Lihat: Tafsir Al-Baghawiy 8/193.
 
 ===== 5285 =====
@@ -21869,7 +21869,7 @@ Hewan-hewan seperti unta dan kuda sangat mudah untuk membuat pemiliknya sombong 
 
 Artinya adalah, kalau dengan kuda dan unta saja bisa membuat orang sombong, maka bagaimana lagi dengan orang yang punya kendaraan mewah, rumah yang mewah, jabatan yang tinggi, atau memiliki anak buah (pasukan) yang banyak? Tentu juga akan sangat rawan terkena kesombongan. Oleh karenanya seseorang harus berhati-hati, karena seseorang diberi harta adalah agar dia bersyukur kepada Allah Subhanahu wa ta'ala, dan bukan untuk mengantarkannya kepada kesombongan.
 
-[^1]: Lihat: Tafsir Al-Baghawiy 8/193, Tafsir Ibnu Katsir 8/194, Tafsir As-Sa’diy hal:879.
+[^1]: Lihat: Tafsir Al-Baghawiy 8/193, Tafsir Ibnu Katsir 8/194, Tafsir As-Sa'diy hal:879.
 [^2]: HR. Bukhari no. 3301
 [^3]: HR. Bukhari no. 3301
 
@@ -22002,13 +22002,13 @@ Kisah ini juga merupakan dalil bahwa siapa yang tidak mensyukuri nikmat maka aka
 "Barangsiapa tidak mensyukuri nikmat berarti dia telah menjadikan nikmat tersebut terancam untuk hilang, dan barangsiapa mensyukurinya berarti dia mengikatnya dengan ikatannya". [^8]
 
 [^1]: Lihat: Tafsir Al-Baghawiy 8/197 dan Tafsir Ibnu Katsir 8/197.
-[^2]: Lihat: Tafsir Ibnu Katsir 8/196 dan At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 29/82.
+[^2]: Lihat: Tafsir Ibnu Katsir 8/196 dan At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 29/82.
 [^3]: Lihat: Tafsir Al-Baghawiy 1/333.
-[^4]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu ‘Asyur 29/82.
+[^4]: Lihat: At-Tahrir wa At-Tanwir Li Ibnu 'Asyur 29/82.
 [^5]: HR. Bukhari no. 31 dan HR. Muslim no. 2888
 [^6]: Lihat: Tafsir Al-Qurthubiy 18/241.
-[^7]: At-Tahrir Wa At-Tanwir Li Ibnu ‘Asyur 29/89.
-[^8]: At-Tahrir Wa At-Tanwir Li Ibnu ‘Asyur 29/85.
+[^7]: At-Tahrir Wa At-Tanwir Li Ibnu 'Asyur 29/89.
+[^8]: At-Tahrir Wa At-Tanwir Li Ibnu 'Asyur 29/85.
 
 ===== 5304 =====
 
@@ -22030,7 +22030,7 @@ Akan tetapi antara Ashabul Jannah dan orang-orang kafir Quraisy terdapat perbeda
 [^2]: Lihat: Al-Kassyaf Li Az-Zamakhsyari 4/589 dan Tafsir Al-Qurthubiy 18/239.
 [^3]: Lihat: Tafsir Ar-Raziy 30/607.
 [^4]: Lihat: Tafsir Al-Baghawiy 8/197.
-[^5]: Tafsir As-Sa’diy hal:880.
+[^5]: Tafsir As-Sa'diy hal:880.
 [^6]: Lihat: Tafsir Al-Qurthubiy 18/245.
 
 ===== 5305 =====
@@ -22050,7 +22050,7 @@ Takwa adalah dengan meninggalkan maksiat-maksiat. Dan takwa harus meliputi selur
 Sebagaimana pakaian menutupi seluruh bagian tubuh, maka hendaknya bertakwa pada seluruh bagian dari tubuh kita agar bisa mendapatkan janji yang Allah Subhanahu wa ta'ala sebutkan dalam ayat ini yaitu surga yang penuh dengan kenikmatan. [^3]
 
 [^1]: HR. Muslim no. 1016
-[^2]: Lihat: Tafsir As-Sa’diy hal: 285.
+[^2]: Lihat: Tafsir As-Sa'diy hal: 285.
 [^3]: Lihat: Tafsir Al-Qurthubiy 7/184.
 
 ===== 5306 =====
@@ -22069,7 +22069,7 @@ Tentunya tidak sama balasan bagi orang-orang yang beriman dan orang-orang yang k
 
 [^1]: Al-Kassyaf Li Az-Zamakhsyari 4/592
 [^2]: Tafsir Al-Baghawiy 8/197 dan Tafsir Al-Qurthubiy 18/246.
-[^3]: Tafsir As-Sa’diy hal:880.
+[^3]: Tafsir As-Sa'diy hal:880.
 
 ===== 5307 =====
 
@@ -22087,7 +22087,7 @@ Yaitu apakah ada kitab yang mereka pelajari yang menyatakan pernyataan tersebut?
 
 [^1]: Lihat: Tafsir Al-Qurthubiy 18/246. Al-Qurthubi berkata :
 	أَمْ لَكُمْ عُهُودٌ عَلَى اللَّهِ تَعَالَى اسْتَوْثَقْتُمْ بِهَا فِي أَنْ يُدْخِلَكُمُ الْجَنَّةَ
-	“Atau apakah mereka memiliki perjanjian khusus dengan Allah, bahwa pada hari kiamat kelak Allah berjanji akan memasukkan mereka ke dalam surgaNya?” (Tafsir Al-Qurthubiy 18/247)
+	"Atau apakah mereka memiliki perjanjian khusus dengan Allah, bahwa pada hari kiamat kelak Allah berjanji akan memasukkan mereka ke dalam surgaNya?" (Tafsir Al-Qurthubiy 18/247)
 
 ===== 5311 =====
 
@@ -22116,11 +22116,11 @@ As-Sa'di berkata dalam tafsirnya,
 
 Oleh karena itu, ketika umur masih muda, badan masih sehat, hendaknya kita berusaha banyak sujud (shalat) kepada Allah. Kita melihat orang yang sudah tua, mereka shalat dengan duduk, pakai kursi dan yang lainnya. Shalat yang demikian juga ada kenikmatan, akan tetapi tentu berbeda ketika seseorang masih bisa meletakkan dahinya di lantai untuk sujud dengan sempurna. Ketahuilah bahwa sungguh ada orang yang tidak mampu lagi melakukan sujud, namun mereka masih berangan-angan untuk bisa tetap sujud. Oleh karenanya orang yang tidak mau sujud (shalat), tentunya mereka akan binasa pada hari kiamat kelak.
 
-[^1]: Lihat: Al-Mustadrak ‘ala Majmu’ Al-Fatawa 1/71 dan Majmu’ Al-Fatawa 6/394.
-[^2]: Lihat: Tafsir Ibnu ‘Athiyyah 5/353.
+[^1]: Lihat: Al-Mustadrak 'ala Majmu' Al-Fatawa 1/71 dan Majmu' Al-Fatawa 6/394.
+[^2]: Lihat: Tafsir Ibnu 'Athiyyah 5/353.
 [^3]: Tafsir Al-Qurthubiy 18/250.
 [^4]: HR. Bukhari no. 7439
-[^5]: Tafsir As-Sa’di 1/881
+[^5]: Tafsir As-Sa'di 1/881
 
 ===== 5314 =====
 
@@ -22181,12 +22181,12 @@ Ada pendapat yang menyebutkan bahwa jika sekiranya Nabi Yunus 'alaihissalam tida
 
 Oleh karena itu, jangan pernah terbetik di dalam pikiran kita bahwa Nabi Yunus 'alaihissalam adalah orang yang tercela dan kita lebih baik daripada dia. Karena sesungguhnya Allah telah menerima taubatnya dan memasukkannya ke dalam golongan orang yang saleh[^3], sebagaimana Nabi-Nabi yang lain juga pernah salah seperti Nabi Adam, Nabi Nuh, dan Nabi Musa 'alaihimassalam, bahkan Nabi shallallahu 'alaihi wasallam juga pernah berbuat salah. Akan tetapi kesalahan tersebut menjadikan mereka para Nabi-Nabi Allah jadi lebih baik dari sebelum mereka bersalah. Karena betapa banyak orang setelah melakukan kesalahan, dia kembali kepada Allah Subhanahu wa ta'ala, namun itu menjadikan dia lebih baik dari sebelumnya, di antaranya adalah Nabi Yunus 'alaihissalam.
 
-[^1]: Ada empat pendapat berkaitan dengan maksud dari nikmat yang telah Allah berikan kepada Nabi Nuh ‘alaihissalam. Pertama: Adalah nikmat berupa kenabian, yaitu Allah memilih dan mengangkat beliau sebagai Nabi. Kedua: Ibadahnya yang dulu telah dia kerjakan. Ketiga: Taubat beliau kepada Allah dengan berdzikir ‘Laa Ilaaha Illa Anta Subhanaka Inni Kuntu Minadz Dzalimiin’. Keempat: Nikmat Allah yang diberikan kepada beliau adalah ketika beliau dikeluarkan dari perut ikan. (Tafsir Al-Mawardiy 6/73)
+[^1]: Ada empat pendapat berkaitan dengan maksud dari nikmat yang telah Allah berikan kepada Nabi Nuh 'alaihissalam. Pertama: Adalah nikmat berupa kenabian, yaitu Allah memilih dan mengangkat beliau sebagai Nabi. Kedua: Ibadahnya yang dulu telah dia kerjakan. Ketiga: Taubat beliau kepada Allah dengan berdzikir 'Laa Ilaaha Illa Anta Subhanaka Inni Kuntu Minadz Dzalimiin'. Keempat: Nikmat Allah yang diberikan kepada beliau adalah ketika beliau dikeluarkan dari perut ikan. (Tafsir Al-Mawardiy 6/73)
 [^2]: Tafsir Al-Baghawiy 8/201 dan Tafsir Al-Qurthubiy 18/254.
 [^3]: Tafsir Ibnu Katsir 8/201.
-	Disebutkan dalam hadits yang diriwayatkan oleh Abu Hurairah radhiyallahu ‘anhu, dari Nabi shallallahu ‘alaihi wasallam bersabda:
+	Disebutkan dalam hadits yang diriwayatkan oleh Abu Hurairah radhiyallahu 'anhu, dari Nabi shallallahu 'alaihi wasallam bersabda:
 	لاَ يَنْبَغِي لِعَبْدٍ أَنْ يَقُولَ: أَنَا خَيْرٌ مِنْ يُونُسَ بْنِ مَتّ
-	“Tidak sepantasnya seseorang mengatakan bahwa ‘Aku lebih baik dari (Nabi) Yunus bin Matta’.” (H.R. Bukhari no.3416)
+	"Tidak sepantasnya seseorang mengatakan bahwa 'Aku lebih baik dari (Nabi) Yunus bin Matta'." (H.R. Bukhari no.3416)
 
 ===== 5322 =====
 
@@ -22301,7 +22301,7 @@ Kemudian pada firman Allah Subhanahu wa ta'ala,
 Di sini Allah Subhanahu wa ta'ala menggunakan kata تَرَى (melihat) kepada Nabi shallallahu 'alaihi wasallam sebagai bentuk uslub dalam bahasa Arab untuk menunjukkan sesuatu yang sangat dahsyat dan seakan-akan beliau melihatnya secara langsung [^2]. Demikian pula kita yang membaca ayat ini tidak melihat kejadian tersebut, akan tetapi karena saking dahsyatnya Allah Subhanahu wa ta'ala menggambarkan kejadian tersebut sehingga seakan-akan kita melihatnya. Seandainya kita melihat mereka secara langsung, niscaya akan kita jumpai keadaan mereka seperti pohon-pohon kurma yang kosong. Adapun makna bahwa mereka seperti batang pohon kurma yang telah kosong, para ulama mengatakan bahwa karena saking kencangnya angin tersebut memutar-memutar mereka sampai-sampai membuat isi-isi perut mereka keluar sampai tak bersisa [^3]. Dan sebagian ulama mengatakan, bahkan angin tersebut yang masuk ke dalam tubuh-tubuh mereka dan mengeluarkan isi perut mereka. Akhirnya tubuh mereka menjadi kosong seperti batang pohon kurma yang dalamnya telah kosong dan tersisa hanya pada bagian luarnya saja. Setelah diputar-putar oleh angin, tubuh mereka terjatuh ke bumi dan tertancap di tanah seakan-akan tubuh mereka itu adalah pohon kurma [^4]. Ini menandakan bahwa mereka adalah kaum yang bertubuh besar karena Allah mempermisalkan mereka dengan pohon kurma. Dan inilah akibat yang dirasakan oleh kaum yang angkuh dan sombong dengan kekuatan tubuhnya, Allah mengazab mereka hanya dengan angin.
 
 [^1]: Lihat: tafsir Al-Qurthubi 18/259
-[^2]: Lihat: Tafsir Ath-Thobari 23/215 menyebutkan khithob untuk Nabi Muhammad shallallahu ‘alaihi wa sallam, dan lihat: At-Tahrir wat Tanwir 29/118 khithob untuk siapa saja, seandainya dia melihatnya akan merasakan betapa dahsyatnya hal tersebut.
+[^2]: Lihat: Tafsir Ath-Thobari 23/215 menyebutkan khithob untuk Nabi Muhammad shallallahu 'alaihi wa sallam, dan lihat: At-Tahrir wat Tanwir 29/118 khithob untuk siapa saja, seandainya dia melihatnya akan merasakan betapa dahsyatnya hal tersebut.
 [^3]: Lihat: Tafsir Al-Qurthubi 18/261
 [^4]: Lihat: Tafsir Ibnu Katsir cetakan Al-Alamiyah 3/390
 
@@ -22498,7 +22498,7 @@ Sebagian Ahli Tafsir yang lain menafsirkan bahwa tidak ada yang tersembunyi yait
 [^4]: Lihat: Tafsir Al-Qurthubi 18/268
 [^5]: HR. Muslim no. 2859
 [^6]: HR. Ahmad no. 16085
-[^7]: Lihat: Tafsir Al-Qurthubi 18/268, dan ini adalah tafsiran Abdullah bin Amr bin ‘Ash.
+[^7]: Lihat: Tafsir Al-Qurthubi 18/268, dan ini adalah tafsiran Abdullah bin Amr bin 'Ash.
 
 ===== 5342 =====
 
@@ -22626,13 +22626,13 @@ Karenanya handaknya seseorang berpikir terlebih dahulu sebelum berkata dan berti
 
 "Semoga Allah merahmati seorang hamba yang berhenti sejenak untuk berfikir sebelum mengerjakan keinginannya, dan sungguh seseorang tidak akan berbuat kecuali dia sebelumnya memiliki keinginan, dan jika ia merasa perbuatan itu untuk Allah azza wa jalla (kebaikan) maka ia melanjutkannya (melakukannya), dan jika ia dapati ternyata amalan itu tidak untuk Allah azza wa jalla (bukan kebaikan atau dia hanya sia-sia) maka ia berhenti dan tidak melakukannya" [^5]
 
-[^1]: Lihat: Tafsir As-Sa’dy hal: 883
+[^1]: Lihat: Tafsir As-Sa'dy hal: 883
 [^2]: Lihat At-Tafsir al-Kabir 30/630, berkata Ar-Razy:
 	لِأَنَّهُ حَاصِلٌ وَلَا طَائِلَ لَهُ فِي ذَلِكَ الْحِسَابِ
-	“karena hisab itu sudah terjadi, maka tidak ada faidah baginya penyesalan dalam hisab tersebut.”
+	"karena hisab itu sudah terjadi, maka tidak ada faidah baginya penyesalan dalam hisab tersebut."
 [^3]: HR. Bukhari no. 4812
 [^4]: Lihat tafsir Al Maroghi, 29/59
-[^5]: H.R. Al Baihaqi (Syu’ab Al Iman) No.6894
+[^5]: H.R. Al Baihaqi (Syu'ab Al Iman) No.6894
 
 ===== 5351 =====
 
@@ -22659,9 +22659,9 @@ Pada ayat ini Allah menyebutkan shifatNya **الْعَظِيمِ** (Yang Maha Ag
 Di sini Allah mengancam adzab yang pedih kepada orang yang tidak mau mendorong orang yang mampu untuk memberi makan orang-orang yang miskin, lantas bagai mana ancaman orang yang enggan memberi makan orang yang tidak mampu padahal dia memiliki harta yang berlebih?.[^4]
 
 [^1]: Lihat: Fathul Qadir 5/340
-[^2]: Lihat: Tafsir As-Sa’di hal. 883
-[^3]: Ruh Al Ma’ani, 15/57 dengan sedikit penyesuaian, Fath Al Bayan, 14/298
-[^4]: Ruh Al Ma’ani, 15/57
+[^2]: Lihat: Tafsir As-Sa'di hal. 883
+[^3]: Ruh Al Ma'ani, 15/57 dengan sedikit penyesuaian, Fath Al Bayan, 14/298
+[^4]: Ruh Al Ma'ani, 15/57
 
 ===== 5357 =====
 
@@ -22674,23 +22674,23 @@ Jika dahulu di dunia dia kaya raya, punya anak buah yang banyak, punya banyak te
 غِسْلِينٍ adalah cairan yang keluar dari tubuh penghuni neraka Jahannam [^1], baik itu nanah, darah, muntahan, dan yang lainnya. Intinya غِسْلِينٍ adalah cairan yang busuk. Dan para ulama menyebutkan bahwa pada cairan ghislin terkumpul tiga sifat. Pertama, شَدِيدَةُ الْحَرَارَةْ yaitu sangat panas. Kedua, شَدِيْدَةُ الرَائِحَةْ yaitu sangat bau. Ketiga, شَدِيْدَةُ الْمَرَارَةْ yaitu sangat tidak enak [^2]. Demikianlah minuman dan makanan mereka kelak. kalau nanah di dunia saja kita merasa jijik melihatnya, maka bagaimana lagi dengan mereka yang harus meminumnya.
 
 [^1]: Lihat: Tafsir Ibnu Katsir 8/232
-[^2]: Lihat: Tafsir As-Sa’di hal. 884
+[^2]: Lihat: Tafsir As-Sa'di hal. 884
 	Pada ayat ini Allah menjelaskan bahwa orang-orang kafir tidak ada makanan di neraka kecuali dari darah dan nanah, akan tetapi ada ayat-ayat yang lain yang menjelaskan bahwa ada mkanan yang lain untuk penduduk nerakas sebagaimana firman Allah:
 	لَيْسَ لَهُمْ طَعَامٌ إِلَّا مِنْ ضَرِيعٍ
 	Tidak ada makanan bagi mereka kecuali dari pohon yang berduri)
-	Maka ada beberapa jawaban dari ‘ulama diantaranya:
+	Maka ada beberapa jawaban dari 'ulama diantaranya:
 	Penghuni neraka itu bermacam-macam siksaannya, ada yang tidak diberikan makanan melainkan darah dan nanah (sebagaimana yang disebut di dalam ayat ini), dan ada yang tidak diberi makanan kecuali dari pohon yang berduri, dan ada yang tidak diberi makanan kecuali dari pohon Zaqqum.
 	Dan yang menguatkan ini adalah firman Allah:
 	لَهَا سَبْعَةُ أَبْوَابٍ لِكُلِّ بَابٍ مِنْهُمْ جُزْءٌ مَقْسُومٌ
-	“Neraka itu memiliki tujuh pintu, dan setiap pintu itu memiliki bagian (adzab) nya masing-masing”.
+	"Neraka itu memiliki tujuh pintu, dan setiap pintu itu memiliki bagian (adzab) nya masing-masing".
 	Yang dimaksud di dalam ayat-ayat ini adalah: penduduk neraka memang tidak memiliki makanan, karena darah, nanah, pohon berduri, Zaqqum bukan termasuk makanan, hewan saja tidak memakannya, apalagi manusia.
-	Mereka yang diberi ini semua tidak mendapatkan makanan, akan tetapi hanya ini bagian mereka, dan makanan hanya penamaan. (Lihat : Daf’ Iham Al Idthirob, Muhammad Amin Assyinqithy, 244)
+	Mereka yang diberi ini semua tidak mendapatkan makanan, akan tetapi hanya ini bagian mereka, dan makanan hanya penamaan. (Lihat : Daf' Iham Al Idthirob, Muhammad Amin Assyinqithy, 244)
 
 ===== 5360 =====
 
 Dalam ayat ini, Allah Subhanahu wa ta'ala tidak menyebutkan bahwa ghislin akan dimakan oleh المُخْطِئُوْن. Karena kata المُخْطِئُوْن menunjukkan orang tersebut berbuat salah namun tidak disengaja. Adapun الْخَاطِئُونَ menunjukkan bahwa orang tersebut berbuat salah dengan sengaja. [^1]
 
-[^1]: Lihat: Syarah Bulughul Marom karya ‘Athiyah Salim 192/19
+[^1]: Lihat: Syarah Bulughul Marom karya 'Athiyah Salim 192/19
 
 ===== 5361 =====
 
@@ -22718,7 +22718,7 @@ Di sini Allah azza wa jalla membedakan dari ayat yang sebelumnya, adapun yang pe
 
 Di sini Allah hanya menafikan bahwa Al quran ini bukan ucapan seorang penyair dan dukun, dan tidak menyebutkan tuduhan-tuduhan yang lain, seperti: pendusta, gila, dll. Karena di awal Allah menyebutkan bahwa Al quran ini adalah wahyu yang diturunkan kepada Rasul yang karim (mulia), dan shifat ini sudah menjadi menafikan gila dan pendusta pada diri Rasulullah shallallahu 'alaihi wasallam, adapun penyair dan dukun, maka di masa itu mereka termasuk orang yang mulia, maka dari itu Allah azza wa jalla menafikan kedua sifat ini di sini (jika kita tafsirkan bahwa Rasul di sini adalah Rasulullah shallallahu 'alaihi wasallam bukan Jibril). [^2]
 
-[^1]: Ruh Al Ma’ani, 15/60, Fath Al Bayan, 14/302
+[^1]: Ruh Al Ma'ani, 15/60, Fath Al Bayan, 14/302
 [^2]: At-Tahrir Wa At-Tanwir, 29/142
 
 ===== 5367 =====
@@ -22763,7 +22763,7 @@ Tingkatan الْيَقِينِ ada tiga menurut para ulama.
 
 Adapun dalam ayat ini, Alquran disifati dengan حَقُّ الْيَقِينِ. Maka seharusnya orang yang membaca Alquran, mempelajari kisah dan makna-maknanya, maka seharusnya dia mencapai titik dimana dia semakin yakin dengan agama Islam ini. Dia akan semakin yakin dengan adanya Rabbul 'Alamin. Akan tetapi yang jelas dia harus mempelajari dan mengungkap rahasia-rahasia Alquran yang telah dijelaskan oleh para Ahli Tafsir.
 
-[^1]: Lihat: Tafsir As-Sa’dy hal. 884
+[^1]: Lihat: Tafsir As-Sa'dy hal. 884
 
 ===== 5375 =====
 
@@ -22803,7 +22803,7 @@ Allah Subhanahu wa ta'ala menegaskan dalam ayat ini bahwa azab tersebut pasti te
 
 Allah azza wa jalla menggandengkan huruf "lam" pada kalimat "lilkafirin": yang demikian memiliki makna "syibhul milki" (seakan-seakan mereka pemilik adzab itu) sebagai pengkhususan  bahwa adzab itu benar-benar untuk mereka (penekanan) [^1]
 
-[^1]: At-Tahrir Wat-Tanwir, Ibnu ‘Asyur 29/155
+[^1]: At-Tahrir Wat-Tanwir, Ibnu 'Asyur 29/155
 
 ===== 5378 =====
 
@@ -23046,7 +23046,7 @@ Sebagian para ulama menyebutkan bahwa gunung-gunung tersebut hancur lebur ketika
 
 [^1]: Lisanul-Arab: 13/ 297.
 [^2]: Tafsir Al-Qurthubi: 19/ 157 dari perkataan Al-Mubarrid.
-[^3]: At-Tafsir Al-Ma`tsur : 22/ 611.
+[^3]: At-Tafsir Al-Ma'tsur : 22/ 611.
 [^4]: Fathul-Qadir: 5/ 593.
 
 ===== 5385 =====
@@ -23079,7 +23079,7 @@ Dan dengan hal itu (angan-angan mereka) Allah azza wa jalla semakin menghinakan 
 
 [^1]: Tafsir Ath-Thabari: 23/ 606.
 [^2]: Lihat Tafsir Al-Qurthubi: 18/ 287.
-[^3]: Attahrir Wa Attanwir, Ibnu ‘Asyur, 29/160
+[^3]: Attahrir Wa Attanwir, Ibnu 'Asyur, 29/160
 
 ===== 5387 =====
 
@@ -23181,7 +23181,7 @@ Inilah sifat sebagian manusia dan orang kafir secara umum. Jika diberi harta mer
 "Sama sekali tidak! Sungguh, neraka itu api yang bergejolak." (QS. Al-Ma'arij : 15)
 
 [^1]: Tahrir wa At-Tanwir 29/167
-[^2]: Lihat Tafsir Al-Qurthubi: 18/ 290 dari perkataan Tsa’lab.
+[^2]: Lihat Tafsir Al-Qurthubi: 18/ 290 dari perkataan Tsa'lab.
 [^3]: Ibid: 18/ 290.
 
 ===== 5396 =====
@@ -23223,8 +23223,8 @@ Oleh karenanya yang dimaksud shalat secara دَائِمُونَ adalah dia shala
 Akan tetapi pendapat yang lebih kuat adalah دَائِمُونَ maksudnya shalat tersebut dijaga waktunya. [^5]
 
 [^1]: Imam Ath-Thabari berkata:
-	عَنَى بِ”الْإيْمَانِ” فِيْ هَذَا الْمَوْضِعِ: الصَّلَاةَ.
-	Allah maksudkan dengan “Iman” pada ayat ini adalah “Shalat” (Tafsir Ath-Thabari: 3/ 167).
+	عَنَى بِ"الْإيْمَانِ" فِيْ هَذَا الْمَوْضِعِ: الصَّلَاةَ.
+	Allah maksudkan dengan "Iman" pada ayat ini adalah "Shalat" (Tafsir Ath-Thabari: 3/ 167).
 [^2]: HR. Muslim no. 783
 [^3]: Tafsir Al-Qurthubi: 18/ 291.
 [^4]: HR. Bukhari no. 239 dan
@@ -23333,14 +23333,14 @@ Jadi Allah Subhanahu wa ta'ala membuka ciri orang beriman dengan shalat dan menu
 [^1]: Lihat Tafsir Al-Qurthubi: 18/ 292.
 [^2]: HR Al-Bukhari no 349 dan Muslim no 163 :
 	…فَفَرَضَ اللَّهُ عَزَّ وَجَلَّ عَلَى أُمَّتِي خَمْسِينَ صَلاَةً…
-	“…Lalu Allah ‘Azza wa Jalla mewajibkan atas umatku lima puluh kali shalat…”
+	"…Lalu Allah 'Azza wa Jalla mewajibkan atas umatku lima puluh kali shalat…"
 
 ===== 5411 =====
 
 Terdapat dua pendapat di kalangan para ulama tentang makna مُهْطِعِينَ. Pertama, ada yang menyebut bahwa مُهْطِعِينَ makanya adalah مُسْرِعِيْنَ, yaitu cepat/bergegas menuju kepadamu[^1]. Kedua, مُهْطِعِينَ maknanya adalah مُعْرِضِيْنَ, yaitu berpaling darimu[^2]. Ibnu Katsir rahimahullah berusaha untuk menggabungkan kedua makna ini dengan mengatakan seakan-akan Allah Subhanahu wa ta'ala mengatakan, "Mengapa orang-orang kafir itu bergegas kepadamu Muhammad namun kemudian berpaling darimu".[^3]
 
 [^1]: Lihat Tafsir Ath-Thabari: 23/ 619 dari penafsiran Hasan Al-Bashriy.
-[^2]: Lihat Tafsir Al-Qurthubi: 19/ 293 dari penafsiran ‘Athiyyah.
+[^2]: Lihat Tafsir Al-Qurthubi: 19/ 293 dari penafsiran 'Athiyyah.
 [^3]: Tafsir Ibnu Katsir: 8/ 228.
 
 ===== 5412 =====
@@ -23404,7 +23404,7 @@ Dan Allah azza wa jalla menyebutkan asal penciptaan mereka: untuk merendahkan ke
 [^1]: Tafsir Al-Qurthubi 18/294.
 [^2]: Tafsir Al-Qurthubi 18/294-295.
 [^3]: Tafsir Al-Qurthubi: 18/ 295.
-[^4]: Ruh Al Ma’ani, Al Alusi, 15/73.
+[^4]: Ruh Al Ma'ani, Al Alusi, 15/73.
 
 ===== 5414 =====
 
@@ -23429,7 +23429,7 @@ Pendapat kedua, maksudnya adalah karena Allah yang menciptakan seisi langit dan 
 
 Yaitu Allah Subhanahu wa ta'ala memerintahkan kepada Nabi Muhammad shallallahu 'alaihi wasallam agar membiarkan orang-orang kafir tenggelam dalam berbincang-bincang mengejek beliau dan mengejek Alquran, serta bermain-main dengan agam Islam, hingga akhirnya mereka bertemu dengan hari yang dijanjikan yaitu hari kiamat. [^1]
 
-[^1]: Dan ayat ini tidak dihapus dengan ayat-ayat perang, sebagimana yang dianggap oleh sebagian kalanagn. Akan tetapi ayat ini adalah untuk penghinaan dan rendahnya mereka, tidak perlu Rasulullah shallallahu ‘alaihi wasallam untuk terlalu menyibukkan diri dengan sikap-sikap orang kafir.  (lihat At-Tahrir Wa At-Ttanwir, 29/182).
+[^1]: Dan ayat ini tidak dihapus dengan ayat-ayat perang, sebagimana yang dianggap oleh sebagian kalanagn. Akan tetapi ayat ini adalah untuk penghinaan dan rendahnya mereka, tidak perlu Rasulullah shallallahu 'alaihi wasallam untuk terlalu menyibukkan diri dengan sikap-sikap orang kafir.  (lihat At-Tahrir Wa At-Ttanwir, 29/182).
 
 ===== 5418 =====
 
@@ -23480,21 +23480,21 @@ Sebagaimana dalam banyak ayat lainnya di dalam Alquran, pada ayat ini Allah Subh
 
 Dan dalam ayat ini, Allah Subhanahu wa ta'ala menggunakan kalimat "أَنذِرْ قَوْمَكَ" (berilah beringatan kepada kaummu sendiri) dan bukan menggunakan kalimat "أَنذِرِ النَّاسَ" (berilah beringatan kepada manusia). Tujuannya adalah seakan-akan Allah Subhanahu wa ta'ala ingin menegaskan kepada Nabi Nuh 'alaihissalam bahwa dia diutus kepada kaumnya sendiri. Hal ini dikarenakan di dalam kaumnya tersebut ada kerabat-kerabat Nabi Nuh 'alaihissalam, seperti istrinya, anak-anaknya, dan orang-orang terdekatnya. Dan sebagaimana telah disebutkan bahwa karena jarak antara Nabi Adam dan Nabi Nuh 'alaihissalam tidak jauh, maka tentu jumlah manusia tatkala itu tidak begitu banyak, dan masing-masing tentu memiliki hubungan kekerabatan. Maka Allah Subhanahu wa ta'ala memerintahkan Nabi Nuh 'alaihissalam untuk memberikan peringatan kepada kerabat-kerabatnya karena mereka itu adalah kaumnya. [^1]
 
-[^1]: Lihat: At-Tahrir Wa At-Tanwir Li Ibn ‘Asyur 29/187.
+[^1]: Lihat: At-Tahrir Wa At-Tanwir Li Ibn 'Asyur 29/187.
 
 ===== 5421 =====
 
 Setelah Allah Subhanahu wa ta'ala memerintahkan untuk Nabi Nuh 'alaihissalam memberikan peringatan, maka dia pun melakukan perintah tersebut. Nabi Nuh 'alaihissalam mendatangi kaumnya dengan perkataan yang lembut dengan menggunakan panggilan "kaumku" [^1]. Lalu kemudian Nabi Nuh 'alaihissalam juga mendahulukan kata "lakum" pada kalimat إِنِّي لَكُمْ نَذِيرٌ مُّبِينٌ (Sesungguhnya aku ini bagi kalian pemberi peringatan) untuk menunjukkan bahwasanya dia diutus hanya untuk kaumnya sendiri bukan kepada yang lainnya. Nabi Nuh 'alaihissalam tidak berkata dengan kalimat  إِنِّي نَذِيرٌ مُّبِينٌ لَكُمْ, "Sesungguhnya aku adalah pemberi peringatan bagi kalian", karena kalimat ini akan menunjukkan bahwa beliau juga diutus kepada selain kaumnya. Padahal Nabi Nuh 'alaihissalam diutus secara khusus kepada kaumnya. [^2]
 
 [^1]: Lihat: Tafsir Al-Baghawiy 8/227 dan Tafsir Al-Qurthubiy 18/299.
-[^2]: Lihat: At-Tahrir Wa At-Tanwir Li Ibn ‘Asyur 29/188.
+[^2]: Lihat: At-Tahrir Wa At-Tanwir Li Ibn 'Asyur 29/188.
 
 ===== 5422 =====
 
 Inilah isi dakwah Nabi Nuh 'alaihissalam, yaitu agar kaumnya mentauhidkan Allah[^1]. Karena pada dasarnya kaumnya adalah kaum yang terjerumus ke dalam kesyirikan. [^2]
 
 [^1]: Lihat: Tafsir Al-Qurthubiy 18/299.
-[^2]: Lihat: At-Tahrir Wa At-Tanwir Li Ibn ‘Asyur 29/188.
+[^2]: Lihat: At-Tahrir Wa At-Tanwir Li Ibn 'Asyur 29/188.
 
 ===== 5423 =====
 
@@ -23508,12 +23508,12 @@ Kemudian dalam ayat ini disebutkan bahwa apabila mereka bertakwa dan beriman, ma
 
 Maka jika mereka tidak beriman kepada Allah Subhanahu wa ta'ala maka ketetapan Allah tetap akan mendatangi mereka yaitu kematian. Apakah mereka mati karena azab yang menimpanya, atau mereka meninggal karena umurnya yang sudah tua dan ajalnya telah tiba. [^6]
 
-[^1]: Tafsir Ibnu ‘Athiyyah 5/372.
+[^1]: Tafsir Ibnu 'Athiyyah 5/372.
 [^2]: Lihat: Tafsir Al-Qurthubiy 18/299.
 [^3]: Lihat: Tafsir Al-Mawardiy 6/99.
 [^4]: Lihat: Tafsir Al-Qurthubiy 18/299.
 [^5]: HR. Bukhari no. 5985
-[^6]: Lihat: Ma’aniy Al-Qur’an Li Az-Zajjaj 5/228 dan Ma’aniy Al-Qur’an Li Al-Farra’ 3/187.
+[^6]: Lihat: Ma'aniy Al-Qur'an Li Az-Zajjaj 5/228 dan Ma'aniy Al-Qur'an Li Al-Farra' 3/187.
 
 ===== 5424 =====
 
@@ -23532,7 +23532,7 @@ Artinya tidaklah Nabi Nuh 'alaihissalam semakin mendakwahi kaumnya kecuali merek
 
 Tentunya penolakan seorang da'i terhadap apa yang didakwahkannya adalah suatu yang berat. Tentunya hati seorang da'i akan sangat sedih jika dalam dakwahnya ternyata membuat orang-orang semakin jauh. Sehingga keadaan seperti ini membuat sebagian da'i pindah dari tempat dakwah tersebut ke tempat yang lain. Akan tetapi ada sebagian da'i tidak bisa menghadapi hal yang seperti itu, sehingga dia memutuskan untuk berhenti berdakwah sama sekali.
 
-[^1]: Lihat: Tafsir Ibnu Katsir 8/232 dan At-Tahrir Wa At-Tanwir Li Ibnu ‘Asyur 29/195.
+[^1]: Lihat: Tafsir Ibnu Katsir 8/232 dan At-Tahrir Wa At-Tanwir Li Ibnu 'Asyur 29/195.
 
 ===== 5426 =====
 
@@ -23656,7 +23656,7 @@ Intinya seluruh nikmat-nikmat ini, adalah dari Allah Subhanahu wa ta'ala. Dan da
 
 Dalam sebagian qira'ah, kata مِنْ كُلِّ dalam ayat ini dibaca مِنْ كُلٍّ (dengan mentanwin huruf laam), sehingga jika demikian makna ayat ini menjadi, "Dan dia telah memberikan kepada apa yang tidak kamu minta kepada-Nya" [^2]. Maka langit yang berlapis-lapis, matahari, dan bulan adalah nikmat yang tidak mereka minta, akan tetapi hakikatnya sangat mereka butuhkan. Akan tetapi meskipun demikian, mereka (kaum Nabi Nuh 'alaihissalam) tetap tidak mengagungkan Allah Subhanahu wa ta'ala.
 
-[^1]: Lihat: Tafsir As-Sa’diy hal:889 dan At-Tahrir Wa At-Tanwir Li Ibnu ‘Asyur 29/203.
+[^1]: Lihat: Tafsir As-Sa'diy hal:889 dan At-Tahrir Wa At-Tanwir Li Ibnu 'Asyur 29/203.
 [^2]: Lihat: Tafsir Ath-Thabariy 17/15.
 
 ===== 5436 =====
@@ -23674,7 +23674,7 @@ Allah Subhanahu wa ta'ala berfirman,
 Nabi Nuh 'alaihissalam mengingatkan lagi akan nikmat bumi yang dijadikan sebagai hamparan, sehingga mereka bisa tinggal dengan nyaman di atas muka bumi. Mereka bisa tenang membangun rumah tinggal, mereka bisa bercocok tanam, memelihara hewan ternak, berjalan kemana pun tanpa kesusahan. Dan bumi secara keseluruhan mudah untuk dipijaki. Maka Nabi Nuh 'alaihissalam seakan-akan mengingatkan mereka bahwa apakah semua kenikmatan-kenikmatan itu terjadi begitu saja tanpa ada yang menciptakannya? Tentu tidak. Allah Subhanahu wa ta'ala adalah yang menciptakan itu semua. Maka mengapa mereka tidak mengagungkan Allah Subhanahu wa ta'ala? [^2]
 
 [^1]: Lihat: Tafsir Al-Mawardi 6/102.
-[^2]: Lihat: At-Tahrir Wa At-Tanwir Li Ibnu ‘Asyur 29/205 dan Tafsir Ibnu Katsir 8/234.
+[^2]: Lihat: At-Tahrir Wa At-Tanwir Li Ibnu 'Asyur 29/205 dan Tafsir Ibnu Katsir 8/234.
 
 ===== 5438 =====
 
@@ -23721,7 +23721,7 @@ Maka karena kaumnya yang demikian membangkang dari dakwah Nabi Nuh 'alaihissalam
 [^1]: Lihat: Tafsir Al-Mawardiy 6/105.
 [^2]: HR. Bukhari no. 4920
 [^3]: Lihat: Tafsir Al-Mawardiy 6/104.
-[^4]: Lihat: Al-Kassyaf Li Az-Zamakhsyari 4/619 dan At-Tahrir Wa At-Tanwir Li Ibnu ‘Asyur 29/206.
+[^4]: Lihat: Al-Kassyaf Li Az-Zamakhsyari 4/619 dan At-Tahrir Wa At-Tanwir Li Ibnu 'Asyur 29/206.
 [^5]: Lihat: Tafsir Ibnu Katsir 7/53 dan 6/113.
 
 ===== 5443 =====
@@ -23764,8 +23764,8 @@ Setelah Nabi Nuh 'alaihissalam berdakwah dengan sekian lama, namun kaumnya memba
 
 Setelah dakwah Nabi Nuh 'alaihissalam selama kurang lebih 900 tahun, Allah Subhanahu wa ta'ala mengabarkan bahwa tidak ada lagi yang akan beriman kecuali yang telah beriman sebelumnya. Kalau sebuah pendapat mengatakan bahwa yang beriman hanya delapan puluh orang, maka hanya mereka itu sajalah yang beriman, dan tidak akan ada tambahan lagi kata Allah Subhanahu wa ta'ala. [^5]
 
-[^1]: Lihat: Tafsir Ats-Tsa’labiy 10/47.
-[^2]: Lihat: Tafsir As-Sam’aniy 6/60.
+[^1]: Lihat: Tafsir Ats-Tsa'labiy 10/47.
+[^2]: Lihat: Tafsir As-Sam'aniy 6/60.
 [^3]: Lihat: Tafsir Ibnu Katsir 8/236.
 [^4]: Lihat: Tafsir Al-Qurthubiy 18/312.
 [^5]: Lihat: Tafsir Ath-Thabariy 15/327.
@@ -23798,10 +23798,10 @@ Untuk tidak membagikan tanah-tanah subur di Iroq -yang berhasil ditaklukan oleh 
 
 [^1]: Lihat: Tafsir Ath-Thabariy 23/642.
 [^2]: Lihat: Tafsir Al-Baghawiy 8/234 dan Tafsir Ibnu Katsir 8/237.
-[^3]: Lihat: At-Tahrir Wa At-Tanwir Li Ibn ‘Asyur 29/214.
+[^3]: Lihat: At-Tahrir Wa At-Tanwir Li Ibn 'Asyur 29/214.
 [^4]: Lihat: Tafsir Al-Qurthubiy 9/31.
 [^5]: Tafsir Al-Baghawiy 8/234.
-[^6]: Lihat: At-Tahrir Wa At-Tanwir Li Ibn ‘Asyur 29/214.
+[^6]: Lihat: At-Tahrir Wa At-Tanwir Li Ibn 'Asyur 29/214.
 
 ===== 5447 =====
 
@@ -23821,11 +23821,11 @@ Kemudian Nabi Nuh 'alaihissalam juga mendoakan kebaikan untuk seluruh kaum mukmi
 
 Do'a seorang muslim untuk saudaranya yang dipanjatkan tanpa sepengetahuan orang yang dido'akannya adalah do'a yang akan dikabulkan. Pada kepalanya ada Malaikat yang diutus baginya. Setiap kali dia berdo'a untuk saudaranya dengan sebuah kebaikan, maka Malaikat tersebut berkata: 'Semoga Allah mengabulkannya dan semoga engkaupun mendapatkan apa yang ia dapatkan. [^6]
 
-[^1]: Lihat: At-Tahrir Wa At-Tanwir Li Ibn ‘Asyur 29/215.
+[^1]: Lihat: At-Tahrir Wa At-Tanwir Li Ibn 'Asyur 29/215.
 [^2]: Lihat: Tafsir Al-Baghawiy 8/234 dan Al-Kassyaf Li Az-Zamakhsyariy 4/621.
 [^3]: Lihat: Tafsir Al-Baghawiy 4/174.
-[^4]: Lihat: At-Tahrir Wa At-Tanwir Li Ibn ‘Asyur 29/215.
-[^5]: Lihat: Tafsir Ibnu ‘Athiyyah 5/377.
+[^4]: Lihat: At-Tahrir Wa At-Tanwir Li Ibn 'Asyur 29/215.
+[^5]: Lihat: Tafsir Ibnu 'Athiyyah 5/377.
 [^6]: H.R. Muslim no.2733.
 
 ===== 5448 =====
@@ -23912,7 +23912,7 @@ Meminta pertolongan kepada jin adalah hal yang diharamkan di dalam syariat. Apab
 Oleh karenanya tidak boleh seseorang meminta perlindungan kepada jin, karena jin membutuhkan suatu lambang/simbol bahwa seseorang taat atau mengagungkannya. Jika seseorang merasa takut, hendaklah berdoa dan meminta perlindungan hanya kepada Allah Subhanahu wa ta'ala. Dan sebagaimana telah disebutkan bahwa meminta pertolongan kepada jin adalah kesyirikan, dan hanya akan menambah kesombongan baginya.
 
 [^1]: HR. Bukhari no. 6322
-[^2]: Az-Zarkasyi berkata, “Telah terjadi perdebatan di kalangan ulama belakangan tentang apakah para jin dibebankan untuk menjalankan furu’ (cabang-cabang) syari’at?. Maka ahli tahqiq (para peneliti) diantara mereka berpendapat bahwasanya para jin sama dibebani secara global, akan tetapi tidak   sama persis seperti syari’at manusia, karena para jin berbeda dengan manusia baik secara definisi maupun hakikat. Maka tentunya akan berbeda pula pada sebagian syari’at. Contohnya sebagian jin telah diberikan kekuatan untuk terbang di udara, dan mereka juga diperintahkan untuk berhaji dengan terbang, sementara manusia tidak diperintahkan demikian karena tidak bisa terbang. Akan tetapi sebaliknya jin tentu dibebankan dengan perintah/syari’at yang tidak dibebankan kepada manusia. Maka setiap syari’at yang berkaitan dengan syari’at tabi’at manusia (secara khusus) maka tidak akan dibebankan kepada jin karena jin tidak memiliki tabi’at tersebut.” (Al-Bahr al-Muhith fi Ushul al-Fiqh 1/309)
+[^2]: Az-Zarkasyi berkata, "Telah terjadi perdebatan di kalangan ulama belakangan tentang apakah para jin dibebankan untuk menjalankan furu' (cabang-cabang) syari'at?. Maka ahli tahqiq (para peneliti) diantara mereka berpendapat bahwasanya para jin sama dibebani secara global, akan tetapi tidak   sama persis seperti syari'at manusia, karena para jin berbeda dengan manusia baik secara definisi maupun hakikat. Maka tentunya akan berbeda pula pada sebagian syari'at. Contohnya sebagian jin telah diberikan kekuatan untuk terbang di udara, dan mereka juga diperintahkan untuk berhaji dengan terbang, sementara manusia tidak diperintahkan demikian karena tidak bisa terbang. Akan tetapi sebaliknya jin tentu dibebankan dengan perintah/syari'at yang tidak dibebankan kepada manusia. Maka setiap syari'at yang berkaitan dengan syari'at tabi'at manusia (secara khusus) maka tidak akan dibebankan kepada jin karena jin tidak memiliki tabi'at tersebut." (Al-Bahr al-Muhith fi Ushul al-Fiqh 1/309)
 [^3]: Lihat Tafsir Ath-Thabari: 23/ 654, Tafsir Al-Qurthubi: 19/ 10 dan Tafsir Ibnu Katsir: 8/ 239.
 [^4]: HR. Muslim no. 2708
 
@@ -23938,7 +23938,7 @@ Sebagian Ahli Tafsir menyebutkan bahwa Allah Subhanahu wa ta'ala mendatangkan is
 
 Kondisi ketiga adalah setelah Nabi shallallahu 'alaihi wasallam meninggal. Maka para ulama berbeda pendapat apakah berita dari langit berhasil dicuri atau tidak. Sebagian ulama mengatakan bisa tetapi sudah sangat sulit bagi jin untuk melakukannya. Sebagian ulama lain mengatakan bahwa hal itu mustahil untuk dilakukan, dan inilah yang dikuatkan oleh Ibnu Hajar Al-Asqalani. Oleh karena itu, dukun-dukun yang ada di zaman sekarang bisa kita katakan sebagai pembohong besar. Dari mana mereka bisa mendapat berita sementara jin-jin sudah tidak mampu mencuri berita di langit? Maka jika ada dari ramalan mereka yang benar dan mencocoki realitas, itu hanya sekadar tebak-tebakan saja dan kebetulan tebakan mereka benar. Oleh karenanya itu pendapat yang terkuat dalam masalah ini adalah berita langit sudah tidak bisa dicuri lagi oleh para jin, dan karena Allah Subhanahu wa ta'ala menggunakan isim syarat sebagai penekanan bahwa tidak mungkin lagi ada jin yang berhasil mencuri berita di langit. Adapun ramalan para peramal dengan berbagai macam model ramalannya, maka itu semua dusta.
 
-[^1]: Lihat Fathul-Bariy karya Al-Hafizh Ibnu Hajar Al-‘Asqalaniy: 10/ 216.
+[^1]: Lihat Fathul-Bariy karya Al-Hafizh Ibnu Hajar Al-'Asqalaniy: 10/ 216.
 [^2]: HR. Bukhari no. 5762
 
 ===== 5456 =====
@@ -24003,7 +24003,7 @@ Para ulama menafsirkan مَاءً غَدَقًا (air yang segar) dengan rezeki 
 
 Dan ayat ini tidak hanya menunjukkan untuk manusia, melainkan juga untuk jin. Oleh karenanya Allah Subhanahu wa ta'ala menegaskan bahwa jika para jin itu berpegang pada satu jalan yang lurus (agama Allah), niscaya Allah Subhanahu wa ta'ala juga akan memberi mereka rezeki. Dan ini juga merupakan dalil bahwasanya di antara hal yang membuka pintu rezeki adalah istiqamah di jalan kebenaran.
 
-[^1]: Lihat Tafsir Ath-Thabari 23/ 662 dari perkataan Mujahid, Sa’id bin Jubair, Ibnu Zaid.
+[^1]: Lihat Tafsir Ath-Thabari 23/ 662 dari perkataan Mujahid, Sa'id bin Jubair, Ibnu Zaid.
 [^2]: Lihat Tafsir Al-Qurthubi: 19/ 18-19.
 
 ===== 5464 =====
@@ -24240,14 +24240,14 @@ Ayat ini juga menjadi dalil akan keutamaan membaca Alquran di malam hari, teruta
 
 [^1]: HR. Abu Daud no. 1464
 [^2]: Lihat Tafsir ibnu katsir (8/250), Tafsir Al-Qurthuby (19/37).
-[^3]: Diriwayatkan oleh Ibnul Mubarok dalam Az-zuhdu  no.1199 dan Ibnu Abi syaibah (14/11) dengan lafadz : “Bahwasanya seorang sahabat Nabi ﷺ pernah mendengar seseorang membaca Al-Qur’an…”
-[^4]: ‘Umdatul Qaari’ Syarah Shahih Al-Bukhari (7/189).
+[^3]: Diriwayatkan oleh Ibnul Mubarok dalam Az-zuhdu  no.1199 dan Ibnu Abi syaibah (14/11) dengan lafadz : "Bahwasanya seorang sahabat Nabi ﷺ pernah mendengar seseorang membaca Al-Qur'an…"
+[^4]: 'Umdatul Qaari' Syarah Shahih Al-Bukhari (7/189).
 [^5]: Tafsir Al-Qurthuby (19/37).
 [^6]: Tafsir Ibnu Katsir (8/250)
 [^7]: HR. Abu Daud no. 1468 dan HR. Ibnu Majah no. 1342
 [^8]: HR. Bukhari no. 7527
 [^9]: HR. Muslim no. 793
-[^10]: Iqtidha Al-‘Ilm Al-‘Amal no. 116
+[^10]: Iqtidha Al-'Ilm Al-'Amal no. 116
 
 ===== 5480 =====
 
@@ -24280,7 +24280,7 @@ Allah Subhanahu wa ta'ala juga berfirman,
 [^3]: HR. Ahmad no.24868.
 [^4]: HR. Bukhori no. 4592.
 [^5]: Lihat tafsir Al-Qurthuby (19/38)
-[^6]: Tafsir As-Sa’dy hal.892
+[^6]: Tafsir As-Sa'dy hal.892
 [^7]: Al-Madarik hal. 162
 [^8]: HR. Ahmad no. 22345
 
@@ -24299,7 +24299,7 @@ Sebagaimana telah disebutkan bahwa para ulama menyebutkan bahwa membaca Alquran 
 Diantara keutamaan membaca Alquran di malam hari adalah lebih mudah untuk ditadaburi dan lebih menyatukan antara lisan dan hati. Dan keutamaan ini lebih mudah untuk dicapai ketika Alquran di baca dalam shalat di malam hari. Oleh karenanya Syaikhul Islam Ibnu Taimiyah rahimahullah mengatakan bahwa Alquran paling afdhal (utama) dibaca tatkala sedang shalat, sebagaimana firman Allah Subhanahu wa ta'ala dalam surah Al-Muzzammil ini.
 
 [^1]: Lihat Tafsir Al-Qurthuby (19/40), Tafsir Ibnu Katsir (8/251).
-[^2]: Majmu’ Al-Fatawa (17/474)
+[^2]: Majmu' Al-Fatawa (17/474)
 [^3]: HR. Ahmad no. 6626
 
 ===== 5482 =====
@@ -24366,7 +24366,7 @@ Maka selama suatu hal tidak ada hubungannya dengan diri kita, maka hendaknya kit
 [^1]: Tafsir Al-Qurthubi 19/43
 [^2]: Idem.
 [^3]: Tafsir Al-Qurthubi 19/44
-[^4]: Ahkamul Qur’an karya Ibnul ‘Aroby 4/332, Tafsir Al-Qurthubi 19/44
+[^4]: Ahkamul Qur'an karya Ibnul 'Aroby 4/332, Tafsir Al-Qurthubi 19/44
 [^5]: HR. Bukhari no. 19
 [^6]: HR. Tirmidzi no. 2317
 
@@ -24450,7 +24450,7 @@ Maka tatkala kita disakiti oleh seseorang, seharusnya kita ridha terhadap mereka
 
 [^1]: Tafsir Ibnu Katsir 8/255
 [^2]: HR. Bukhari no. 5752
-[^3]: HR. Al-Hakim no. 2000 dalam Al-Mustadrak; HR. An-Nasa’i no. 10330 dalam Sunan Al-Kubro
+[^3]: HR. Al-Hakim no. 2000 dalam Al-Mustadrak; HR. An-Nasa'i no. 10330 dalam Sunan Al-Kubro
 [^4]: HR. Abu Daud no. 5095
 [^5]: Tafsir Al-Qurthuby 19/45
 
@@ -24474,7 +24474,7 @@ Sungguh azab di dunia bagi orang-orang zalim itu kecil. Oleh karenanya Allah Sub
 
 Kapan mereka akan diberikan azab tersebut? Yaitu ketika hari kiamat telah tiba, yaitu ketika gunung-gunung batu yang sebelumnya kokoh berguncang dan menjadi debu yang berterbangan. Maka pada saat itulah orang-orang para pendusta akan disiksa oleh Allah Subhanahu wa ta'ala.
 
-[^1]: Asyhab meriwayatkan dari Imam Malik bahwa usia Fir’aun mencapai 440 tahun, lihat Tafsir Al-Bahrul Muhith 9/256.
+[^1]: Asyhab meriwayatkan dari Imam Malik bahwa usia Fir'aun mencapai 440 tahun, lihat Tafsir Al-Bahrul Muhith 9/256.
 
 ===== 5488 =====
 
@@ -24598,7 +24598,7 @@ __________________________________________________________________________-
 
 [^1]: HR. Tirmidzi no. 3549; diriwayatkan pula oleh Ath-Thabrani dan Al-Hakim
 [^2]: Tafsir Al-Qurthubi 19/55
-[^3]: Tafsir As-Sa’di 1/894
+[^3]: Tafsir As-Sa'di 1/894
 [^4]: HR. Muslim no. 725
 
 ===== 5496 =====
@@ -24661,7 +24661,7 @@ Akan tetapi jumhur Ahli Tafsir mengatakan bahwa ayat ini umum dan bukan hanya be
 
 Kemudian Allah Subhanahu wa ta'ala berfirman,
 
-[^1]: Lihat: Tafsir As-Sa’di hal. 895
+[^1]: Lihat: Tafsir As-Sa'di hal. 895
 [^2]: Kitab At-Tauhid Muhammad bin Abdul Wahhab 1/21
 [^3]: Lihat: Tafsir Al-Qurthubi 19/62
 [^4]: HR. Ibnu Majah no. 275; HR. Abu Daud no. 618; HR. At-Tirmidzi no. 238; dan HR. Ahmad no. 1009
@@ -24729,7 +24729,7 @@ Kemudian Allah Subhanahu wa ta'ala,
 [^1]: Lihat: Tafsir Al-Qurthubi 19/67
 [^2]: Lihat: Tafsir Ath-Thobari 23/410
 [^3]: Dua penafsiran ini banyak dicantumkan di kitab-kitab tafsir ulama salah satunya di kitab Tafsir Al-Qurthubi 19/67 yang beliau mencantumkan sebelas penafsiran dalam ayat ini.
-[^4]: Lihat: Tafsir As-Sa’di hal. 895
+[^4]: Lihat: Tafsir As-Sa'di hal. 895
 
 ===== 5501 =====
 
@@ -24813,9 +24813,9 @@ Ayat ini adalah _khitab_ (ditujukan) kepada Nabi Shallallahu 'alaihi wa sallam. 
 
 Kemudian Allah Subhanahu wa ta'ala berfirman,
 
-[^1]: Lihat: Tafsri As-Sa’di hal. 896
-[^2]: Lihat: Tafsir As-Sa’di hal. 896
-[^3]: Lihat: Tafsir As-Sa’di hal. 896
+[^1]: Lihat: Tafsri As-Sa'di hal. 896
+[^2]: Lihat: Tafsir As-Sa'di hal. 896
+[^3]: Lihat: Tafsir As-Sa'di hal. 896
 [^4]: Tafsir Al-Qurthubi 19/71
 [^5]: Lihat: Tafsir Al-Qurthubi 19/71
 [^6]: Lihat: Tafsir Al-Qurthubi 19/70
@@ -24908,8 +24908,8 @@ Karena orang-orang Quraisy khawatir Al-Walid akan masuk Islam, maka sebagaimana 
 [^2]: Lihat: Tafsir At-Thobari 23/426
 [^3]: Lihat: Tafsir Al-Qurthubi 19/73
 [^4]: Lihat: At-Tahrir wat Tanwir 29/306
-[^5]: Abu Jahal dan Al-Walid Ibnul Mughirah adalah sama-sama berasal dari Bani Makhzum. Sementara kabilah Makhzum adalah saingan bagi kabilah Bani Hasyim yang merupakan kabilah Nabi Shallallahu ‘alaihi wa sallam. Kedua kabilah ini senantiasa bersaing untuk meraih ketenaran dan kemuliaan di hadapan kabilah-kabilah Arab Quraisy secara khusus dan kabilah Arab seluruhnya, sehingga kedua kabilah ini terus bersaing dan tidak ada yang bisa menyaingi kabilah Bani Hasyim kecuali kabilah Bani Makhzum. Jika Bani Hasyim memberi makan bagi jamaah haji, maka Bani Makhzum juga akan bersedekah memberi makan bagi jamaah haji. Jika Bani Hasyim banyak membantu orang-orang susah, maka Bani Makhzum juga akan membantu orang-orang susah. Maka tatkala muncul seorang Nabi dari Bani Hasyim bernama Muhammad bin Abdullah, maka Bani Makhzum tidak bisa memiliki Nabi. Untuk menyaingi Bani Hasyim dalam hal ini (memiliki Nabi) agar persaingan tetap setara, maka Bani Makhzum berupaya untuk tidak mengakui Nabi dari Bani Hasyim dan harus didustakan. Jika Nabi Muhammad Shallallahu ‘alaihi wa sallam dari Bani Hasyim tidak didustakan, maka Bani Makhzum akan kalah. Dan yang jadi masalah ketika itu adalah pemimpin Bani Makhzum Al-Walid Ibnul Mughirah sudah mulai bermain-main untuk bertemu dengan Nabi Muhammad Shallallahu ‘alaihi wa sallam. Maka Abu Jahal menganggap bahwa kedatangan Al-Walid Ibnul Mughirah kepada Nabi Shallallahu ‘alaihi wa sallam adalah malapetaka bagi Bani Makhzum, karena jika sampai Al-Walid Ibnul Mughirah masuk Islam, maka semua Bani Makhzum akan masuk Islam.
-[^6]: HR. Al-Hakim no. 3872 dalam Al-Mustadrak, juga disebutkan dalam Syu’abul Iman no. 133
+[^5]: Abu Jahal dan Al-Walid Ibnul Mughirah adalah sama-sama berasal dari Bani Makhzum. Sementara kabilah Makhzum adalah saingan bagi kabilah Bani Hasyim yang merupakan kabilah Nabi Shallallahu 'alaihi wa sallam. Kedua kabilah ini senantiasa bersaing untuk meraih ketenaran dan kemuliaan di hadapan kabilah-kabilah Arab Quraisy secara khusus dan kabilah Arab seluruhnya, sehingga kedua kabilah ini terus bersaing dan tidak ada yang bisa menyaingi kabilah Bani Hasyim kecuali kabilah Bani Makhzum. Jika Bani Hasyim memberi makan bagi jamaah haji, maka Bani Makhzum juga akan bersedekah memberi makan bagi jamaah haji. Jika Bani Hasyim banyak membantu orang-orang susah, maka Bani Makhzum juga akan membantu orang-orang susah. Maka tatkala muncul seorang Nabi dari Bani Hasyim bernama Muhammad bin Abdullah, maka Bani Makhzum tidak bisa memiliki Nabi. Untuk menyaingi Bani Hasyim dalam hal ini (memiliki Nabi) agar persaingan tetap setara, maka Bani Makhzum berupaya untuk tidak mengakui Nabi dari Bani Hasyim dan harus didustakan. Jika Nabi Muhammad Shallallahu 'alaihi wa sallam dari Bani Hasyim tidak didustakan, maka Bani Makhzum akan kalah. Dan yang jadi masalah ketika itu adalah pemimpin Bani Makhzum Al-Walid Ibnul Mughirah sudah mulai bermain-main untuk bertemu dengan Nabi Muhammad Shallallahu 'alaihi wa sallam. Maka Abu Jahal menganggap bahwa kedatangan Al-Walid Ibnul Mughirah kepada Nabi Shallallahu 'alaihi wa sallam adalah malapetaka bagi Bani Makhzum, karena jika sampai Al-Walid Ibnul Mughirah masuk Islam, maka semua Bani Makhzum akan masuk Islam.
+[^6]: HR. Al-Hakim no. 3872 dalam Al-Mustadrak, juga disebutkan dalam Syu'abul Iman no. 133
 [^7]: Tafsir Ibnu Katsir 8/267
 
 ===== 5513 =====
@@ -25152,9 +25152,9 @@ Maka dalam ayat ini penghuni surga juga berdialog dengan penghuni neraka. Kita m
 Maka ketika penghuni neraka ditanya tentang mengapa mereka dimasukkan ke dalam neraka Saqar, para penghuni neraka menjawab,
 
 [^1]: Lihat: At-Tahrir wat Tanwir 8/136.
-	Ibnu ‘Asyur ketika menafsirkan surat al-A’rof: 44, ia berkata:
+	Ibnu 'Asyur ketika menafsirkan surat al-A'rof: 44, ia berkata:
 	وَهَذَا النِّدَاءُ خِطَابٌ مِنْ أَصْحَابِ الْجَنَّةِ، عَبَّرَ عَنْهُ بِالنِّدَاءِ كِنَايَةً عَنْ بُلُوغِهِ إِلَى أَسْمَاعِ أَصْحَابِ النَّارِ مِنْ مَسَافَةٍ سَحِيقَةِ الْبُعْدِ، فَإِنَّ سِعَةَ الْجَنَّةِ وَسِعَةَ النَّارِ تَقْتَضِيَانِ ذَلِكَ لَا سِيَّمَا قَوْلِهِ: وَبَيْنَهُما حِجابٌ [الْأَعْرَاف: 46] ، وَوَسِيلَةُ بُلُوغِ هَذَا الْخِطَابِ مِنَ الْجَنَّةِ إِلَى أَصْحَابِ النَّارِ وَسِيلَةٌ عَجِيبَةٌ غَيْرُ مُتَعَارَفَةٍ.
-	“ dan panggilan ini berasal dari penduduk surga yang diungkapkan dengan panggilan sebagai kinayah dari sampainya panggilan tersebut ke telinga-para penduduk neraka dari jarak yang sangat jauh, karena luasnya surga dan luasnya neraka melazimkan hal tersebut, terlebih lagi firmannya {di antara keduanya ada hijab/penghalang} QS. Al-A’raf: 46, dan perantara sampainya panggilan ini dari surga ke penduduk neraka adalah perantara yang sangat menakjubkan dan tidak diketahui.”
+	" dan panggilan ini berasal dari penduduk surga yang diungkapkan dengan panggilan sebagai kinayah dari sampainya panggilan tersebut ke telinga-para penduduk neraka dari jarak yang sangat jauh, karena luasnya surga dan luasnya neraka melazimkan hal tersebut, terlebih lagi firmannya {di antara keduanya ada hijab/penghalang} QS. Al-A'raf: 46, dan perantara sampainya panggilan ini dari surga ke penduduk neraka adalah perantara yang sangat menakjubkan dan tidak diketahui."
 
 ===== 5538 =====
 
@@ -25256,7 +25256,7 @@ Sesungguhnya Allah Subhanahu wa ta'ala adalah sangat mudah untuk mengampuni hamb
 
 Secara bahasa Arab لَا bermakna "Tidak". Oleh karenanya ada perbedaan ahli tafsir terkait makna ayat ini. Sebagian ulama berpendapat bahwa dalam ayat ini Allah Subhanahu wa ta'ala membantah perkataan orang-orang kafir yang mengingkari adanya hari kiamat. Seakan-akan Allah Subhanahu wa ta'ala membantah mereka dengan mengatakan "Tidak, sungguh Aku bersumpah dengan hari kiamat". Dan sebagian ulama yang lain mengatakan bahwa لَا dalam ayat ini merupakan Laa zaa'idah yang tujuannya adalah littaukid (menekankan), sehingga seakan-akan Allah Subhanahu wa ta'ala mengatakan "Sungguh-sungguh Aku bersumpah dengan hari kiamat". Dan tambahan Laa zaa'idah seperti ini banyak disebutkan di dalam Alquran. [^1]
 
-[^1]: Ma’ani Al-Qur’an Li Al-Farra’ 3/207.
+[^1]: Ma'ani Al-Qur'an Li Al-Farra' 3/207.
 
 ===== 5553 =====
 
@@ -25273,7 +25273,7 @@ Sebagaimana kita ketahui bahwa jiwa itu ada tiga, ada yang namanya jiwa yang sel
 Demikianlah jiwa ini, tugasnya adalah mencela pemilik jiwa tersebut dengan memberikan sinyal ketika pemilik jiwa tersebut melakukan keburukan dan maksiat. Oleh karenanya Allah Subhanahu wa ta'ala bersumpah dengan jiwa tersebut karena jiwa tersebut adalah jiwa yang baik[^3]. Dan semoga Allah Subhanahu wa ta'ala menganugerahkan kita jiwa seperti ini, karena jiwa yang seperti ini sangat kita perlukan.
 
 [^1]: Tafsir Al-Mawardiy 6/151 dan Tafsir Al-Qurthubiy 19/93.
-[^2]: Tafsir Ath-Thabariy 24/49, Tafsir Ibnu Katsir 8/276 dan At-Tafsir Al-Ma’tsur 22/446.
+[^2]: Tafsir Ath-Thabariy 24/49, Tafsir Ibnu Katsir 8/276 dan At-Tafsir Al-Ma'tsur 22/446.
 [^3]: Lihat: Tafsir Al-Qurthubiy 19/93.
 
 ===== 5554 =====
@@ -25308,10 +25308,10 @@ Demikian pula orang-orang musyrikin dahulu, mereka ingin berpuas-puas dalam kema
 
 Di dalam ayat ini Allah Subhanahu wa ta'ala membantah bahwa bukan hanya tulang mereka yang bisa Allah kumpulkan, akan tetapi jari-jemari mereka pun mampu untuk Allah Subhanahu wa ta'ala kumpulkan. Sebagian ahli tafsir mengatakan bahwa alasan Allah menggunakan penyebutan jari-jari karena jika tulang manusia disusun kembali, maka yang terakhir biasanya adalah bagian ujung yang di antaranya adalah jari-jari. Sehingga jika jari-jari telah dikumpulkan, maka tulang yang lain pun pasti telah dikumpulkan. Artinya sangat mudah bagi Allah Subhanahu wa ta'ala untuk mengembalikan tulang belulang mereka, meskipun tulang tersebut telah hancur lebur bersatu dengan tanah, karena Allah Subhanahu wa ta'ala jika menghendaki sesuatu tinggal berkata "Kun" maka akan terjadi. [^5]
 
-[^1]: Tafsir Al-Qurthubiy 19/93 dan Tafsir As-Sa’diy hal:898.
+[^1]: Tafsir Al-Qurthubiy 19/93 dan Tafsir As-Sa'diy hal:898.
 [^2]: Tafsir Al-Qurthubiy 19/95.
 [^3]: Lihat: Tafsir Al-Lubab 19/550.
-[^4]: Tafsir Ibnu ‘Athiyyah 5/402.
+[^4]: Tafsir Ibnu 'Athiyyah 5/402.
 [^5]: Lihat: Al-Kassyaf Li Az-Zamakhsyariy 4/659 dan Tafsir Al-Baghawiy 8/281.
 	Ibnu Qutaibah dan Az-Zajjaj berkata:
 	فَمَنْ قَدَرَ عَلَى جَمْعِ صِغَارِ الْعِظَامِ فَهُوَ عَلَى جَمْعِ كِبَارِهَا أَقْدَرُ
@@ -25333,8 +25333,8 @@ Oleh karenanya benar suatu ungkapan bahwasanya perkara yang paling mudah untuk m
 
 [^1]: Tafsir Ath-Thabariy 24/53, Al-Kassyaf Li Az-Zamakhsyariy 4/660, Tafsir Al-Baghawiy 8/281, Tafsir Al-Qurthubiy 19/95 dan Tafsir Ibnu Katsir 8/276.
 [^2]: Lihat: Tafsir Al-Qurthubiy 4/218.
-[^3]: Tafsir Ath-Thabariy 24/53, Tafsir Al-Baghawiy 8/281, Tafsir Al-Qurthubiy 19/95, Tafsir Ibnu Katsir 8/276, At-Tafsir Al-Ma’tsur 22/452
-[^4]: Tafsir Ibnu ‘Athiyyah 5/403.
+[^3]: Tafsir Ath-Thabariy 24/53, Tafsir Al-Baghawiy 8/281, Tafsir Al-Qurthubiy 19/95, Tafsir Ibnu Katsir 8/276, At-Tafsir Al-Ma'tsur 22/452
+[^4]: Tafsir Ibnu 'Athiyyah 5/403.
 
 ===== 5557 =====
 
@@ -25380,11 +25380,11 @@ Secara bahasa, ayat ini menerangkan bahwa kelak pada hari kiamat matahari dan bu
 
 [^1]: Lihat: Tafsir Ath-Thabariy 24/54 dan Al-Kassyaf Li Az-Zamakhsyari 4/660.
 [^2]: Tafsir Al-Qurthubiy 19/95
-[^3]: Tafsir Ibnu Katsir 8/277 dan Tafsir As-Sa’diy hal:899.
+[^3]: Tafsir Ibnu Katsir 8/277 dan Tafsir As-Sa'diy hal:899.
 [^4]: Tafsir Ath-Thabariy 24/56 dan Tafsir Al-Qurthubiy 19/96.
-[^5]: Tafsir As-Sa’diy hal:899.
+[^5]: Tafsir As-Sa'diy hal:899.
 [^6]: Tafsir Al-Lubab 19/553.
-[^7]: Ma’ani Al-Qur’an Li Al-Farra’ 3/209.
+[^7]: Ma'ani Al-Qur'an Li Al-Farra' 3/209.
 
 ===== 5559 =====
 
@@ -25517,11 +25517,11 @@ Semua anggota tubuh akan bersaksi pada hari kiamat kelak, sehingga tidak ada man
 
 Kalau di dunia seseorang melakukan salah, maka dia bisa memberi uzur di hadapan sang hakim. Terlebih lagi jika dia membawa seorang pengacara (pembela), maka bisa jadi kesalahan yang kita lakukan menjadi kebenaran. Akhirnya terkadang lawan kita yang mendapatkan hukuman. Akan tetapi itu hanya terjadi di dunia. Di akhirat seseorang tidak berbuat demikian, karena yang menjadi saksi yang menuntut diri kita adalah tangan, kaki, kulit, dan anggota tubuh yang lainnya. Bahkan bumi pun menjadi saksi, sementara hakimnya adalah Allah Subhanahu wa ta'ala. Meskipun manusia menyampaikan uzur-uzurnya, hal tersebut tidak bermanfaat di persidangan Allah Subhanahu wa ta'ala. [^8]
 
-[^1]: Majaz Al-Qur’an 2/277.
-[^2]: Ta’wil Musykil Al-Qur’an hal:122.
+[^1]: Majaz Al-Qur'an 2/277.
+[^2]: Ta'wil Musykil Al-Qur'an hal:122.
 [^3]: Tafsir Al-Baghawiy 8/283.
-[^4]: Lihat: Ma’aniy Al-Qur’an Li Al-Akhfasy 2/557.
-[^5]: Lihat: Ma’ani Al-Qur’an Li Al-Farra’ 3/211 dan Tafsir Al-Baghawiy 8/283.
+[^4]: Lihat: Ma'aniy Al-Qur'an Li Al-Akhfasy 2/557.
+[^5]: Lihat: Ma'ani Al-Qur'an Li Al-Farra' 3/211 dan Tafsir Al-Baghawiy 8/283.
 [^6]: At-Tahrir wa At-Tanwir 29/348.
 [^7]: Lihat: Tafsir Ath-Thabariy 24/64 dan Tafsir Al-Qurthubiy 19/101
 [^8]: Lihat: Tafsir Ath-Thabariy 24/65.
@@ -25550,7 +25550,7 @@ Dan Syaikh Abdurrahman bin Nashir As-Sa'di rahimahullah tatkala membawakan firma
 
 [^1]: HR. Bukhari no. 3 dan HR. Muslim no. 160
 [^2]: Tafsir Ath-Thabariy 24/65.
-[^3]: Tafsir As-Sa’di 1/899
+[^3]: Tafsir As-Sa'di 1/899
 
 ===== 5569 =====
 
@@ -25601,7 +25601,7 @@ Sebagaimana pada beberapa ayat sebelumnya dijelaskan bahwa pada hari kiamat oran
 
 Akan tetapi alasan-alasan mereka pun pada saat itu sudah tidak lagi bermanfaat. Maka pada ayat ini Allah Subhanahu wa ta'ala menjelaskan bahwa sebab mereka kufur dan bermaksiat adalah karena kecintaan mereka terhadap dunia serta tidak peduli dengan akhirat[^2]. Maka ayat ini menunjukkan bahwa Allah Subhanahu wa ta'ala memberikan bantahan terhadap alasan-alasan yang mereka sampaikan pada hari kiamat kelak.
 
-[^1]: At-Tahrir Wa At-Tanwir Li Ibn ‘Asyur 29/351.
+[^1]: At-Tahrir Wa At-Tanwir Li Ibn 'Asyur 29/351.
 [^2]: Lihat: Tafsir Al-Qurthubiy 19/107.
 
 ===== 5573 =====
@@ -25648,14 +25648,14 @@ Oleh karenanya ayat ini adalah dalil yang tegas sebagaimana dikatakan oleh Imam 
 [^2]: Tafsir Ibnu Katsir 4/262.
 [^3]: Tafsir Al-Qurthubiy 8/330.
 [^4]: HR. Muslim no. 181
-[^5]: HR. An-Nasa’i no. 1305
+[^5]: HR. An-Nasa'i no. 1305
 [^6]: Ad-Durr Al-Mantsur 8/350.
 [^7]: HR. Bukhari no. 7435
 [^8]: HR. Bukhari no. 554
 [^9]: Tafsir Al-Qurthubiy 19/110.
 [^10]: Tafsir Ath-Thabariy 24/72 dan Tafsir Ar-Raziy 30/731.
 [^11]: Lihat: Tafsir Al-Qurthubiy 14/351.
-[^12]: Tafsir Ar-Raziy 30/730 dan At-Tahrir Wa At-Tanwir Li Ibni ‘Asyur 29/355.
+[^12]: Tafsir Ar-Raziy 30/730 dan At-Tahrir Wa At-Tanwir Li Ibni 'Asyur 29/355.
 
 ===== 5574 =====
 
@@ -25676,7 +25676,7 @@ Jika wajah orang-orang beriman berseri-seri karena melihat wajah Allah Subhanahu
 Maka ketika telah diperlihatkan neraka terhadap orang-orang kafir, maka yakinlah mereka bahwa hari itu mereka akan binasa. [^3]
 
 [^1]: Tafsir Al-Baghawiy 8/285.
-[^2]: Tafsir Ath-Thabariy 24/74 dan At-Tahrir Wa At-Tanwir Li Ibni ‘Asyur 29/356.
+[^2]: Tafsir Ath-Thabariy 24/74 dan At-Tahrir Wa At-Tanwir Li Ibni 'Asyur 29/356.
 [^3]: Tafsir Al-Qurthubiy 13/8 dan Tafsir Ibnu Katsir 8/281.
 
 ===== 5577 =====
@@ -25733,9 +25733,9 @@ Dari sini para ulama menjadikan ini sebagai dalil bahwa firman Allah Subhanahu w
 [^2]: Tafsir Al-Baghawiy 8/286.
 [^3]: Tafsir Ar-Razi 30/734.
 [^4]: Tafsir Ath-Thabariy 24/77 dan Tafsir Ar-Razi 30/735.
-[^5]: At-Tahrir wa At-Tanwir Li Ibni ‘Asyur 29/360.
+[^5]: At-Tahrir wa At-Tanwir Li Ibni 'Asyur 29/360.
 [^6]: HR. Bukhari no. 6507
-[^7]: Lihat: At-Tahrir wa At-Tanwir Li Ibni ‘Asyur 29/360.
+[^7]: Lihat: At-Tahrir wa At-Tanwir Li Ibni 'Asyur 29/360.
 
 ===== 5579 =====
 
@@ -25834,14 +25834,14 @@ Manusia dalam ayat ini tidak menunjukkan satu orang, melainkan berlaku umum yait
 
 Intinya adalah ayat ini bisa merujuk kepada Nabi Adam 'alaihissalam dan bisa pula berlaku untuk seluruh manusia. Artinya adalah Allah Subhanahu wa ta'ala mengingatkan bahwasanya agar Nabi Adam 'alaihissalam atau manusia seluruhnya itu tahu diri serta tidak sombong dan angkuh. Dan juga agar manusia itu ingat bahwasanya ada yang menciptakan mereka yaitu Allah Subhanahu wa ta'ala.
 
-[^1]: Untuk mengetahui apakah istifham tersebut merupakan taqriri (penekanan) ataukah ingkari (pengingkaran) maka dengan cara menjawab pertanyaan tersebut. Jika jawabannya adalah “iya” maka itu merupakan istifham taqriri, dan jika jawabannya adalah “tidak” maka itu adalah istifham ingkari. Jika kita mem
+[^1]: Untuk mengetahui apakah istifham tersebut merupakan taqriri (penekanan) ataukah ingkari (pengingkaran) maka dengan cara menjawab pertanyaan tersebut. Jika jawabannya adalah "iya" maka itu merupakan istifham taqriri, dan jika jawabannya adalah "tidak" maka itu adalah istifham ingkari. Jika kita mem
 	perhatikan ayat 1 dari surah al-Insan yaitu
 	هَلْ أَتَى عَلَى الْإِنْسَانِ حِينٌ مِنَ الدَّهْرِ لَمْ يَكُنْ شَيْئًا مَذْكُورًا
-	“Bukankah pernah datang kepada manusia waktu dari masa, yang ketika itu belum merupakan sesuatu yang dapat disebut?” (QS. Al-Insan : 1)
-	Tentu jawaban yang tepat adalah “iya”. Maka diketahui bahwa istifham pada ayat tersebut adalah untuk taqriri.
+	"Bukankah pernah datang kepada manusia waktu dari masa, yang ketika itu belum merupakan sesuatu yang dapat disebut?" (QS. Al-Insan : 1)
+	Tentu jawaban yang tepat adalah "iya". Maka diketahui bahwa istifham pada ayat tersebut adalah untuk taqriri.
 [^2]: Dan ini adalah pendapat yang dipilih oleh al-Imam al-Bukhari, beliau berkata :
 	سُورَةُ هَلْ أَتَى عَلَى الإِنْسَانِ يُقَالُ: مَعْنَاهُ أَتَى عَلَى الإِنْسَانِ، وَهَلْ تَكُونُ جَحْدًا، وَتَكُونُ خَبَرًا، وَهَذَا مِنَ الخَبَرِ
-	“Surah “Hal ataa álaal insaan (Bukankah pernah datang kepada manusia)” dikatakan maknanya adalah “Telah datang kepada manusia”. Dan هَلْ “Hal” bisa untuk mengingkari dan bisa untuk mengkabarkan, dan “Hal” disini untuk mengabarkan (menekankan)” (Shahih al-Bukhari 6/164). Lihat juga penjelasan Ibnu Hajar (Fathul Baari 8/684)
+	"Surah "Hal ataa álaal insaan (Bukankah pernah datang kepada manusia)" dikatakan maknanya adalah "Telah datang kepada manusia". Dan هَلْ "Hal" bisa untuk mengingkari dan bisa untuk mengkabarkan, dan "Hal" disini untuk mengabarkan (menekankan)" (Shahih al-Bukhari 6/164). Lihat juga penjelasan Ibnu Hajar (Fathul Baari 8/684)
 [^3]: Tafsir Al-Qurthuby 19/119.
 [^4]: HR. Muslim no. 2996
 [^5]: Tingkatakan ketiadaan ada dua: Pertama adalah belum ada namun telah disebut-sebut, contohnya adalah seseorang yang berencana melakukan sesuatu di tahun depan lantas kemudian menyebut-nyebut rencana tersebut; Kedua adalah belum ada dan tidak disebut sama sekali, contohnya adalah salah seorang di zaman ini belum ada 1000 tahun yang lalu dan tidak pula disebut-sebut.
@@ -25980,7 +25980,7 @@ Kemudian para salaf menyebutkan bahwasanya makna kata يُفَجِّرُونَه
 
 Tatkala kita membaca tentang kenikmatan yang luar biasa yang Allah Subhanahu wa ta'ala berikan kepada orang-orang yang Al-Abrar, maka kita akan bertanya-tanya bagaimana cara kita bisa mendapatkan kenikmatan tersebut. Maka Allah Subhanahu wa ta'ala pun memberikan jawaban dengan menyebutkan tentang sifat orang-orang Al-Abrar (saleh) yang berhak mendapatkan nikmat-nikmat tersebut.
 
-[^1]: Lihat Al-I’jaaz Al-Bayani fil Udul An-nahwi karya Dr. Abdullah Al-Harory hal.147.
+[^1]: Lihat Al-I'jaaz Al-Bayani fil Udul An-nahwi karya Dr. Abdullah Al-Harory hal.147.
 [^2]: Lihat Tafsir Al-Qurthuby 19/126
 
 ===== 5598 =====
@@ -26283,7 +26283,7 @@ Kalau dalam bahasa kita, maka زَنْجَبِيلًا adalah jahe. Akan tetapi 
 Artinya adalah Allah Subhanahu wa ta'ala memberikan minuman kepada penduduk surga dengan minuman yang beragam, yaitu ada yang bercampur dengan dingin dan ada pula yang bercampur dengan kehangatan.
 
 [^1]: Lihat Tafsir Al-Qurthuby 18/270.
-[^2]: HR. Ath-Thabrani no. 919 dalam Mu’jam Al-Ausath
+[^2]: HR. Ath-Thabrani no. 919 dalam Mu'jam Al-Ausath
 [^3]: Tafsir Ath-Thabari 1/392
 [^4]: Tafsir Ibnu Katsir 8/291-292
 
@@ -26345,7 +26345,7 @@ Tafsiran kedua, وَمُلْكًا كَبِيرًا maksudnya adalah seorang pen
 
 [^1]: Lihat Tafsir Ibnu Katsir 8/292.
 [^2]: HR. Bukhari no. 6571
-[^3]: Lihat tafsir As-Sam’aany 6/120.
+[^3]: Lihat tafsir As-Sam'aany 6/120.
 
 ===== 5612 =====
 
@@ -26410,7 +26410,7 @@ Di dalam ayat ini, Allah Subhanahu wa ta'ala tidak menyebutkan agar Nabi Muhamma
 
 Ayat ini berkaitan dengan tawaran orang-orang musyrikin seperti 'Utbah bin Rabi'ah yang menawarkan kepada Nabi shallallahu 'alaihi wasallam anak perempuannya untuk dinikahi dengan syarat beliau berhenti berdakwah. Demikian pula Al-Walid Ibnul Mughirah yang menawarkan harta kepada Nabi shallallahu 'alaihi wasallam agar beliau tidak mencela tuhan-tuhan mereka[^1]. Dan orang-orang musyrikin memiliki permintaan yang banyak, di antaranya adalah meminta agar Alquran turun secara keseluruhan dan tidak berangsur-angsur, meminta agar Mekkah yang tandus dialiri sungai, dan permintaan yang lainnya. Maka Allah Subhanahu wa ta'ala mengingatkan Nabi shallallahu 'alaihi wasallam untuk tidak mengikuti semua permintaan mereka sama sekali.
 
-[^1]: Lihat Tafsir As-Sam’aany 6/122.
+[^1]: Lihat Tafsir As-Sam'aany 6/122.
 
 ===== 5616 =====
 
@@ -26461,7 +26461,7 @@ Artinya jika Allah Subhanahu wa ta'ala menghendaki untuk membuat yang semisal de
 Tafsiran kedua, Allah Subhanahu wa ta'ala menguasai mereka (orang-orang kafir), sehingga jika Allah Subhanahu wa ta'ala ingin membinasakannya dan menggantinya dengan makhluk yang lain, maka tentu Allah Subhanahu wa ta'ala mampu[^2].
 
 [^1]: Tafsir Ibnu Katsir 8/294
-[^2]: Lihat Tafsir As-Sam’aany 6/123.
+[^2]: Lihat Tafsir As-Sam'aany 6/123.
 
 ===== 5620 =====
 
@@ -26528,7 +26528,7 @@ Allah Subhanahu wa ta'ala bersumpah dalam enam ayat sebelumnya dengan tujuan pen
 Apa yang Allah Subhanahu wa ta'ala janjikan kepada orang-orang musyrikin Arab? Yaitu akan ada hari kiamat  [^10], akan ada tiupan sangkakala, akan ada hari di mana mereka akan dibangkitkan. Dan mereka akan dikumpulkan di padang mahsyar, kemudian mereka akan disidang oleh Allah Subhanahu wa ta'ala, dan mereka akan dimasukkan ke dalam neraka Jahannam. ini semua adalah janji yang pasti akan diberikan dari Allah Subhanahu wa ta'ala untuk orang-orang kafir.
 
 [^1]: Lihat: At-Tafsir Al-Kabir 30/765
-[^2]: Lihat: Ad-Durrul Mantsur Fit Tafsir bil Ma’tsur 8/382, dan dijelaskan ini adalah penafsiran Mujahid bin Jabir.
+[^2]: Lihat: Ad-Durrul Mantsur Fit Tafsir bil Ma'tsur 8/382, dan dijelaskan ini adalah penafsiran Mujahid bin Jabir.
 [^3]: Lihat: At-Tahrir wat Tanwir 29/420
 [^4]: Lihat: Tafsir Al-Qurthubi 19/154
 [^5]: Lihat: Tafsir Ath-Thobari 23/587
@@ -26627,8 +26627,8 @@ Pada hari tersebut Allah Subhanahu wa ta'ala turun untuk menyidang seluruh manus
 [^3]: Lihat: At-Tahrir wat Tanwir 29/425
 [^4]: Lihat: Tafsir Al-Qurthubi 19/157
 [^5]: Attahrir Wa Attanwir, 29/422
-[^6]: Tafsir Ruh Al Ma’ani, Al Alusi, 15/192.
-[^7]: Al-Mathalib Al-‘Aliyah no. 4539 18/492, Ibnu Hajar Al-‘Asqalani mengatakan sanad hadits ini Shahih Muttashil
+[^6]: Tafsir Ruh Al Ma'ani, Al Alusi, 15/192.
+[^7]: Al-Mathalib Al-'Aliyah no. 4539 18/492, Ibnu Hajar Al-'Asqalani mengatakan sanad hadits ini Shahih Muttashil
 [^8]: Lihat: Tafsir Attahrir Wa Attanwir, 29/426
 
 ===== 5635 =====
@@ -26645,7 +26645,7 @@ Adapun sebagian ulama mengatakan bahwa وَيْلٌ dalam ayat ini bermakna umum
 
 [^1]: Lihat: Tafsir Al-Qurthubi 19/158
 [^2]: Lihat: Fathul Qadir 5/431
-[^3]: Lihat: Tafsir As-Sa’di hal. 904
+[^3]: Lihat: Tafsir As-Sa'di hal. 904
 
 ===== 5638 =====
 
@@ -26675,7 +26675,7 @@ Pada ayat ini Allah Subhanahu wa ta'ala memberikan ancaman kepada orang-orang mu
 
 Sebagian ulama mengatakan bahwa rangkaian firman Allah ini memberikan makna tersirat bahwasanya mudah bagi Allah Subhanahu wa ta'ala untuk membangkitkan mereka kembali pada hari kiamat kelak. Karena Allah Subhanahu wa ta'ala yang menciptakan dan mematikan manusia, maka untuk menciptakan ulang adalah hal yang mudah dan bukanlah hal yang mustahil. Sebagaimana Allah mudah untuk menciptakan dan mematikan mereka, maka mudah bagi Allah Subhanahu wa ta'ala untuk melakukan tindakan berikutnya. Tatkala Allah Subhanahu wa ta'ala menyebutkan bahwa pernah menciptakan orang-orang terdahulu, kemudian mematikan mereka, maka ini berarti Allah yang berkuasa mengatur hidup dan matinya mereka. Sehingga secara logika Allah Subhanahu wa ta'ala bisa mengambil tindakan berikutnya yaitu membangkitkan mereka. Maka tersirat makna bahwa mengapa orang-orang musyrikin masih mendustakan hari kebangkitan?
 
-[^1]: Kisah Nabi Shaleh dan Nabi Hud ‘alaihimassalam diketahui oleh orang-orang musyrikin karena keduanya adalah Nabi dari Jazirah Arab, sehingga daerah yang berdekatan membuat mereka tahu kisah tersebut. Adapun kisah Fir’aun dan Nabi Nuh ‘alaihissalam merupakan kisah yang mahsyur di tengah-tengah mereka.
+[^1]: Kisah Nabi Shaleh dan Nabi Hud 'alaihimassalam diketahui oleh orang-orang musyrikin karena keduanya adalah Nabi dari Jazirah Arab, sehingga daerah yang berdekatan membuat mereka tahu kisah tersebut. Adapun kisah Fir'aun dan Nabi Nuh 'alaihissalam merupakan kisah yang mahsyur di tengah-tengah mereka.
 [^2]: Lihat: Fathul Qadir 5/432
 
 ===== 5642 =====
@@ -26815,7 +26815,7 @@ Sebagai pendekatan makna: seseorang yang sangat haus dan membutuhkan minum, dan 
 
 1. Allah azza wa jalla kumpulkan mereka pada satu naungan asap (Allah azza wa jalla sebut _zhill_ dengan _mufrod_/kata tunggal) sehingga bertambahlah adzab mereka karena mereka berdesak-desakkan di sana, dan rasa sakit itu akan bertambah dengan berdesak-desakannya mereka di sana. [^3]
 
-[^1]: Lihat: Tafsir As-Sa’dy hal. 904, dan beliau mengatakan bahwa bayangan ini adalah bayangan neraka Jahannam
+[^1]: Lihat: Tafsir As-Sa'dy hal. 904, dan beliau mengatakan bahwa bayangan ini adalah bayangan neraka Jahannam
 [^2]: Sebagaimana yang dikatakan oleh Qotadah (Lihat Tafsir At-Thobari 23/600)
 [^3]: Attahrir Wa Attanwir, 29/435
 
@@ -27520,7 +27520,7 @@ Lalu Nabi melanjutkan sabdanya :
 
 "Lalu Allah menurunkan air (hujan) dari langit, maka manusiapun tumbuh sebagaimana tumbuhnya sayur mayur (dari tanah). Dan tidak tersisa sesuatupun dari tubuh manusia kecuali akan sirna kecuali satu tulang, yaitu ujung tulang ekor. Dari tulang tersebutlah disusun makhluk pada hari kiamat" (HR Al-Bukhari no 4814 dan Muslim no 2955)[^1]
 
-[^1]: Sebagaimana proses penciptaan manusia (nabi Adam ‘alaihis salaam) dimulai dari tanah (تُرَابٌ) lalu bercampur dengan air maka menjadi (طِيْنٌ) lalu dibiarkan lama sehingga berubah yang disebut dengan (حَمَأ مَسْنُوْن) setelah itu kering menjadi semacam tembikar (صَلْصَالٌ) lalu setelah itu baru ditiupkan ruh. Maka proses awal dari tanah dan diakhiri dengan ditiupkannya ruh. Adapun proses meninggalnya manusia amaka adalah sebaliknya, dimulai dengan keluarnya ruuh hingga akhirnya kembali menjadi tanah. Akan tetapi tidak semua anggota tubuh manusia berubah menjadi tanah, masih ada yang tersisa yaitu ujung tulang ekor. Dari situlah Allah menyusun kembali manusia tatkala dibangkitkan kembali pada hari kiamat.
+[^1]: Sebagaimana proses penciptaan manusia (nabi Adam 'alaihis salaam) dimulai dari tanah (تُرَابٌ) lalu bercampur dengan air maka menjadi (طِيْنٌ) lalu dibiarkan lama sehingga berubah yang disebut dengan (حَمَأ مَسْنُوْن) setelah itu kering menjadi semacam tembikar (صَلْصَالٌ) lalu setelah itu baru ditiupkan ruh. Maka proses awal dari tanah dan diakhiri dengan ditiupkannya ruh. Adapun proses meninggalnya manusia amaka adalah sebaliknya, dimulai dengan keluarnya ruuh hingga akhirnya kembali menjadi tanah. Akan tetapi tidak semua anggota tubuh manusia berubah menjadi tanah, masih ada yang tersisa yaitu ujung tulang ekor. Dari situlah Allah menyusun kembali manusia tatkala dibangkitkan kembali pada hari kiamat.
 
 ===== 5720 =====
 
@@ -27558,7 +27558,7 @@ Karena sangat ketakutan sehingga rambut mereka menjadi putih karena melihat hari
 
 [^1]: Dan ini adalah salah satu tafsiran para salaf.
 	أَنَّهَا خَرَجَتْ مِنْ أَمَاكِنِهَا فَنَشَبَتْ بِالْحُلُوقِ
-	“Yaitu jantung-jantung tersebut keluar dari tempatnya lalu nempel naik di kerongkongan” (Tafsir At-Thobari 13/712)
+	"Yaitu jantung-jantung tersebut keluar dari tempatnya lalu nempel naik di kerongkongan" (Tafsir At-Thobari 13/712)
 
 ===== 5721 =====
 
@@ -27964,10 +27964,10 @@ Dalam kesempatan lain, tatkala ada sebagian orang muslim yang tidak ikut berpera
 
 Rasulullah shalallahu 'alaihiwassallam adalah manusia maksum yang terjaga dari dosa. Tetapi dalam beberapa situasi mungkin saja beliau keliru. Namun kekeliruan itu tidak akan dibiarkan dan pasti ditegur oleh Allah Subhanallahu Wata'ala. Terkadang Nabi shalallahu 'alaihiwassallam berijtihad dan ijtihadnya tersebut keliru, kemudian ditegur oleh Allah Subhanallahu Wata'ala. Namun lihatlah Allah Subhanallahu Wata'ala menegur beliau dengan cara yang lembut dengan menggunakan kata ganti ketiga, "dia bermuka masam dan dia berpaling" **.** Kita kalau marah dengan seseorang akan lebih sering menggunakan kata ganti kedua dengan langsung memarahinya. Dan kebanyakan dari kita jika marah maka kita akan mengamuk terlebih dahulu kemudian baru memaafkan. Tetapi tatkala Allah Subhanallahu Wata'ala menegur Nabi shalallahu 'alaihiwassallam, Allah Subhanallahu Wata'ala mendahuluinya dengan memaafkan. Allah Subhanallahu Wata'ala mengatakan, **"** _Allah memaafkanmu (Muhammad). Mengapa engkau memberi izin kepada mereka (untuk tidak pergi berperang)?_" Lihatlah bagaimana Allah Subhanallahu Wata'ala menggunakan _uslub_ yang sangat lembut ketika menegur Nabi shalallahu 'alaihiwassallam, karena Nabi shalallahu 'alaihiwassallam adalah _kholilul rahman_ (kekasih Allah Subhanallahu Wata'ala).
 
-[^1]: Adapun Ubay bin Kholaf maka Nabi shallallahu ‘alaihi wa sallam pernah bersabda,
+[^1]: Adapun Ubay bin Kholaf maka Nabi shallallahu 'alaihi wa sallam pernah bersabda,
 	مَنْ حَافَظَ عَلَيْهَا كَانَتْ لَهُ نُوراً وَبُرْهَاناً وَنَجَاةً يَوْمَ الْقِيَامَةِ وَمَنْ لَمْ يُحَافِظْ عَلَيْهَا لَمْ يَكُنْ لَهُ نُورٌ وَلاَ بُرْهَانٌ وَلاَ نَجَاةٌ وَكَانَ يَوْمَ الْقِيَامَةِ مَعَ قَارُونَ وَفِرْعَوْنَ وَهَامَانَ وَأُبَىِّ بْنِ خَلَفٍ
-	“Siapa yang menjaga shalat lima waktu, baginya cahaya, bukti dan keselamatan pada hari kiamat. Siapa yang tidak menjaganya, maka ia tidak mendapatkan cahaya, bukti, dan juga tidak mendapat keselamatan. Pada hari kiamat, ia akan bersama Qorun, Fir’aun, Haman, dan Ubay bin Khalaf.” (HR. Ahmad 2: 169. Syaikh Syu’aib Al Arnauth mengatakan bahwa sanad hadits ini hasan).
-	Terkait hadits ini maka para ulama menjelaskan mengapa empat orang gembong kekufuran ini disebutkan dalam hadits. Bahwasanya barangsiapa yang meninggalkan shalat karena singgasananya maka dia akan dikumpulkan bersama Fir’aun yang kafir kepada Allah Subhanallahu Wata’ala karena singgasananya. Barang siapa yang meninggalkan shalat karena kedudukan, pangkat, dan jabatannya maka dia akan dikumpulkan bersama haman panglimanya Fir’aun. Barang siapa yang meninggalkan shalat karena sibuk dengan hartanya yang begitu banyak maka dia akan dikumpulkan bersama Qorun, yang telah terlalaikan oleh banyaknya hartanya. Barang siapa yang meninggalkan shalat karena berdagang sehingga dia lalai maka dia akan dikumpulkan bersama Ubay Bin Khalaf, pedagang besar dari orang-orang Quraish
+	"Siapa yang menjaga shalat lima waktu, baginya cahaya, bukti dan keselamatan pada hari kiamat. Siapa yang tidak menjaganya, maka ia tidak mendapatkan cahaya, bukti, dan juga tidak mendapat keselamatan. Pada hari kiamat, ia akan bersama Qorun, Fir'aun, Haman, dan Ubay bin Khalaf." (HR. Ahmad 2: 169. Syaikh Syu'aib Al Arnauth mengatakan bahwa sanad hadits ini hasan).
+	Terkait hadits ini maka para ulama menjelaskan mengapa empat orang gembong kekufuran ini disebutkan dalam hadits. Bahwasanya barangsiapa yang meninggalkan shalat karena singgasananya maka dia akan dikumpulkan bersama Fir'aun yang kafir kepada Allah Subhanallahu Wata'ala karena singgasananya. Barang siapa yang meninggalkan shalat karena kedudukan, pangkat, dan jabatannya maka dia akan dikumpulkan bersama haman panglimanya Fir'aun. Barang siapa yang meninggalkan shalat karena sibuk dengan hartanya yang begitu banyak maka dia akan dikumpulkan bersama Qorun, yang telah terlalaikan oleh banyaknya hartanya. Barang siapa yang meninggalkan shalat karena berdagang sehingga dia lalai maka dia akan dikumpulkan bersama Ubay Bin Khalaf, pedagang besar dari orang-orang Quraish
 
 ===== 5761 =====
 
@@ -28041,8 +28041,8 @@ Apa yang dilakukan oleh Nabi ini adalah تَرْكُ الْأَوْلَى "menin
 
 [^1]: Lihat penjelasan Al-Qurthubi dalam tafsirnya 11/147 ketika mentafsirkan ayat 79 dari surat Maryam
 [^2]: Dan ini adalah pendapat mayoritas mufassirin diantaranya Ibnu Jarir At-Thobari dalam tafsirnya (24/107),
-[^3]: Dan ini pendapat yang dipilih oleh As-Sa’di dalam tafsirnya. Namun kedua pendapat ini tidak bertentangan karena jika memang teguran tersebut peringatan khusus untuk Nabi, toh menjadi pelajaran bagi umatnya secara umum.
-[^4]: Meskipun ada sebagian ulama yang berpendapat bahwa sikap Nabi tersebut adalah dosa kecil (lihat Tafsiir al-Qurthubi 19/215), karena para Nabi tidak makshum dari dosa-dosa kecil, namun pasti langsung ditegur oleh Allah, sebagaimana dalam kasus ini. Namun pendapat yang menyatakan bahwa sikap Nabi tersebut adalah sikap تَرْكُ الْأَوْلَى “meninggalkan yang lebih utama” itu lebih baik dan lebih hati-hati. Dan ini pendapat yang dipilih oleh Asy-Syaukani (Fathu Qodiir 5/463)
+[^3]: Dan ini pendapat yang dipilih oleh As-Sa'di dalam tafsirnya. Namun kedua pendapat ini tidak bertentangan karena jika memang teguran tersebut peringatan khusus untuk Nabi, toh menjadi pelajaran bagi umatnya secara umum.
+[^4]: Meskipun ada sebagian ulama yang berpendapat bahwa sikap Nabi tersebut adalah dosa kecil (lihat Tafsiir al-Qurthubi 19/215), karena para Nabi tidak makshum dari dosa-dosa kecil, namun pasti langsung ditegur oleh Allah, sebagaimana dalam kasus ini. Namun pendapat yang menyatakan bahwa sikap Nabi tersebut adalah sikap تَرْكُ الْأَوْلَى "meninggalkan yang lebih utama" itu lebih baik dan lebih hati-hati. Dan ini pendapat yang dipilih oleh Asy-Syaukani (Fathu Qodiir 5/463)
 
 ===== 5770 =====
 
@@ -28122,7 +28122,7 @@ Dalam bahasa arab terdapat istilah yang juga dikenal dengan kata sambung sebagai
 
 Kemudian kita perhatikan dalam surat ini berfirman, **مِنْ نُطْفَةٍ خَلَقَهُ فَقَدَّرَهُ** "dari setetes mani, Dia menciptakannya **lalu** menentukannya". Kata para ulama, apabila air mani sudah bersatu dengan sel telur wanita maka akan langsung terjadi proses dalam tubuh manusia tanpa mengalami penundaan waktu yang. Sehingga Allah Subhanallahu Wata'ala menggunakan huruf _fa[^1]._  Kemudian Allah Subhanallahu Wata'ala mengatakan, **ثُمَّ السَّبِيلَ يَسَّرَهُ** "kemudian jalannya Dia mudahkan" yaitu menjalani proses di perut ibunya baru kemudian dia lahir setelah dikandung selama 9 bulan. Sehingga Allah Subhanallahu Wata'ala menggunakan huruf **ثُمَّ** "kemudian".
 
-[^1]: Ini tentu bagi pendapat yang mengartikan “menentukan” artinya menentukan pembentukan tubuh sang janin atau dari proses air mani hingga menjadi tubuh yang sempurna -sebagaimana telah lalu-
+[^1]: Ini tentu bagi pendapat yang mengartikan "menentukan" artinya menentukan pembentukan tubuh sang janin atau dari proses air mani hingga menjadi tubuh yang sempurna -sebagaimana telah lalu-
 
 ===== 5779 =====
 
@@ -29064,7 +29064,7 @@ Adapun orang-orang beriman maka mereka merasa menunggu hanya dalam waktu yang si
 
 "Dikatakan kepada Rasulullah shallallahu 'alaihi wasallam : Suatu hari yang ukurannya 50 ribu tahun, sungguh betapa panjang hari tersebut?". Maka Rasulullah shallallahu 'alaihi wasallam berkata, "Demi Yang jiwaku berada di tanganNya, sungguh diringankan bagi seorang mukmin, hingga lebih ringan dari sholat fardu yang ia kerjakan di dunia" (HR Ahmad no 11717) [^1]
 
-[^1]: Namun hadits ini lemah karena dari periwayatan Ibnu Lahi’ah dari Darooj Abu As-Samh dari Abul Haitsam dari Abu Sa’id al-Khudri. Dan Ibnu Lahi’ah dan Darroj keduanya adalah perawi yang dho’if. Hadits ini didho’ifkan oleh Al-Albani (dalam Al-Misykaah no 5564 dan para pentahqiq Musnad Al-Imam Ahmad)
+[^1]: Namun hadits ini lemah karena dari periwayatan Ibnu Lahi'ah dari Darooj Abu As-Samh dari Abul Haitsam dari Abu Sa'id al-Khudri. Dan Ibnu Lahi'ah dan Darroj keduanya adalah perawi yang dho'if. Hadits ini didho'ifkan oleh Al-Albani (dalam Al-Misykaah no 5564 dan para pentahqiq Musnad Al-Imam Ahmad)
 
 ===== 5854 =====
 
@@ -29241,7 +29241,7 @@ Dan sebagian ulama berpendapat bahwa semua itu bisa benar. Karena diantara kaida
 
 Adapun Ibnul Qoyyim rahimahullah maka beliau berpendapat bahwa ayat ini khusus mengenai pandangan penghuni surga melihat wajah Allah. Karena pada ayat sebelumnya Allah menyebutkan orang-orang kafir yang terhalangi dari melihat wajah Allah maka sebaliknya para penghuni surga mendapatkan kemuliaan dengan memandang wajah Allah (lihat Ighootsatul Lahfaan hal 32)
 
-[^1]: Lihat Tahdziib Al-Lughoh 10/193 dan Taajul ‘Aruus 27/39
+[^1]: Lihat Tahdziib Al-Lughoh 10/193 dan Taajul 'Aruus 27/39
 
 ===== 5872 =====
 
@@ -29425,11 +29425,11 @@ Sehingga bumi yang baru -yaitu padang mahsyar- lebih luas dan cukup untuk menamp
 
 [^1]: Ini adalah salah satu dari dua pendapat di kalangan para ulama yaitu bahwa padang mahsyar adalah modifikasi dari bumi yang kita pijak sekarang, yang tadinya bulat dijadikan datar oleh Allah, setelah Allah mencabut gunung-gunung dan menghancurkannya. Dan ini juga didukung dengan firman Allah :
 	يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا
-	‘’pada hari itu bumi menceritakan beritanya’’ (QS Az-Zalzalah : 4)
+	''pada hari itu bumi menceritakan beritanya'' (QS Az-Zalzalah : 4)
 	Sebagian salaf menafsirkan ayat ini bahwa bumi akan mengabarkan tentang orang-orang yang pernah memijaknya baik orang-orang yang taat maupun para pelaku kemaksiatan (Lihat Tafsir At-Thobari 24/561)
-	Adapun pendapat kedua menyatakan bahwa bumi yang kita pijak ini akan hancur dan sirna. Padang mahsyar adalah benar-benar bumi yang baru dan bukan modifikasi dari bumi yang lama. Ibnu Mas’uud berkata :
+	Adapun pendapat kedua menyatakan bahwa bumi yang kita pijak ini akan hancur dan sirna. Padang mahsyar adalah benar-benar bumi yang baru dan bukan modifikasi dari bumi yang lama. Ibnu Mas'uud berkata :
 	أَرْضٌ بَيْضَاءُ كَأَنَّهَا فِضَّةٌ، لَمْ يُسْفَكْ فِيهَا دَمٌ حَرَامٌ، وَلَمْ يُعْمَلْ فِيهَا بِمَعْصِيَةٍ
-	‘’Bumi putih seperti perak, tidak pernah ditumpahkan di atasnya darah yang haram, dan tidak pernah dikerjakan di atasnya kemaksiatan’’ (Atsar riwayat At-Thobroni dalam al-Mu’jam al-Kabiir no 10323 dan At-Thobari dalam tafsirnya 13/730, dan dishahihkan oleh Ibnu Hajar dalam Fathul Baari 11/375)
+	''Bumi putih seperti perak, tidak pernah ditumpahkan di atasnya darah yang haram, dan tidak pernah dikerjakan di atasnya kemaksiatan'' (Atsar riwayat At-Thobroni dalam al-Mu'jam al-Kabiir no 10323 dan At-Thobari dalam tafsirnya 13/730, dan dishahihkan oleh Ibnu Hajar dalam Fathul Baari 11/375)
 	Atsar ini menunjukan bahwa padang mahsyar adalah bumi yang baru yang tidak pernah dilakukan kemaksiatan di atasnya sama sekali, berbeda dengan bumi yang lama.
 
 ===== 5888 =====
@@ -29567,8 +29567,8 @@ Para ulama menjelaskan bahwasanya malam mengumpulkan banyak perkara. Hewan-hewan
 Ini menunjukkan bahwasanya manusia tidak bisa berbuat seenaknya. Kita tidak mungkin muda dan gagah selamanya, walaupun kita menginginkannya. Karena setiap manusia akan berjalan diatas tingkatan-tingkatan. Dari kecil hingga dewasa, dari muda hingga tua. Dari sehat kemudian sakit, dari hidup kemudian meninggal dunia. Dari hapalannya kuat kemudian pelupa lalu pikun, semuanya sudah diatur oleh Allah. Oleh karena itu, hendaklah kita terpedaya dengan dunia ini. Seakan-akan Allah mengatakan tahapan-tahapan itu mempunyai akhir yaitu hari kiamat. Dan perubahan-perubahan kondisi yang dikabarkan oleh Allah hendaknya mengingatkan manusia akan tahapan terakhir dari kehidupan ini yaitu hari kiamat yang abadi.[^1]
 
 [^1]: Ini adalah salah satu pendapat para ulama tentang tafsir ayat ini. Ada pendapat-pendapat yang lain tentang tafsir ayat ini. Diantaranya
-	Ayat ini berkaitan dengan Nabi Muhammad shallallahu ‘alaihi wasallam, yaitu Allah berkata kepadanya, ‘’Wahai Muhammad engkau akan menjalani dan menaiki langit demi langit, derajat demi derajat’’
-Ayat ini berkaitan dengan langit, sehingga maknanya, ‘’Sungguh-sungguh langit-langit akan menjalani kondisi demi kondisi, dari pembelahan, hingga dilepaskan dari atas, lalu dilipat oleh Allah
+	Ayat ini berkaitan dengan Nabi Muhammad shallallahu 'alaihi wasallam, yaitu Allah berkata kepadanya, ''Wahai Muhammad engkau akan menjalani dan menaiki langit demi langit, derajat demi derajat''
+Ayat ini berkaitan dengan langit, sehingga maknanya, ''Sungguh-sungguh langit-langit akan menjalani kondisi demi kondisi, dari pembelahan, hingga dilepaskan dari atas, lalu dilipat oleh Allah
 Engkau wahai manusia akan menjalani kondisi-kondisi hari kiamat dari satu tahapan kepada tahapan berikutnya. Dari padang mahsyar, hisaz, mizan, shirot hingga surga atau neraka.
 	Menurut Al-Imam Al-Qurthubi semua pendapat di atas benar dan memang dimaksudkan oleh Allah. (Lihat Tafsir al-Qurthubi 19/278)
 
@@ -30673,7 +30673,7 @@ Intinya unta adalah hewan yang menakjubkan. Oleh karena itu, Allah menyuruh manu
 
 Yakni Nabi Muhammad tidak bisa memaksa mereka untuk beriman (lihat Tafsir At-Thobari 24/341) karena hidayah ada di tangan Allah. Tugas Nabi hanyalah menyampaikan[^1]
 
-[^1]: Namun para ulama menyebutkan bahwa ayat ini mansuukh dengan ayat-ayat yang memerintahkan untuk memerangi kaum musyrikin yang tidak mau beriman kepada Nabi shallallahu ‘alaihi wasallam (lihat Tafsir Al-Qurthubi 20/37)
+[^1]: Namun para ulama menyebutkan bahwa ayat ini mansuukh dengan ayat-ayat yang memerintahkan untuk memerangi kaum musyrikin yang tidak mau beriman kepada Nabi shallallahu 'alaihi wasallam (lihat Tafsir Al-Qurthubi 20/37)
 
 ===== 5989 =====
 
@@ -30948,7 +30948,7 @@ Dua ayat ini adalah gambaran pola pikir orang kafir, jika diberi rezeki mereka m
 
 Cara berpikir demikian adalah cara berpikir orang kafir, kemuliaan dan kehinaan berdasarkan harta. Sehingga mereka tidak memuliakan anak-anak yatim. Karena tujuan mereka adalah dunia dan dunia. Jika mereka bersedekah maka hartanya akan berkurang, jika hartanya berkurang maka kemuliaannya akan berkurang. Atau bahkan mereka karena tamaknya dengan dunia yang dianggap sebagai barometer kemuliaan sehingga mereka memakan harta anak yatim.[^1]
 
-[^1]: Ada dua pendapat ulama tentang makna “tidak memuliakan anak yatim”, yaitu (1) tidak berbuat baik kepada mereka dan (2) memakan harta mereka (lihat Tafsir As-Sam’aani 6/221)
+[^1]: Ada dua pendapat ulama tentang makna "tidak memuliakan anak yatim", yaitu (1) tidak berbuat baik kepada mereka dan (2) memakan harta mereka (lihat Tafsir As-Sam'aani 6/221)
 
 ===== 6011 =====
 
@@ -31116,7 +31116,7 @@ Diantara keistimewaan dari kota Mekah yang tidak dimiliki oleh kota-kota yang la
 
 Inilah salah satu kekhususan kota Mekah yang tidak terdapat pada kota-kota lainnya. Barangsiapa yang menginginkan, berkehendak, bertekad, atau berniat untuk melakukan keburukan di kota Mekah maka dia terancam dengan adzab yang pedih. Kata para ulama meskipun dia tatkala berniat buruk sedang sedang berada di Shan'a (di Yaman) dan belum di Mekah. Apalagi berniat buruknya tatkala di Mekah.
 
-[^1]: الحُرُوْفُ الزَّائِدَةُ Huruf-huruf tambahan dalam al-Qurán  bukanlah maksudnya sama saja jika tidak ada huruf tersebut tidak merubah arti, akan tetapi maksudnya “tambahan”dari sisi i’roob, bahwasanya huruf-huruf secara i’roob tidak memiliki kedudukan. Akan tetapi secara makna tentu ada tambahan makna yaitu untuk menekankan, sebagaimana dalam ayat ini dan ayat-ayat yang lainnya. Diantara fungsi huruf-huruf tambahan ini juga adalha untuk memperindah susunan kata-kata. (lihat Al-Burhaan fi Úluumil Quráan, Az-Zarkasyi 3/72, Sirrul Fashoohah, Al-Khofaaji hal 156, Tafsiir al-Kasyyaaf, Az-Zmakhsyari 1/431)
+[^1]: الحُرُوْفُ الزَّائِدَةُ Huruf-huruf tambahan dalam al-Qurán  bukanlah maksudnya sama saja jika tidak ada huruf tersebut tidak merubah arti, akan tetapi maksudnya "tambahan"dari sisi i'roob, bahwasanya huruf-huruf secara i'roob tidak memiliki kedudukan. Akan tetapi secara makna tentu ada tambahan makna yaitu untuk menekankan, sebagaimana dalam ayat ini dan ayat-ayat yang lainnya. Diantara fungsi huruf-huruf tambahan ini juga adalha untuk memperindah susunan kata-kata. (lihat Al-Burhaan fi Úluumil Quráan, Az-Zarkasyi 3/72, Sirrul Fashoohah, Al-Khofaaji hal 156, Tafsiir al-Kasyyaaf, Az-Zmakhsyari 1/431)
 
 ===== 6025 =====
 
@@ -31694,7 +31694,7 @@ Ibnul Qoyyim rahimahullah berkata :
 
 Demikianlah keadaan orang bakhil, ketika dia akan mengeluarkan uang maka dia akan benar-benar mempertimbangkannya, menunjukkan pelitnya yang luar biasa. Sehingga ia tidak jadi mengeluarkan uangnya, tetapi kalau jadi terpaksa bersedakah maka dia akan merasa sedih dan menyesal karena uangnya berkurang. Sehingga dadanya semakin sempit, dan jauh dari kebahagiaan.
 
-[^1]: Dalam riwayat yang lain جُنَّتَانِ “dua baju perang” yang tentu terbuat dari besi
+[^1]: Dalam riwayat yang lain جُنَّتَانِ "dua baju perang" yang tentu terbuat dari besi
 
 ===== 6068 =====
 
@@ -32204,7 +32204,7 @@ Ini semua menekankan bahwasanya apabila seseorang menghadapi kesulitan lalu dia 
 
 Dan ketahuilah bahwasanya jalan keluar itu dekat, seakan-akan dia datang bersama kesulitan yang baru saja dihadapi. Yang terpenting adalah senantiasa perbaiki hati, perbaiki husnudzhon kepada Allah, perbaiki ibadah kepada Allah, perbaiki tawakkal dan takwa kepada Allah. Dan kesulitan dalam ayat ini mencakup seluruh bentuk kesulitan, karena lafal الْعُسْرِ diawali dengan "alif laam" yang menunjukan al-istghrooq (memberikan faidah keumuman) mencakup seluruh kesulitan dan juga menunjukan betapapun berat dan besar kesulitan tersebut, maka ujungnya adalah kemudahan (lihat Tafsir As-Sa'di hal 929)
 
-[^1]: Diriwayatkan lafal ini juga dari Nabi shallallahu ‘alaihi wasallam, akan tetapi sanadnya lemah, dilemahkan oleh Ibnu Katsir dalam tafsirnya (8/417) dan Al-Albani (Lihat Ad-Do’iifah 3/594)
+[^1]: Diriwayatkan lafal ini juga dari Nabi shallallahu 'alaihi wasallam, akan tetapi sanadnya lemah, dilemahkan oleh Ibnu Katsir dalam tafsirnya (8/417) dan Al-Albani (Lihat Ad-Do'iifah 3/594)
 
 ===== 6096 =====
 
@@ -32649,8 +32649,8 @@ Intinya Allah menggunakan ungkapan "Kami" pada ayat ini tidak lantas melazimkan 
 
 Lagi pula pertanyaan kaum Nashrani tersebut menunjukan bahwa mereka mengakui -secara tidak langsung- bahwa tuhan yang mereka sembah itu ganda dan tidak esa.
 
-[^1]: Tafsir Ibnu Katsir 8/441, dan atsar dari Ibnu ‘Abbas ini diriwayatkan oleh At-Thobroni di al-Mu’jam al-Kabir no 12382 Al-Hakim no 2881 dan dishahihkan oleh Al-Hakim dan disepakati oleh Adz-Dzahabi, Al-Baihaqi dalam Al-Asmaa wa as-Sifaat no 496, Ibnu Abi Syaibah dalam Al-Mushonnaf no 30190, dan sanadnya  dishahihkan oleh Al-Albani dalam Mausuu’ah Al-Albani fi al-‘Aqidah 1/310 dan 5/792
-[^2]: Tafsir At-Thobari 24/543 dan Al-Muharror al-Wajiiz, Ibnu ‘Athiyyah 5/504, dan sepertinya Ibnu ‘Athiyyah condong kepada pendapat ini dalam tafsirnya dan juga al-Qurthubi dalam tafsirnya 20/129-130, dan inilah pendapat yang dipilih oleh Ibin ‘Aasyuur dalam At-Tahriir wa At-Tanwiir 30/456-457, As-Sa’di dalam tafsirnya hal 931, As-Syaikh Ibnu al-‘Utsaimin dalam tafsir Juz ‘Amma hal 269
+[^1]: Tafsir Ibnu Katsir 8/441, dan atsar dari Ibnu 'Abbas ini diriwayatkan oleh At-Thobroni di al-Mu'jam al-Kabir no 12382 Al-Hakim no 2881 dan dishahihkan oleh Al-Hakim dan disepakati oleh Adz-Dzahabi, Al-Baihaqi dalam Al-Asmaa wa as-Sifaat no 496, Ibnu Abi Syaibah dalam Al-Mushonnaf no 30190, dan sanadnya  dishahihkan oleh Al-Albani dalam Mausuu'ah Al-Albani fi al-'Aqidah 1/310 dan 5/792
+[^2]: Tafsir At-Thobari 24/543 dan Al-Muharror al-Wajiiz, Ibnu 'Athiyyah 5/504, dan sepertinya Ibnu 'Athiyyah condong kepada pendapat ini dalam tafsirnya dan juga al-Qurthubi dalam tafsirnya 20/129-130, dan inilah pendapat yang dipilih oleh Ibin 'Aasyuur dalam At-Tahriir wa At-Tanwiir 30/456-457, As-Sa'di dalam tafsirnya hal 931, As-Syaikh Ibnu al-'Utsaimin dalam tafsir Juz 'Amma hal 269
 
 ===== 6127 =====
 
@@ -33124,7 +33124,7 @@ Manusia akan kaget melihat perubahan yang terjadi pada bumi. Sebagaimana yang te
 
 "(Sehingga) kamu tidak akan melihat lagi ada tempat yang rendah dan yang tinggi disana." (QS Thaha : 107)
 
-[^1]: HR Ahmad no 1842, Ibnu Hibbaan no 6213, Al-Hakim no 3250, dan dishahihkan oleh Al-Albani di Shahih al-Jaami’ no 5374
+[^1]: HR Ahmad no 1842, Ibnu Hibbaan no 6213, Al-Hakim no 3250, dan dishahihkan oleh Al-Albani di Shahih al-Jaami' no 5374
 
 ===== 6142 =====
 

@@ -416,7 +416,7 @@ Dari kisah Nabi Yusuf ini, Nabi Muhammad banyak mengambil pelajaran dan merupaka
 
 3. **Kisah-kisah:**
 
-	Kisah Nabi Yusuf bersaudara dan orang tua mereka, Nabi Ya‘qub.
+	Kisah Nabi Yusuf bersaudara dan orang tua mereka, Nabi Ya'qub.
 
 4. **Lain-lain:**
 
@@ -1108,7 +1108,7 @@ Surat As-Sajdah terdiri dari 30 ayat, termasuk golongan surat Makkiyyah, dan dit
 
 3. **Lain-lain:**
 
-	Keterangan mengenai kejadian manusia di dalam rahim dan fase-fase yang dilaluinya sampai ia menjadi manusia; penjelasan keadaan orang-orang mukmin di dunia dan nikmat serta pahala yang disediakan Allah bagi mereka di akhirat; kehinaan yang menimpa orang-orang kafir di akhirat dan mereka meminta supaya dikembalikan saja ke dunia untuk bertaubat dan berbuat kebaikan, tetapi keinginan ini ditolak; keingkaran kaum musyrikin terhadap hari kebangkitan dan mereka menganggap bahwa hal itu adalah mustahil. (1) Lihat catatan kaki ayat 206 surat Al A‘raf.
+	Keterangan mengenai kejadian manusia di dalam rahim dan fase-fase yang dilaluinya sampai ia menjadi manusia; penjelasan keadaan orang-orang mukmin di dunia dan nikmat serta pahala yang disediakan Allah bagi mereka di akhirat; kehinaan yang menimpa orang-orang kafir di akhirat dan mereka meminta supaya dikembalikan saja ke dunia untuk bertaubat dan berbuat kebaikan, tetapi keinginan ini ditolak; keingkaran kaum musyrikin terhadap hari kebangkitan dan mereka menganggap bahwa hal itu adalah mustahil. (1) Lihat catatan kaki ayat 206 surat Al A'raf.
 
 Surat As-Sajdah mengemukakan hal-hal yang berhubungan dengan kebenaran Nabi Muhammad sebagai Rasul Allah dan Al-Qur'an yang diturunkan kepadanya merupakan petunjuk bagi manusia. Juga menegaskan tentang ketauhidan dan kekuasaan Allah dengan mengemukakan hal-hal yang berhubungan dengan masa terciptanya alam, proses kejadian manusia dan kebangkitan pada hari kiamat serta keajaiban yang terdapat pada alam semesta. Semuanya dikemukakan sebagai bantahan terhadap dalih-dalih yang dikemukakan oleh orang-orang musyrikin dan untuk menghilangkan keragu-raguan mereka.
 
